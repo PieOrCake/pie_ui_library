@@ -1,0 +1,36 @@
+# Writes library/counts.json (bundle download counts) for Pie UI's bundle library.
+name: Download counts
+
+on:
+  schedule:
+    - cron: "17 4 * * *"   # daily
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: counts
+  cancel-in-progress: false
+
+jobs:
+  counts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Count downloads
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 tools/counts.py
+      - name: Commit counts
+        run: |
+          if [ -n "$(git status --porcelain library/counts.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+            git add library/counts.json
+            git commit -m "library: download counts"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
