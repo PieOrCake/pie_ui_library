@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-10-29T07:43:34Z",
+  "generated": "2026-10-29T10:50:04Z",
   "bundles": [
     {
       "slug": "babys-first-bundle",
@@ -83,6 +83,13 @@
           "name": "theme.json",
           "size": 1194,
           "sha256": "b3d48e7d9676b175ee20ba502f6aef6189f78e6a2f85db6d7dbe7ab5816cdb7b"
+        }
+      ],
+      "screenshots": [
+        {
+          "name": "1.jpg",
+          "size": 61936,
+          "sha256": "084bfaaa3151fc8b4cf065c512c79e63c99c63a3a8e37fa98789e330f592f3b2"
         }
       ]
     },
