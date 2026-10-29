@@ -20,17 +20,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Count downloads
+      # Counts come from the API, so a run that loses a push race simply starts again from GitHub's
+      # latest copy and recounts: never a merge (two runs at once used to conflict on counts.json).
+      - name: Count downloads and commit
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 tools/counts.py
-      - name: Commit counts
         run: |
-          if [ -n "$(git status --porcelain library/counts.json)" ]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            git fetch -q origin main
+            git reset -q --hard origin/main
+            python3 tools/counts.py
+            if [ -z "$(git status --porcelain library/counts.json)" ]; then exit 0; fi
             git add library/counts.json
-            git commit -m "library: download counts"
-            git pull --rebase origin main
-            git push origin HEAD:main
-          fi
+            git commit -q -m "library: download counts"
+            if git push -q origin HEAD:main; then exit 0; fi
+            sleep $((attempt * 5))
+          done
+          exit 1
