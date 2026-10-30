@@ -1,0 +1,274 @@
+[
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "arc_track.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "health.arc.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "arc_facet.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "health.arc.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "arc_glow.png",
+    "fit": "stretch",
+    "opacity": 0.5,
+    "part": "health.arc.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "arc_track.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "endurance.arc.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "arc_facet.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "endurance.arc.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "arc_glow.png",
+    "fit": "stretch",
+    "opacity": 0.5,
+    "part": "endurance.arc.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "arc_track.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "barrier.arc.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "arc_facet.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "barrier.arc.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "arc_glow.png",
+    "fit": "stretch",
+    "opacity": 0.5,
+    "part": "barrier.arc.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "arc_track.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "pet.arc.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "arc_facet.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "pet.arc.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "arc_glow.png",
+    "fit": "stretch",
+    "opacity": 0.5,
+    "part": "pet.arc.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "arc_track.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "stamina.arc.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "arc_facet.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "stamina.arc.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "arc_glow.png",
+    "fit": "stretch",
+    "opacity": 0.5,
+    "part": "stamina.arc.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "arc_track.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "cast.arc.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "arc_facet.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "cast.arc.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "arc_glow.png",
+    "fit": "stretch",
+    "opacity": 0.6499999761581421,
+    "part": "cast.arc.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "arc_track.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.health_arc.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "arc_facet.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.health_arc.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "arc_glow.png",
+    "fit": "stretch",
+    "opacity": 0.30000001192092896,
+    "part": "target.health_arc.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "arc_track.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.defiance_arc.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "arc_facet.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.defiance_arc.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "arc_glow.png",
+    "fit": "stretch",
+    "opacity": 0.30000001192092896,
+    "part": "target.defiance_arc.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "fill_smooth.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "squad.row.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "overlay_gloss.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "squad.row.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "overlay_gloss.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "hotbar.slot.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "divider_crosshair.png",
+    "fit": "fit",
+    "opacity": 1.0,
+    "part": "guide.section.divider",
+    "slice": 8.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "chat.panel.colour",
+    "tint": [
+      0.0,
+      0.0,
+      0.0,
+      0.5
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "NornGirlBikini.png",
+    "fit": "stretch",
+    "opacity": 0.17000000178813934,
+    "part": "chat.panel.background",
+    "slice": 8.0
+  }
+]
