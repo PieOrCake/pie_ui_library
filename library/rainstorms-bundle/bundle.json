@@ -1,0 +1,9 @@
+{
+  "author": "rainstorm",
+  "description": "simple and clean UI",
+  "format": 1,
+  "name": "rainstorm's Bundle",
+  "requires": "1.0.0.1",
+  "theme": "Divinity's Reach",
+  "version": 1
+}

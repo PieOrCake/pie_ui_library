@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-10-30T10:19:39Z",
+  "generated": "2026-10-31T21:56:38Z",
   "bundles": [
     {
       "slug": "format-1-sample",
@@ -149,6 +149,82 @@
           "name": "3.jpg",
           "size": 38600,
           "sha256": "d4172a0f07655d54eb83908b5f3becaa8a4f25059d8fe484a54f0a38794663be"
+        }
+      ]
+    },
+    {
+      "slug": "rainstorms-bundle",
+      "name": "rainstorm's Bundle",
+      "author": "rainstorm",
+      "description": "simple and clean UI",
+      "version": 1,
+      "requires": "1.0.0.1",
+      "preview": "",
+      "kind": "bundle",
+      "size": 2513311,
+      "updated": "2026-11-01",
+      "zip": {
+        "tag": "rainstorms-bundle-v1",
+        "size": 2514147,
+        "sha256": "88c826c8c12fbdabe153f7c7702ff261136c43feca682adeda83e6f38e4c7c37"
+      },
+      "files": [
+        {
+          "name": "bundle.json",
+          "size": 186,
+          "sha256": "56641b14b67cd55fbf4b7c7cd7a2738a5cd050560d2c20ae9381635d3b682d7a"
+        },
+        {
+          "name": "green-texture.jpg",
+          "size": 345176,
+          "sha256": "ec10d8609c0d7c113111ea44a24621dcbaf5e701abf0dfcfea6e0ccafb2d374c"
+        },
+        {
+          "name": "layout.json",
+          "size": 15093,
+          "sha256": "1f6e16ad0b9901962c66409ab33c4ccb82181a6d5bda41bd60ceb756721ea2a5"
+        },
+        {
+          "name": "preview-1.png",
+          "size": 1847508,
+          "sha256": "0dab0c533a474f483f7e64c7e0cb2bd864cc673f85e480298ad4cd81de2a8baf"
+        },
+        {
+          "name": "preview-2.png",
+          "size": 26806,
+          "sha256": "6a5e80307048cbb0974ea857324fbce46a0b7e43c2861048e2c09c3b10460bc3"
+        },
+        {
+          "name": "preview-3.png",
+          "size": 174005,
+          "sha256": "26d4e007f2b9ef6752bb69be138d49f284ebe327b7ab6eb8d57821141b182842"
+        },
+        {
+          "name": "red-texture.jpg",
+          "size": 103824,
+          "sha256": "d594180e07c197f011e957b69eed5eb9849bcf224672f8ed905b4551d7648983"
+        },
+        {
+          "name": "skins.json",
+          "size": 713,
+          "sha256": "7eb23a3c08b3d28d3c5b5e9a0dddf781d30b806cdbe5670d6a211e88a4460e5f"
+        }
+      ],
+      "screenshots": [
+        {
+          "name": "1.jpg",
+          "size": 139499,
+          "sha256": "daea5c9c3a29286acd4b64c9f2e52aeec7153a2f89c86287133a24c4afcbc223"
+        },
+        {
+          "name": "2.jpg",
+          "size": 10604,
+          "sha256": "fafc9ccf3ea38310bb4fc8fe790d423bf9643b44fd3f5f9c83a2aee564c31807"
+        },
+        {
+          "name": "3.jpg",
+          "size": 29654,
+          "sha256": "deb334a0656391327b82e879a018a6918bd22572d38248ff102c328508190750"
         }
       ]
     }

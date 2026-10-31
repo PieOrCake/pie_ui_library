@@ -1,0 +1,40 @@
+[
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "red-texture.jpg",
+    "fit": "border",
+    "opacity": 0.6800000071525574,
+    "part": "health.orb.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "green-texture.jpg",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "health.orb.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "red-texture.jpg",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.health.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "guide.panel.colour",
+    "tint": [
+      0.0,
+      0.0,
+      0.0,
+      0.5
+    ]
+  }
+]
