@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-11-07T05:53:22Z",
+  "generated": "2026-11-07T05:55:40Z",
   "bundles": [
     {
       "slug": "format-1-sample",
@@ -132,23 +132,23 @@
       "screenshots": [
         {
           "name": "1.jpg",
+          "size": 67711,
+          "sha256": "9412ba39fa9c8f566f2ea8e7f8a16f791eda1c0006d4b3b8980f8011c336983b"
+        },
+        {
+          "name": "2.jpg",
           "size": 52436,
           "sha256": "4983a43489944f34108d135a158566bda45fa85931070a5e7a3e8fb950660445"
         },
         {
-          "name": "2.jpg",
+          "name": "3.jpg",
           "size": 37322,
           "sha256": "165a9407758f94d15a16a287bd4c6d3a477b18d64c702f6e8aa05e2ceed2b11d"
         },
         {
-          "name": "3.jpg",
+          "name": "4.jpg",
           "size": 47662,
           "sha256": "b7c7b8749ed25a760c7740d660ef876440fd1071395bf9f6d4fa56e389bccc5b"
-        },
-        {
-          "name": "4.jpg",
-          "size": 67711,
-          "sha256": "9412ba39fa9c8f566f2ea8e7f8a16f791eda1c0006d4b3b8980f8011c336983b"
         }
       ]
     },
