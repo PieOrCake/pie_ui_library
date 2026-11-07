@@ -1,0 +1,77 @@
+[
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "orb_ball.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "health.orb.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "orb_ball.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "endurance.orb.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "fill_brushed_tile.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.health.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "fill_segments_tile.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.defiance.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "custom",
+    "empties": "reveal",
+    "file": "fill_brushed_tile.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "squad.row.fill",
+    "slice": 8.0,
+    "tint": [
+      0.44802868366241455,
+      0.024087566882371902,
+      0.024087566882371902,
+      1.0
+    ]
+  },
+  {
+    "colour": "custom",
+    "empties": "reveal",
+    "file": "divider_crosshair.png",
+    "fit": "fill",
+    "opacity": 1.0,
+    "part": "guide.section.divider",
+    "slice": 8.0,
+    "tint": [
+      1.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "headstones.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "defeated.panel.background",
+    "slice": 8.0
+  }
+]

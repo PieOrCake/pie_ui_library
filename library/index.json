@@ -1,7 +1,98 @@
 {
   "format": 1,
-  "generated": "2026-11-07T05:55:40Z",
+  "generated": "2026-11-07T07:52:29Z",
   "bundles": [
+    {
+      "slug": "devils-orbs",
+      "name": "Devil's Orbs",
+      "author": "PieOrCake.7635",
+      "description": "Kind of like one of those grindy hack'n'slash games.",
+      "version": 1,
+      "requires": "1.0.0.2",
+      "preview": "",
+      "kind": "bundle",
+      "size": 3881449,
+      "updated": "2026-11-07",
+      "zip": {
+        "tag": "devils-orbs-v1",
+        "size": 3882757,
+        "sha256": "e928530ce63658c85e2afdefc45af5489be28c445f9b0cbdcd9632d07a85a849"
+      },
+      "files": [
+        {
+          "name": "bundle.json",
+          "size": 213,
+          "sha256": "de08f77573a292a356d9683b41343e69c91b30a49cae2d684694c7eb08677229"
+        },
+        {
+          "name": "devils_hotbar.png",
+          "size": 158625,
+          "sha256": "b7ac521e6465fa69aaf89d7c64763cdc94bdf8bd76e86a8c5f4bd95f78679ae0"
+        },
+        {
+          "name": "divider_crosshair.png",
+          "size": 547,
+          "sha256": "9cacbb3b582bbb93baeb2b7e25c2d0af05e0dfca0ad0a6e006a0cd1a8a7f2951"
+        },
+        {
+          "name": "dragon_left.png",
+          "size": 939516,
+          "sha256": "d5671a1640bb741a70c505a4470790c66b8525e0807d0561b2dc34840fe94c6d"
+        },
+        {
+          "name": "dragon_right.png",
+          "size": 1530223,
+          "sha256": "718b1db9d44477b9b23822688186075ecca580a91589f4fee98a348aa4551e62"
+        },
+        {
+          "name": "fill_brushed_tile.png",
+          "size": 3437,
+          "sha256": "3d7f40ace7d6922cdfdf8e1669366ac7aa614e56436d5ad288dcb88d0d641daa"
+        },
+        {
+          "name": "fill_segments_tile.png",
+          "size": 180,
+          "sha256": "7f43438be1a14757e1c682b0682d0043861ae0861e532868fcc50ea5a8480026"
+        },
+        {
+          "name": "gothic_circle.png",
+          "size": 992353,
+          "sha256": "31416aa4abc25bc35c88d7b353b6810919a1f0bfb6ceee160df41599c82a37f6"
+        },
+        {
+          "name": "headstones.png",
+          "size": 168957,
+          "sha256": "008b187568221837c28a1c20ddcaeaa5401da5e0013869937d16f6ccbac45df4"
+        },
+        {
+          "name": "layout.json",
+          "size": 20142,
+          "sha256": "3554f1b9616bdd75510854be1aa477102bac2b04f7e90711b27c0cae8ea2f6ce"
+        },
+        {
+          "name": "orb_ball.png",
+          "size": 65789,
+          "sha256": "d7e9648305c408b1836075b7f52e10f8d0e8b5d10410795727233e0fa0eb37ad"
+        },
+        {
+          "name": "skins.json",
+          "size": 1467,
+          "sha256": "a15a874c9ec7c83d8cfe01630c9b37d822590662b6e6f914bdda4bf3f68d9599"
+        }
+      ],
+      "screenshots": [
+        {
+          "name": "1.jpg",
+          "size": 43741,
+          "sha256": "8809c13368ed24d9e6a3080e37f8f7f415940f218be7cf32ee9db83e0f056a1e"
+        },
+        {
+          "name": "2.jpg",
+          "size": 56133,
+          "sha256": "1447fd44701bfb0cb8dc7b0a15843d3ca077a00f3e0b3338aeb2ce0a2ff57042"
+        }
+      ]
+    },
     {
       "slug": "format-1-sample",
       "name": "Format 1 sample",
