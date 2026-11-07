@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-10-31T21:56:38Z",
+  "generated": "2026-11-07T05:53:22Z",
   "bundles": [
     {
       "slug": "format-1-sample",
@@ -61,27 +61,22 @@
       "name": "Pie's Demo Bundle",
       "author": "PieOrCake.7635",
       "description": "A little bit of everything for you to try.",
-      "version": 1,
+      "version": 2,
       "requires": "1.0.0.1",
       "preview": "",
       "kind": "bundle",
-      "size": 875960,
-      "updated": "2026-10-30",
+      "size": 672378,
+      "updated": "2026-11-07",
       "zip": {
-        "tag": "pies-demo-bundle-v1",
-        "size": 877250,
-        "sha256": "49271c996f5d7aa7e991557767c116af65b877d1cfafe3405535977b027258ca"
+        "tag": "pies-demo-bundle-v2",
+        "size": 673538,
+        "sha256": "53adb0ed13f528028892af4e84a49aac1dd8d27afea3b478a1739216fcd4c913"
       },
       "files": [
         {
           "name": "NornGirlBikini.png",
           "size": 619047,
           "sha256": "3cc346fc1a99105ef047068ceb78bbb321908c423cde8b5c456f5652a9a1d3a1"
-        },
-        {
-          "name": "SylvariGirlKneelingLeft.png",
-          "size": 206574,
-          "sha256": "818411bba8646938ac1bea7ac5309a17cc39470241cfc0cf9f231174bc74876c"
         },
         {
           "name": "arc_facet.png",
@@ -101,7 +96,7 @@
         {
           "name": "bundle.json",
           "size": 182,
-          "sha256": "c3ee34dbd9555b00cb8d52f4bd7059bde47c042aef4899be816620ed54b4ddd1"
+          "sha256": "5ddda0e5c67dc2128978d4403effe5d88f57be22f4d61af44ec720f1db769f49"
         },
         {
           "name": "divider_crosshair.png",
@@ -115,8 +110,8 @@
         },
         {
           "name": "layout.json",
-          "size": 32239,
-          "sha256": "f3287a8a6b65e39051ca32712aaf44cfbb1c40cdcb9024ffa4c58c8d0b93edce"
+          "size": 35231,
+          "sha256": "51da198298b282fc0b7dadd881a89db2875161b668d5c8ccdf922b67ff3a0842"
         },
         {
           "name": "overlay_gloss.png",
@@ -137,18 +132,23 @@
       "screenshots": [
         {
           "name": "1.jpg",
-          "size": 50528,
-          "sha256": "1bd5f4f62eadf1e71b667598b554265719051c8187d7ebfec78b7707004b9e3a"
-        },
-        {
-          "name": "2.jpg",
           "size": 52436,
           "sha256": "4983a43489944f34108d135a158566bda45fa85931070a5e7a3e8fb950660445"
         },
         {
+          "name": "2.jpg",
+          "size": 37322,
+          "sha256": "165a9407758f94d15a16a287bd4c6d3a477b18d64c702f6e8aa05e2ceed2b11d"
+        },
+        {
           "name": "3.jpg",
-          "size": 38600,
-          "sha256": "d4172a0f07655d54eb83908b5f3becaa8a4f25059d8fe484a54f0a38794663be"
+          "size": 47662,
+          "sha256": "b7c7b8749ed25a760c7740d660ef876440fd1071395bf9f6d4fa56e389bccc5b"
+        },
+        {
+          "name": "4.jpg",
+          "size": 67711,
+          "sha256": "9412ba39fa9c8f566f2ea8e7f8a16f791eda1c0006d4b3b8980f8011c336983b"
         }
       ]
     },
