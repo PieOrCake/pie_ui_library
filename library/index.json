@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-11-07T10:01:05Z",
+  "generated": "2026-11-07T10:02:34Z",
   "bundles": [
     {
       "slug": "devils-orbs",
@@ -113,26 +113,6 @@
         },
         {
           "name": "2.jpg",
-          "size": 56133,
-          "sha256": "1447fd44701bfb0cb8dc7b0a15843d3ca077a00f3e0b3338aeb2ce0a2ff57042"
-        },
-        {
-          "name": "3.jpg",
-          "size": 49069,
-          "sha256": "b269bf573d365d46d37e73a98afc870d96680fe7a4064611a5b9d9ee434a72bf"
-        },
-        {
-          "name": "4.jpg",
-          "size": 56133,
-          "sha256": "1447fd44701bfb0cb8dc7b0a15843d3ca077a00f3e0b3338aeb2ce0a2ff57042"
-        },
-        {
-          "name": "5.jpg",
-          "size": 49069,
-          "sha256": "b269bf573d365d46d37e73a98afc870d96680fe7a4064611a5b9d9ee434a72bf"
-        },
-        {
-          "name": "6.jpg",
           "size": 56133,
           "sha256": "1447fd44701bfb0cb8dc7b0a15843d3ca077a00f3e0b3338aeb2ce0a2ff57042"
         }
