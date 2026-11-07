@@ -1,28 +1,38 @@
 {
   "format": 1,
-  "generated": "2026-11-07T08:37:34Z",
+  "generated": "2026-11-07T10:01:05Z",
   "bundles": [
     {
       "slug": "devils-orbs",
       "name": "Devil's Orbs",
       "author": "PieOrCake.7635",
       "description": "Kind of like one of those grindy hack'n'slash games.",
-      "version": 2,
+      "version": 3,
       "requires": "1.0.0.2",
       "preview": "",
       "kind": "bundle",
-      "size": 4083967,
+      "size": 4085186,
       "updated": "2026-11-07",
       "zip": {
-        "tag": "devils-orbs-v2",
-        "size": 4085581,
-        "sha256": "e24d5550c7f5cd2344b479369204dc5255ca9b87fce564e8fe8c0ddc8d6b41d4"
+        "tag": "devils-orbs-v3",
+        "size": 4087022,
+        "sha256": "13c9de2cae3cc599b4a0be0a64e48521f1268b50303e488db2a07ae665cf79f6"
       },
       "files": [
         {
+          "name": "bar_background.png",
+          "size": 205,
+          "sha256": "e6cbe7dbced6617019b3ecd9761ee33e7b7028348095be97d4b4a27faf706ec5"
+        },
+        {
+          "name": "border_9slice.png",
+          "size": 197,
+          "sha256": "076bf2bae4b7862bba1e12521c3fd0f2bddef2940b57d62868a0b1a3f092081c"
+        },
+        {
           "name": "bundle.json",
           "size": 213,
-          "sha256": "75ba1d3945111cbd69126f8f05a9b39c038e19dbcc8f9ae4056be2d632b9e698"
+          "sha256": "b5ee0036eae61ba2bd6801a6bff289833d54ab2ea01c1b702b2e5bdaec1bebb8"
         },
         {
           "name": "devils_hotbar.png",
@@ -66,8 +76,8 @@
         },
         {
           "name": "layout.json",
-          "size": 20548,
-          "sha256": "b04b31bf225f2e9a9b82a50b4bef36bb2d7ff5cbe2ffca08f082bbc6a151f01b"
+          "size": 20730,
+          "sha256": "6ea42dd4f1f57e87c6d21963125564f816c0872b6efa46971a3aff7731208704"
         },
         {
           "name": "orb_ball.png",
@@ -91,8 +101,8 @@
         },
         {
           "name": "skins.json",
-          "size": 3602,
-          "sha256": "40a81af16f4103883dd1fdf102a7fd5e4ffe849ea0020e78a16b3ed81331f496"
+          "size": 4237,
+          "sha256": "130012987b6cce89210fe4b6a8df0e3b7b4ac7cf62384c2e5a8e8d5b5afe046f"
         }
       ],
       "screenshots": [
@@ -113,6 +123,16 @@
         },
         {
           "name": "4.jpg",
+          "size": 56133,
+          "sha256": "1447fd44701bfb0cb8dc7b0a15843d3ca077a00f3e0b3338aeb2ce0a2ff57042"
+        },
+        {
+          "name": "5.jpg",
+          "size": 49069,
+          "sha256": "b269bf573d365d46d37e73a98afc870d96680fe7a4064611a5b9d9ee434a72bf"
+        },
+        {
+          "name": "6.jpg",
           "size": 56133,
           "sha256": "1447fd44701bfb0cb8dc7b0a15843d3ca077a00f3e0b3338aeb2ce0a2ff57042"
         }

@@ -435,15 +435,15 @@
     "enabled": true,
     "frame": {
       "pos": [
-        0.8337209224700928,
-        0.9913606643676758
+        0.8665697574615479,
+        0.38876891136169434
       ],
       "size": [
-        0.16453488171100616,
+        0.13255813717842102,
         0.4169999957084656
       ]
     },
-    "growUp": true
+    "showEventsExperimental": true
   },
   "defeatedEnabled": true,
   "defeated_frame": {
@@ -539,6 +539,7 @@
   "hideNativeProfBar": true,
   "hideNativeTarget": true,
   "hideNativeXp": true,
+  "hotbarAutoCastStyle": 1,
   "hotbarEnabled": true,
   "hotbarShowProfession": true,
   "hotbarUtilityFreeSlots": true,
@@ -642,10 +643,15 @@
     ]
   },
   "mapMeta": {
+    "enabled": true,
     "frame": {
       "pos": [
-        0.7930232286453247,
-        0.913454532623291
+        0.8845930099487305,
+        0.30813536047935486
+      ],
+      "size": [
+        0.14000000059604645,
+        0.07199423760175705
       ]
     }
   },
@@ -808,6 +814,7 @@
   },
   "rewardTrayEnabled": true,
   "rewardTrayFlow": 1,
+  "rewardTrayHideNative": true,
   "rewardTrayIconSize": 64.0,
   "rewardTrayMaxVisible": 5,
   "reward_tray_frame": {
