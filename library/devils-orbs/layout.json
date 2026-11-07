@@ -375,14 +375,17 @@
     ]
   },
   "chatEnabled": true,
+  "chatMinimalEnabled": true,
+  "chatMinimalIdleSec": 0.0,
+  "chatMinimalLines": 3,
   "chat_frame": {
     "pos": [
       0.10595930367708206,
-      0.8686105012893677
+      0.8322533965110779
     ],
     "size": [
       0.21191860735416412,
-      0.23974081873893738
+      0.30525559186935425
     ]
   },
   "classfxGrowReverse": 0,
@@ -499,12 +502,12 @@
   },
   "endurance_frame": {
     "pos": [
-      577.0,
-      126.5
+      578.5,
+      124.5
     ],
     "size": [
-      0.07616279274225235,
-      0.19366450607776642
+      0.06715116649866104,
+      0.17350612580776215
     ]
   },
   "groupFinder": {
@@ -694,6 +697,8 @@
       0.020878329873085022
     ]
   },
+  "nameplateIconRange": 2691.0,
+  "nameplateIconSize": 26.0,
   "notifCascadeUp": true,
   "notifEnabled": true,
   "notifHideNative": true,
@@ -776,11 +781,11 @@
   "profResEnabled": true,
   "prof_res_frame": {
     "pos": [
-      -150.0,
-      218.5
+      -150.5,
+      219.0
     ],
     "size": [
-      0.056686047464609146,
+      0.05665962025523186,
       0.035997118800878525
     ]
   },
@@ -807,7 +812,7 @@
   "rewardTrayMaxVisible": 5,
   "reward_tray_frame": {
     "pos": [
-      0.7055232524871826,
+      0.6520348787307739,
       0.7624189853668213
     ],
     "size": [
@@ -973,6 +978,16 @@
       0.04895608499646187
     ]
   },
+  "stamina_frame": {
+    "pos": [
+      705.5,
+      219.5
+    ],
+    "size": [
+      0.038081396371126175,
+      0.09431245177984238
+    ]
+  },
   "targetEnabled": true,
   "targetPortraitEnabled": true,
   "targetPortraitRankRing": 1,
@@ -1046,10 +1061,14 @@
     ]
   },
   "vitalsDetachEndurance": true,
+  "vitalsDetachStamina": true,
   "vitalsEnabled": true,
   "vitalsEndDodgeMarks": false,
+  "vitalsEndPercent": false,
   "vitalsMode": 4,
   "vitalsMountedOnlyNotFull": true,
+  "vitalsShowPercent": false,
+  "vitalsShowText": false,
   "vitalsTextScale": 1.100000023841858,
   "vote_kick_frame": {
     "pos": [

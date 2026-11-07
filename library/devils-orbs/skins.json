@@ -9,13 +9,19 @@
     "slice": 8.0
   },
   {
-    "colour": "tint",
+    "colour": "custom",
     "empties": "reveal",
     "file": "orb_ball.png",
     "fit": "stretch",
     "opacity": 1.0,
     "part": "endurance.orb.fill",
-    "slice": 8.0
+    "slice": 8.0,
+    "tint": [
+      0.11707672476768494,
+      0.04046710580587387,
+      0.6272401809692383,
+      1.0
+    ]
   },
   {
     "colour": "tint",
@@ -73,5 +79,107 @@
     "opacity": 1.0,
     "part": "defeated.panel.background",
     "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "orb_glass.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "endurance.orb.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "orb_empty.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "health.orb.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "orb_empty.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "endurance.orb.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "orb_glass.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "health.orb.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "orb_frame.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "health.orb.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "custom",
+    "empties": "reveal",
+    "file": "orb_frame.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "endurance.orb.frame",
+    "slice": 8.0,
+    "tint": [
+      0.040403787046670914,
+      0.013643207959830761,
+      0.4229390621185303,
+      1.0
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "orb_empty.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "stamina.orb.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "orb_ball.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "stamina.orb.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "orb_glass.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "stamina.orb.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "custom",
+    "empties": "reveal",
+    "file": "orb_frame.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "stamina.orb.frame",
+    "slice": 8.0,
+    "tint": [
+      0.0,
+      0.29032260179519653,
+      0.0380183607339859,
+      1.0
+    ]
   }
 ]

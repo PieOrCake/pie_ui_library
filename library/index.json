@@ -1,28 +1,28 @@
 {
   "format": 1,
-  "generated": "2026-11-07T07:52:29Z",
+  "generated": "2026-11-07T08:37:34Z",
   "bundles": [
     {
       "slug": "devils-orbs",
       "name": "Devil's Orbs",
       "author": "PieOrCake.7635",
       "description": "Kind of like one of those grindy hack'n'slash games.",
-      "version": 1,
+      "version": 2,
       "requires": "1.0.0.2",
       "preview": "",
       "kind": "bundle",
-      "size": 3881449,
+      "size": 4083967,
       "updated": "2026-11-07",
       "zip": {
-        "tag": "devils-orbs-v1",
-        "size": 3882757,
-        "sha256": "e928530ce63658c85e2afdefc45af5489be28c445f9b0cbdcd9632d07a85a849"
+        "tag": "devils-orbs-v2",
+        "size": 4085581,
+        "sha256": "e24d5550c7f5cd2344b479369204dc5255ca9b87fce564e8fe8c0ddc8d6b41d4"
       },
       "files": [
         {
           "name": "bundle.json",
           "size": 213,
-          "sha256": "de08f77573a292a356d9683b41343e69c91b30a49cae2d684694c7eb08677229"
+          "sha256": "75ba1d3945111cbd69126f8f05a9b39c038e19dbcc8f9ae4056be2d632b9e698"
         },
         {
           "name": "devils_hotbar.png",
@@ -66,8 +66,8 @@
         },
         {
           "name": "layout.json",
-          "size": 20142,
-          "sha256": "3554f1b9616bdd75510854be1aa477102bac2b04f7e90711b27c0cae8ea2f6ce"
+          "size": 20548,
+          "sha256": "b04b31bf225f2e9a9b82a50b4bef36bb2d7ff5cbe2ffca08f082bbc6a151f01b"
         },
         {
           "name": "orb_ball.png",
@@ -75,9 +75,24 @@
           "sha256": "d7e9648305c408b1836075b7f52e10f8d0e8b5d10410795727233e0fa0eb37ad"
         },
         {
+          "name": "orb_empty.png",
+          "size": 43726,
+          "sha256": "d2ec85c2bd78f71218be2227ee4d6ab55883d67caea5136865ef35b69bb42023"
+        },
+        {
+          "name": "orb_frame.png",
+          "size": 47536,
+          "sha256": "974dc88159395e364fe78ea2f6ce638dcb1fa005b9199aa11adc582cb9f0a6b7"
+        },
+        {
+          "name": "orb_glass.png",
+          "size": 108715,
+          "sha256": "6cbca73ea15841b24f89e44c45030184cfa168cd467a9db0e090ffa0b191785e"
+        },
+        {
           "name": "skins.json",
-          "size": 1467,
-          "sha256": "a15a874c9ec7c83d8cfe01630c9b37d822590662b6e6f914bdda4bf3f68d9599"
+          "size": 3602,
+          "sha256": "40a81af16f4103883dd1fdf102a7fd5e4ffe849ea0020e78a16b3ed81331f496"
         }
       ],
       "screenshots": [
@@ -88,6 +103,16 @@
         },
         {
           "name": "2.jpg",
+          "size": 56133,
+          "sha256": "1447fd44701bfb0cb8dc7b0a15843d3ca077a00f3e0b3338aeb2ce0a2ff57042"
+        },
+        {
+          "name": "3.jpg",
+          "size": 49069,
+          "sha256": "b269bf573d365d46d37e73a98afc870d96680fe7a4064611a5b9d9ee434a72bf"
+        },
+        {
+          "name": "4.jpg",
           "size": 56133,
           "sha256": "1447fd44701bfb0cb8dc7b0a15843d3ca077a00f3e0b3338aeb2ce0a2ff57042"
         }
