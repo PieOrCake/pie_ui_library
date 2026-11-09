@@ -185,15 +185,6 @@
   {
     "colour": "picture",
     "empties": "reveal",
-    "file": "border_9slice.png",
-    "fit": "stretch",
-    "opacity": 1.0,
-    "part": "hotbar.slot.frame",
-    "slice": 8.0
-  },
-  {
-    "colour": "picture",
-    "empties": "reveal",
     "file": "bar_background.png",
     "fit": "stretch",
     "opacity": 1.0,
