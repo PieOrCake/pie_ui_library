@@ -1,0 +1,2511 @@
+{
+  "arcRadius": 248.0,
+  "arcSpreadDeg": 112.0,
+  "arcThickness": 12.0,
+  "barCorners": 0.35886213183403015,
+  "barrierStyle": 1,
+  "boonGrowReverse": 0,
+  "boonIconSize": 0.019999999552965164,
+  "boonMode": 0,
+  "boon_frame": {
+    "pos": [
+      320.0,
+      212.0
+    ],
+    "size": [
+      0.15273436903953552,
+      0.03399433568120003
+    ]
+  },
+  "bottomLine": {
+    "enabled": true,
+    "fontColor": [
+      1.0,
+      0.9582902193069458,
+      0.6953405141830444,
+      1.0
+    ],
+    "rect": {
+      "pos": [
+        0.5,
+        0.9929178357124329
+      ]
+    },
+    "screenAnchor": 2,
+    "widgets": [
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": true,
+        "order": 0,
+        "slot": 1,
+        "subFlags": 4294967293,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": true,
+        "order": 10,
+        "slot": 0,
+        "subFlags": 4294967274,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 1,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 1,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": true,
+        "order": 0,
+        "slot": 1,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [
+          1
+        ],
+        "enabled": true,
+        "order": 30,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": true,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": true,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": true,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      }
+    ]
+  },
+  "castBarEnabled": true,
+  "castBarOnlyWhileCasting": true,
+  "chatEnabled": true,
+  "chat_frame": {
+    "pos": [
+      0.14531250298023224,
+      0.8580028414726257
+    ],
+    "size": [
+      0.20937499403953552,
+      0.2386685609817505
+    ]
+  },
+  "classfxGrowReverse": 0,
+  "classfxIconSize": 0.019999999552965164,
+  "classfx_frame": {
+    "pos": [
+      320.0,
+      140.0
+    ],
+    "size": [
+      0.15273436903953552,
+      0.03399433568120003
+    ]
+  },
+  "condiGrowReverse": 0,
+  "condiIconSize": 0.019999999552965164,
+  "condiMode": 0,
+  "condi_frame": {
+    "pos": [
+      320.0,
+      180.0
+    ],
+    "size": [
+      0.15234375,
+      0.03399433568120003
+    ]
+  },
+  "contentGuide": {
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.7992187738418579,
+        0.02266288921236992
+      ],
+      "size": [
+        0.171875,
+        0.6621813178062439
+      ]
+    },
+    "showEventsExperimental": true
+  },
+  "enduranceModeBoxes": {
+    "orb": {
+      "pos": [
+        -39.84423828125,
+        392.0
+      ],
+      "size": [
+        0.07587209343910217,
+        0.1375584751367569
+      ]
+    }
+  },
+  "endurance_frame": {
+    "pos": [
+      -39.84423828125,
+      392.0
+    ],
+    "size": [
+      0.07587209343910217,
+      0.1375584751367569
+    ]
+  },
+  "groupFinder": {
+    "backgroundOpacity": 0.4000000059604645,
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.03750000149011612,
+        0.3243626058101654
+      ]
+    },
+    "maxHeight": 0.1983002871274948
+  },
+  "groupRequestsSparkle": true,
+  "group_requests_frame": {
+    "pos": [
+      0.657031238079071,
+      0.6154391169548035
+    ],
+    "size": [
+      0.12656250596046448,
+      0.06515580415725708
+    ]
+  },
+  "hideNativeCastBar": true,
+  "hideNativeChat": true,
+  "hideNativeContentGuide": true,
+  "hideNativeHotbarCluster": true,
+  "hideNativeMap": true,
+  "hideNativeMenuBar": true,
+  "hideNativeTarget": true,
+  "hideNativeUtilityBar": true,
+  "hideNativeWeaponSkills": true,
+  "hideNativeXp": true,
+  "hotbarEnabled": true,
+  "hotbarMergePetIntoProfession": true,
+  "hotbarShowProfession": true,
+  "imageLayers": [
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 38.50001525878906,
+      "keepAspect": true,
+      "layer": -2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        798.0,
+        382.749755859375
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9803921580314636,
+        0.6705882549285889,
+        0.4431372582912445,
+        1.0
+      ],
+      "w": 42.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_elbow_2to1.png",
+      "flipX": true,
+      "flipY": true,
+      "front": false,
+      "h": 300.0,
+      "keepAspect": true,
+      "layer": -2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        1129.0,
+        150.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9784946441650391,
+        0.6718693971633911,
+        0.4419007897377014,
+        1.0
+      ],
+      "w": 300.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_elbow_2to1.png",
+      "flipX": true,
+      "flipY": false,
+      "front": false,
+      "h": 300.0,
+      "keepAspect": true,
+      "layer": -2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        1131.0,
+        252.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9784946441650391,
+        0.6718693971633911,
+        0.4419007897377014,
+        1.0
+      ],
+      "w": 300.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_label_navigation.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 41.142860412597656,
+      "keepAspect": true,
+      "layer": -2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        901.0,
+        382.4285888671875
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9803921580314636,
+        0.6705882549285889,
+        0.4431372582912445,
+        1.0
+      ],
+      "w": 162.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 39.0,
+      "keepAspect": true,
+      "layer": -2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        810.272705078125,
+        17.499755859375
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9803921580314636,
+        0.6705882549285889,
+        0.4431372582912445,
+        1.0
+      ],
+      "w": 42.54543685913086
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 37.0,
+      "keepAspect": false,
+      "layer": -2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        906.0,
+        18.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9803921580314636,
+        0.6705882549285889,
+        0.4431372582912445,
+        1.0
+      ],
+      "w": 150.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 23.0,
+      "keepAspect": false,
+      "layer": -2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -0.5,
+        221.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        0.3333333432674408,
+        0.9372549057006836,
+        1.0
+      ],
+      "w": 103.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 23.0,
+      "keepAspect": false,
+      "layer": -2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -45.0,
+        63.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        0.3333333432674408,
+        0.9372549057006836,
+        1.0
+      ],
+      "w": 174.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_bracket_3to1.png",
+      "flipX": true,
+      "flipY": false,
+      "front": false,
+      "h": 180.0,
+      "keepAspect": true,
+      "layer": -2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        130.0,
+        143.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        0.3333333134651184,
+        0.9365084767341614,
+        1.0
+      ],
+      "w": 180.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_label_weapons.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 23.0,
+      "keepAspect": true,
+      "layer": -2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -91.6640625,
+        221.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        0.3333333432674408,
+        0.9372549057006836,
+        1.0
+      ],
+      "w": 73.67186737060547
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 23.0,
+      "keepAspect": true,
+      "layer": -2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -144.45458984375,
+        220.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        0.3333333432674408,
+        0.9372549057006836,
+        1.0
+      ],
+      "w": 25.09090805053711
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 23.0,
+      "keepAspect": true,
+      "layer": -2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -144.45458984375,
+        63.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        0.3333333432674408,
+        0.9372549057006836,
+        1.0
+      ],
+      "w": 25.09090805053711
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 33.91667556762695,
+      "keepAspect": true,
+      "layer": -1,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        784.5,
+        1395.0416259765625
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.843137264251709,
+        0.5803921818733215,
+        0.8941176533699036,
+        1.0
+      ],
+      "w": 37.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_label_operations.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 34.86381149291992,
+      "keepAspect": true,
+      "layer": -1,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        875.5,
+        1394.56787109375
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.843137264251709,
+        0.5803921818733215,
+        0.8941176533699036,
+        1.0
+      ],
+      "w": 140.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 481.0,
+      "keepAspect": false,
+      "layer": -1,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        1243.5,
+        914.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.843137264251709,
+        0.5803921818733215,
+        0.8941176533699036,
+        1.0
+      ],
+      "w": 71.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_elbow_2to1.png",
+      "flipX": true,
+      "flipY": true,
+      "front": false,
+      "h": 268.0,
+      "keepAspect": false,
+      "layer": -1,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        1134.0,
+        543.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.843137264251709,
+        0.5803921818733215,
+        0.8941176533699036,
+        1.0
+      ],
+      "w": 294.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 33.0,
+      "keepAspect": true,
+      "layer": -1,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        795.0,
+        425.499755859375
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.843137264251709,
+        0.5803921818733215,
+        0.8941176533699036,
+        1.0
+      ],
+      "w": 35.9999885559082
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 33.91667556762695,
+      "keepAspect": true,
+      "layer": -1,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        471.5,
+        1395.0416259765625
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.7797155380249023,
+        0.939068078994751,
+        0.06731671839952469,
+        1.0
+      ],
+      "w": 37.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_label_tactical.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 35.0,
+      "keepAspect": true,
+      "layer": -1,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        546.953125,
+        1394.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.7803921699523926,
+        0.9372549057006836,
+        0.06666667014360428,
+        1.0
+      ],
+      "w": 103.90624237060547
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 35.0,
+      "keepAspect": false,
+      "layer": -1,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        662.5,
+        1394.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.7803921699523926,
+        0.9372549057006836,
+        0.06666667014360428,
+        1.0
+      ],
+      "w": 123.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": true,
+      "flipY": false,
+      "front": false,
+      "h": 35.0,
+      "keepAspect": true,
+      "layer": -1,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        742.0909423828125,
+        1394.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.7803921699523926,
+        0.9372549057006836,
+        0.06666667014360428,
+        1.0
+      ],
+      "w": 38.18180847167969
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 33.91667556762695,
+      "keepAspect": true,
+      "layer": -1,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        102.5,
+        1395.0416259765625
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.3843137323856354,
+        0.729411780834198,
+        0.9607843160629272,
+        1.0
+      ],
+      "w": 37.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_label_acquisitions.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 35.0,
+      "keepAspect": true,
+      "layer": -1,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        203.84375,
+        1393.50048828125
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.385606586933136,
+        0.7312798500061035,
+        0.9605734944343567,
+        1.0
+      ],
+      "w": 159.68748474121094
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 35.0,
+      "keepAspect": false,
+      "layer": -1,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        348.5,
+        1394.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.3843137323856354,
+        0.729411780834198,
+        0.9607843160629272,
+        1.0
+      ],
+      "w": 123.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": true,
+      "flipY": false,
+      "front": false,
+      "h": 35.0,
+      "keepAspect": true,
+      "layer": -1,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        429.0909423828125,
+        1394.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.3843137323856354,
+        0.729411780834198,
+        0.9607843160629272,
+        1.0
+      ],
+      "w": 38.18180847167969
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 33.0,
+      "keepAspect": false,
+      "layer": -1,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        897.0,
+        425.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.843137264251709,
+        0.5803921818733215,
+        0.8941176533699036,
+        1.0
+      ],
+      "w": 180.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_elbow_3to1.png",
+      "flipX": false,
+      "flipY": true,
+      "front": true,
+      "h": 268.0,
+      "keepAspect": true,
+      "layer": 2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -1144.0,
+        136.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.4838709831237793,
+        0.517169713973999,
+        1.0,
+        1.0
+      ],
+      "w": 268.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_elbow_3to1.png",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 268.0,
+      "keepAspect": true,
+      "layer": 2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -1144.0,
+        267.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.48235294222831726,
+        0.5176470875740051,
+        1.0,
+        1.0
+      ],
+      "w": 268.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_label_comms.png",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 38.095237731933594,
+      "keepAspect": true,
+      "layer": 2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -721.0,
+        383.952392578125
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.48235294222831726,
+        0.5176470875740051,
+        1.0,
+        1.0
+      ],
+      "w": 100.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 33.0,
+      "keepAspect": false,
+      "layer": 2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -893.5,
+        384.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.48235294222831726,
+        0.5176470875740051,
+        1.0,
+        1.0
+      ],
+      "w": 235.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 33.0,
+      "keepAspect": false,
+      "layer": 2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -835.5,
+        18.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.48235294222831726,
+        0.5176470875740051,
+        1.0,
+        1.0
+      ],
+      "w": 351.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": true,
+      "flipY": false,
+      "front": true,
+      "h": 35.0,
+      "keepAspect": true,
+      "layer": 2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -646.9091186523438,
+        384.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.48235294222831726,
+        0.5176470875740051,
+        1.0,
+        1.0
+      ],
+      "w": 38.18181610107422
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": true,
+      "flipY": false,
+      "front": true,
+      "h": 33.0,
+      "keepAspect": true,
+      "layer": 2,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -643.0,
+        18.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.48235294222831726,
+        0.5176470875740051,
+        1.0,
+        1.0
+      ],
+      "w": 36.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_elbow_3to1.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 268.0,
+      "keepAspect": true,
+      "layer": -3,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -1146.0,
+        1276.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9713261723518372,
+        0.9630525708198547,
+        0.20192445814609528,
+        1.0
+      ],
+      "w": 268.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_elbow_3to1.png",
+      "flipX": false,
+      "flipY": true,
+      "front": false,
+      "h": 268.0,
+      "keepAspect": true,
+      "layer": -3,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -1146.0,
+        1124.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9713261723518372,
+        0.9630525708198547,
+        0.20192445814609528,
+        1.0
+      ],
+      "w": 268.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_label_crew.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 36.129032135009766,
+      "keepAspect": true,
+      "layer": -3,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -861.0,
+        1391.935546875
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9725490212440491,
+        0.9647058844566345,
+        0.20000000298023224,
+        1.0
+      ],
+      "w": 70.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 33.0,
+      "keepAspect": false,
+      "layer": -3,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -958.5,
+        1393.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9725490212440491,
+        0.9647058844566345,
+        0.20000000298023224,
+        1.0
+      ],
+      "w": 115.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 33.0,
+      "keepAspect": false,
+      "layer": -3,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -999.0,
+        1006.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9725490212440491,
+        0.9647058844566345,
+        0.20000000298023224,
+        1.0
+      ],
+      "w": 115.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": true,
+      "flipY": false,
+      "front": false,
+      "h": 35.7500114440918,
+      "keepAspect": true,
+      "layer": -3,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -802.5,
+        1391.125
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9725490212440491,
+        0.9647058844566345,
+        0.20000000298023224,
+        1.0
+      ],
+      "w": 39.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": true,
+      "flipY": false,
+      "front": false,
+      "h": 33.0,
+      "keepAspect": true,
+      "layer": -3,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -924.0,
+        1006.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9725490212440491,
+        0.9647058844566345,
+        0.20000000298023224,
+        1.0
+      ],
+      "w": 35.9999885559082
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_label_sensors.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 29.82198715209961,
+      "keepAspect": true,
+      "layer": -3,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -984.0,
+        969.0889892578125
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.615686297416687,
+        1.0,
+        0.615686297416687,
+        1.0
+      ],
+      "w": 89.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": true,
+      "flipY": false,
+      "front": false,
+      "h": 29.0,
+      "keepAspect": true,
+      "layer": -3,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -922.1817626953125,
+        968.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.615686297416687,
+        1.0,
+        0.615686297416687,
+        1.0
+      ],
+      "w": 31.636362075805664
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 31.0,
+      "keepAspect": false,
+      "layer": -3,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -993.0,
+        657.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.615686297416687,
+        1.0,
+        0.615686297416687,
+        1.0
+      ],
+      "w": 74.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": true,
+      "flipY": false,
+      "front": false,
+      "h": 31.0,
+      "keepAspect": true,
+      "layer": -3,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -940.9090576171875,
+        657.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.615686297416687,
+        1.0,
+        0.615686297416687,
+        1.0
+      ],
+      "w": 33.81818389892578
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_bracket_3to1.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 183.0,
+      "keepAspect": false,
+      "layer": -3,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -1154.0,
+        542.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9820788502693176,
+        0.4863261282444,
+        0.2006397545337677,
+        1.0
+      ],
+      "w": 248.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_label_systems.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 24.0,
+      "keepAspect": true,
+      "layer": -3,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -989.375,
+        622.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9803921580314636,
+        0.48627451062202454,
+        0.20000000298023224,
+        1.0
+      ],
+      "w": 71.25
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": true,
+      "flipY": false,
+      "front": false,
+      "h": 24.0,
+      "keepAspect": true,
+      "layer": -3,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -936.36376953125,
+        622.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9803921580314636,
+        0.48627451062202454,
+        0.20000000298023224,
+        1.0
+      ],
+      "w": 26.181821823120117
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": true,
+      "flipY": false,
+      "front": false,
+      "h": 23.0,
+      "keepAspect": true,
+      "layer": -3,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -938.5454711914063,
+        462.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9803921580314636,
+        0.48627451062202454,
+        0.20000000298023224,
+        1.0
+      ],
+      "w": 25.090911865234375
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 23.0,
+      "keepAspect": false,
+      "layer": -3,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -991.0,
+        462.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.9803921580314636,
+        0.48627451062202454,
+        0.20000000298023224,
+        1.0
+      ],
+      "w": 80.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_elbow_2to1.png",
+      "flipX": false,
+      "flipY": true,
+      "front": true,
+      "h": 263.0,
+      "keepAspect": false,
+      "layer": 1,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        1112.5,
+        1281.0
+      ],
+      "rotate": 2,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 100.0,
+      "tint": [
+        0.8419108986854553,
+        0.5789879560470581,
+        0.8924731016159058,
+        1.0
+      ],
+      "w": 335.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_bracket_3to1.png",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 342.0,
+      "keepAspect": false,
+      "layer": 1,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -1153.5,
+        813.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 242.0,
+      "tint": [
+        0.616487443447113,
+        1.0,
+        0.616487443447113,
+        1.0
+      ],
+      "w": 247.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_bracket_3to1.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 180.0,
+      "keepAspect": true,
+      "layer": -4,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        340.0,
+        143.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.6774193048477173,
+        0.3333333134651184,
+        1.0,
+        1.0
+      ],
+      "w": 180.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_label_medical.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 25.396827697753906,
+      "keepAspect": true,
+      "layer": -4,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        618.0,
+        220.3016357421875
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.6784313917160034,
+        0.3333333432674408,
+        1.0,
+        1.0
+      ],
+      "w": 75.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": true,
+      "flipY": false,
+      "front": false,
+      "h": 23.0,
+      "keepAspect": true,
+      "layer": -4,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        668.54541015625,
+        221.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.6784313917160034,
+        0.3333333432674408,
+        1.0,
+        1.0
+      ],
+      "w": 25.09090805053711
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 23.0,
+      "keepAspect": false,
+      "layer": -4,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        505.5,
+        221.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.6784313917160034,
+        0.3333333432674408,
+        1.0,
+        1.0
+      ],
+      "w": 151.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 23.0,
+      "keepAspect": false,
+      "layer": -4,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        542.5,
+        64.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.6784313917160034,
+        0.3333333432674408,
+        1.0,
+        1.0
+      ],
+      "w": 227.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": true,
+      "flipY": false,
+      "front": false,
+      "h": 23.0,
+      "keepAspect": true,
+      "layer": -4,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        668.54541015625,
+        64.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.6784313917160034,
+        0.3333333432674408,
+        1.0,
+        1.0
+      ],
+      "w": 25.09090805053711
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_bracket_3to1.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 180.0,
+      "keepAspect": true,
+      "layer": -5,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -479.0,
+        143.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        0.3333333134651184,
+        0.49103957414627075,
+        1.0
+      ],
+      "w": 180.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_label_engineering.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 23.0,
+      "keepAspect": true,
+      "layer": -5,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -286.328125,
+        221.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        0.3333333432674408,
+        0.4901960790157318,
+        1.0
+      ],
+      "w": 101.34375
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": true,
+      "flipY": false,
+      "front": false,
+      "h": 23.0,
+      "keepAspect": true,
+      "layer": -5,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -221.45458984375,
+        221.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        0.3333333432674408,
+        0.4901960790157318,
+        1.0
+      ],
+      "w": 25.09090805053711
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 23.0,
+      "keepAspect": false,
+      "layer": -5,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -311.0,
+        63.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        0.3333333432674408,
+        0.4901960790157318,
+        1.0
+      ],
+      "w": 156.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_block.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 23.0,
+      "keepAspect": false,
+      "layer": -5,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -365.0,
+        221.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        0.3333333432674408,
+        0.4901960790157318,
+        1.0
+      ],
+      "w": 54.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "lcars_half_pill.png",
+      "flipX": true,
+      "flipY": false,
+      "front": false,
+      "h": 23.0,
+      "keepAspect": true,
+      "layer": -5,
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -221.45458984375,
+        63.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        0.3333333432674408,
+        0.4901960790157318,
+        1.0
+      ],
+      "w": 25.09090805053711
+    }
+  ],
+  "instanceControlsEnabled": true,
+  "instanceControlsHideNative": true,
+  "instance_controls_frame": {
+    "pos": [
+      1235.5,
+      320.5
+    ],
+    "size": [
+      0.021484375,
+      0.03895184025168419
+    ]
+  },
+  "interactPromptEnabled": true,
+  "interactPromptHideNative": true,
+  "interact_prompt_frame": {
+    "pos": [
+      359.0,
+      646.5
+    ],
+    "size": [
+      0.09296874701976776,
+      0.08427762240171432
+    ]
+  },
+  "lootCascadeUp": true,
+  "lootEnabled": true,
+  "lootHideNativeCascade": true,
+  "loot_frame": {
+    "pos": [
+      0.6031249761581421,
+      0.10127478837966919
+    ],
+    "size": [
+      0.13750000298023224,
+      0.14589235186576843
+    ]
+  },
+  "mapMeta": {
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.6343749761581421,
+        0.7592067718505859
+      ],
+      "size": [
+        0.14000000059604645,
+        0.07082153111696243
+      ]
+    }
+  },
+  "mapRedirect": {
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.5843750238418579,
+        0.2599150240421295
+      ]
+    }
+  },
+  "masteryEnabled": true,
+  "mastery_frame": {
+    "pos": [
+      1240.0,
+      116.0
+    ],
+    "size": [
+      0.02500000037252903,
+      0.04532577842473984
+    ]
+  },
+  "menuLauncher": true,
+  "menuLauncherCols": 5,
+  "menuLauncherIconSize": 46.5,
+  "menuLauncherPanel": false,
+  "menuLauncherX": 0.03554687649011612,
+  "menuLauncherY": 0.577903687953949,
+  "minimapCorners": 0.17067833244800568,
+  "minimapEnabled": true,
+  "minimap_frame": {
+    "pos": [
+      0.88671875,
+      0.8583569526672363
+    ],
+    "size": [
+      0.16718749701976776,
+      0.23229461908340454
+    ]
+  },
+  "mountEnabled": true,
+  "mount_frame": {
+    "pos": [
+      1240.0,
+      244.0
+    ],
+    "size": [
+      0.02500000037252903,
+      0.04532577842473984
+    ]
+  },
+  "notifEnabled": true,
+  "notifHideNative": true,
+  "notif_frame": {
+    "pos": [
+      0.990429699420929,
+      0.09879603236913681
+    ],
+    "size": [
+      0.15898437798023224,
+      0.14235126972198486
+    ]
+  },
+  "noveltyEnabled": true,
+  "novelty_frame": {
+    "pos": [
+      1240.0,
+      180.0
+    ],
+    "size": [
+      0.02500000037252903,
+      0.04532577842473984
+    ]
+  },
+  "otherGrowReverse": 0,
+  "otherIconSize": 0.019999999552965164,
+  "other_frame": {
+    "pos": [
+      320.0,
+      108.0
+    ],
+    "size": [
+      0.18632812798023224,
+      0.03399433568120003
+    ]
+  },
+  "party": {
+    "enabled": true,
+    "rect": {
+      "pos": [
+        0.12421874701976776,
+        0.1515580713748932
+      ],
+      "size": [
+        0.16093750298023224,
+        0.24645891785621643
+      ]
+    },
+    "scale": 1.6236306428909302
+  },
+  "pet_group": {
+    "pos": [
+      -493.0,
+      47.0
+    ]
+  },
+  "playerPortraitOpacity": 0.75,
+  "player_portrait_frame": {
+    "pos": [
+      0.2906250059604645,
+      0.8969546556472778
+    ],
+    "size": [
+      0.02812499925494194,
+      0.04745042324066162
+    ]
+  },
+  "player_vitals": {
+    "size": [
+      0.07587209343910217,
+      0.1375584751367569
+    ]
+  },
+  "profResArtStyle": 1,
+  "profResEnabled": true,
+  "prof_res_frame": {
+    "pos": [
+      -351.5,
+      172.5
+    ],
+    "size": [
+      0.10664062201976776,
+      0.041784703731536865
+    ]
+  },
+  "professionIconSize": 37.0,
+  "profession_group": {
+    "pos": [
+      -488.0,
+      124.0
+    ]
+  },
+  "ready_check_frame": {
+    "pos": [
+      0.501171886920929,
+      0.3757082223892212
+    ],
+    "size": [
+      0.10234375298023224,
+      0.04886685684323311
+    ]
+  },
+  "reticleOffsetY": 111.0,
+  "reticleStyle": 1,
+  "rewardTrayEnabled": true,
+  "rewardTrayFlow": 3,
+  "rewardTrayHideNative": true,
+  "rewardTrayIconSize": 56.0,
+  "rewardTrayMaxVisible": 4,
+  "reward_tray_frame": {
+    "pos": [
+      0.9761718511581421,
+      0.6770538091659546
+    ],
+    "size": [
+      0.02421874925494194,
+      0.12889517843723297
+    ]
+  },
+  "screen": [
+    2560,
+    1412
+  ],
+  "slotCorners": 0.35886213183403015,
+  "social_frame": {
+    "pos": [
+      0.41386717557907104,
+      0.5269121527671814
+    ],
+    "size": [
+      0.08867187798023224,
+      0.1359773427248001
+    ]
+  },
+  "specialtyIconSize": 0.019999999552965164,
+  "specialtyIconVertical": 1,
+  "specialtyMode": 0,
+  "specialty_frame": {
+    "pos": [
+      276.0,
+      91.0
+    ],
+    "size": [
+      0.01875000074505806,
+      0.08002832531929016
+    ]
+  },
+  "squad": {
+    "border": false,
+    "cellGap": 1.0,
+    "cellH": 24.0,
+    "cellW": 135.0,
+    "enabled": true,
+    "healthBarProfColor": true,
+    "hideNativeFrames": true,
+    "highHealthColor": [
+      0.10752689838409424,
+      1.0,
+      0.0,
+      1.0
+    ],
+    "layoutMode": 1,
+    "rect": {
+      "pos": [
+        0.1318359375,
+        0.149433434009552
+      ],
+      "size": [
+        0.17617186903953552,
+        0.24220962822437286
+      ]
+    },
+    "showClassIcon": false,
+    "showSubgroupLabels": false,
+    "showTagMarker": false
+  },
+  "squad_counters_frame": {
+    "pos": [
+      0.09433593600988388,
+      0.013456090353429317
+    ],
+    "size": [
+      0.09023437649011612,
+      0.02266288921236992
+    ]
+  },
+  "squad_toolbox_frame": {
+    "pos": [
+      0.02265625074505806,
+      0.07294617593288422
+    ],
+    "size": [
+      0.02656250074505806,
+      0.048158641904592514
+    ]
+  },
+  "staminaModeBoxes": {
+    "orb": {
+      "pos": [
+        -98.1138916015625,
+        343.4417724609375
+      ],
+      "size": [
+        0.037936046719551086,
+        0.06877923756837845
+      ]
+    }
+  },
+  "stamina_frame": {
+    "pos": [
+      -98.1138916015625,
+      343.4417724609375
+    ],
+    "size": [
+      0.037936046719551086,
+      0.06877923756837845
+    ]
+  },
+  "targetEnabled": true,
+  "targetVariant": 1,
+  "tboonEnabled": true,
+  "tboonGrowReverse": 2,
+  "tboonIconSize": 0.02199999988079071,
+  "tboonMode": 0,
+  "tboon_frame": {
+    "pos": [
+      3.0,
+      1252.0
+    ],
+    "size": [
+      0.17109374701976776,
+      0.02266288921236992
+    ]
+  },
+  "tcondiEnabled": true,
+  "tcondiGrowReverse": 2,
+  "tcondiIconSize": 0.02199999988079071,
+  "tcondiMode": 0,
+  "tcondi_frame": {
+    "pos": [
+      3.0,
+      1292.0
+    ],
+    "size": [
+      0.17109374701976776,
+      0.028328612446784973
+    ]
+  },
+  "timFloatingIconX": 0.0,
+  "timFloatingIconY": 649.5,
+  "timIconInChat": true,
+  "totherGrowReverse": 2,
+  "totherIconSize": 0.02199999988079071,
+  "tother_frame": {
+    "pos": [
+      3.5,
+      1324.0
+    ],
+    "size": [
+      0.17148438096046448,
+      0.02266288921236992
+    ]
+  },
+  "utility_group": {
+    "pos": [
+      -144.0,
+      140.0
+    ]
+  },
+  "vitalsCombatOpacityLinger": true,
+  "vitalsEnabled": true,
+  "vitalsModeBoxes": {
+    "orb": {
+      "pos": [
+        -253.5,
+        392.0
+      ],
+      "size": [
+        0.07587209343910217,
+        0.1375584751367569
+      ]
+    }
+  },
+  "vitalsMountedOnlyNotFull": true,
+  "vitalsOutOfCombatOpacity": 0.10000000149011612,
+  "vote_kick_frame": {
+    "pos": [
+      0.500781238079071,
+      0.2716005742549896
+    ],
+    "size": [
+      0.12656250596046448,
+      0.10127478837966919
+    ]
+  },
+  "weapon_group": {
+    "pos": [
+      -144.0,
+      204.0
+    ]
+  },
+  "weapon_swap_slot": {
+    "pos": [
+      160.0,
+      172.0
+    ]
+  },
+  "xpBarPlaced": true,
+  "xp_bar_frame": {
+    "pos": [
+      0.0,
+      16.0
+    ],
+    "size": [
+      1.0,
+      0.02266288921236992
+    ]
+  }
+}

@@ -1,7 +1,138 @@
 {
   "format": 1,
-  "generated": "2026-11-09T07:15:02Z",
+  "generated": "2026-11-10T10:14:16Z",
   "bundles": [
+    {
+      "slug": "boldly-gone",
+      "name": "Boldly Gone",
+      "author": "PieOrCake.7635",
+      "description": "Sci-fi flavoured interface",
+      "version": 1,
+      "requires": "1.0.0.1",
+      "preview": "",
+      "kind": "bundle",
+      "size": 132184,
+      "updated": "2026-11-10",
+      "zip": {
+        "tag": "boldly-gone-v1",
+        "size": 134338,
+        "sha256": "bb02cfd47f4dcc97cc6bdfcc74712c9dc9d9ca49fe95d19c7e9d975821ff8ea5"
+      },
+      "files": [
+        {
+          "name": "bundle.json",
+          "size": 185,
+          "sha256": "d6662cfc5ec9d82a445ef52b229c864ffa83c14c327f8afdd4b62e5233970eaa"
+        },
+        {
+          "name": "layout.json",
+          "size": 50427,
+          "sha256": "d1a1c61b79f2120a21f81de302151171553bc467e22b4d81ddd0b00f7c4e8769"
+        },
+        {
+          "name": "lcars_block.png",
+          "size": 207,
+          "sha256": "636f9dacce1c22607c2da5b464978643a6ac0a73e724f8eb1be4baf5be779085"
+        },
+        {
+          "name": "lcars_bracket_3to1.png",
+          "size": 7403,
+          "sha256": "6192d0ff55bdafac275f797f00ae5b67664e92e5887167652b6594ffb5a2ca40"
+        },
+        {
+          "name": "lcars_elbow_2to1.png",
+          "size": 4271,
+          "sha256": "d162cda62998f197fc6a1b8c969ce7bc9724212080a0d3117887f23f6a688cbe"
+        },
+        {
+          "name": "lcars_elbow_3to1.png",
+          "size": 4806,
+          "sha256": "35b99840ba3550c81d78fed2299555c83f7a48316b6ad257b445462a866a37fe"
+        },
+        {
+          "name": "lcars_half_pill.png",
+          "size": 754,
+          "sha256": "73e78ff125c3129dd802932ce6c5bffccc513b3c9f163109ef21b4c74eb7e999"
+        },
+        {
+          "name": "lcars_label_acquisitions.png",
+          "size": 7852,
+          "sha256": "2b0d95846579ca5a18ae37e882eb60f0b55e74f341b45197836e6d7b7dd93bfb"
+        },
+        {
+          "name": "lcars_label_comms.png",
+          "size": 5117,
+          "sha256": "ed260005442f6ed26b688394c015b51ff0ea170355041ee450ee1b4a0dd7cc4e"
+        },
+        {
+          "name": "lcars_label_crew.png",
+          "size": 3757,
+          "sha256": "63c55c14a2adef0e5cbf3832a6848d9ecffe2ade7e7c76783e889a6de5a29126"
+        },
+        {
+          "name": "lcars_label_engineering.png",
+          "size": 5902,
+          "sha256": "573722fb97dbbce023b14820a6c50b000712b6d2de7c7287d3ccf324c71be086"
+        },
+        {
+          "name": "lcars_label_medical.png",
+          "size": 4406,
+          "sha256": "d5a5818c5ad81d2054c83f4c48b63a60782fe74c9791522b95850f1ddd709486"
+        },
+        {
+          "name": "lcars_label_navigation.png",
+          "size": 6692,
+          "sha256": "b8c2aa8c8eee50165a00e42f7bdec126c5ac298ae7820b2f6a8562419950e17d"
+        },
+        {
+          "name": "lcars_label_operations.png",
+          "size": 6702,
+          "sha256": "1d427d44476d73f03d7e3a463224612748b8c30a70131f6a7687e715c30ef157"
+        },
+        {
+          "name": "lcars_label_sensors.png",
+          "size": 6381,
+          "sha256": "2b342d2da5b3a60cf89c7a1126a33911ec402f94620972ad4937b065b4dc4052"
+        },
+        {
+          "name": "lcars_label_systems.png",
+          "size": 6237,
+          "sha256": "5332f467173382b9924aa1e5b40117aeaef0b9a6a4ddb6dabaa83733fcecee1c"
+        },
+        {
+          "name": "lcars_label_tactical.png",
+          "size": 4637,
+          "sha256": "6750c62bc64da1899555a3c6a7c534029d1a35266cf43adcdca6708e83b23462"
+        },
+        {
+          "name": "lcars_label_weapons.png",
+          "size": 6448,
+          "sha256": "bce317d726c86bfe38884d2f2b3155c9eafcffa47ff008ca2f5a35eda0ade4c9"
+        }
+      ],
+      "screenshots": [
+        {
+          "name": "1.jpg",
+          "size": 38458,
+          "sha256": "69965a424e39823417397b0c9dc3c3a27727ee3a729483156edec3ba757ef2eb"
+        },
+        {
+          "name": "2.jpg",
+          "size": 53277,
+          "sha256": "c3f76cf633fada45a02bcf4e6882b73023fdaeca061533de53adfd304cb60614"
+        },
+        {
+          "name": "3.jpg",
+          "size": 57590,
+          "sha256": "df971b23dccdc3b092384fb92ae3a775bc16c6a655ad805d81aa9f07acc2854f"
+        },
+        {
+          "name": "4.jpg",
+          "size": 53020,
+          "sha256": "96c1d902604ba4e0605834cf5557da712fe2f0578876e2319378ec61d28c819e"
+        }
+      ]
+    },
     {
       "slug": "devils-orbs",
       "name": "Devil's Orbs",
