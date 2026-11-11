@@ -1,33 +1,33 @@
 {
   "format": 1,
-  "generated": "2026-11-10T10:43:53Z",
+  "generated": "2026-11-11T00:51:58Z",
   "bundles": [
     {
       "slug": "boldly-gone",
       "name": "Boldly Gone",
       "author": "PieOrCake.7635",
       "description": "Sci-fi flavoured interface",
-      "version": 2,
+      "version": 3,
       "requires": "1.0.0.1",
       "preview": "",
       "kind": "bundle",
-      "size": 132182,
-      "updated": "2026-11-10",
+      "size": 132365,
+      "updated": "2026-11-11",
       "zip": {
-        "tag": "boldly-gone-v2",
-        "size": 134336,
-        "sha256": "41048fd0c445a372d0dc60cd0ec6828508805503f29c6b0651949e31463eea97"
+        "tag": "boldly-gone-v3",
+        "size": 134519,
+        "sha256": "1e6a607c820b542987ebb3541f474614cc6696b74056787ceba81964e85d1e91"
       },
       "files": [
         {
           "name": "bundle.json",
           "size": 185,
-          "sha256": "3c3c046d4d456739e9ce64659caf0f22686ede979bb06713e14ede017920092d"
+          "sha256": "d032335109e9935e081c51dc9f1af4d57226e5f19bb49c6455c124a45f304963"
         },
         {
           "name": "layout.json",
-          "size": 50425,
-          "sha256": "f5747d0a736bcafe799b5952b521c442dacbb8e988deb89c37778c955a17c7cc"
+          "size": 50608,
+          "sha256": "ba9c21644b68fb86b577389499af408cc3a95dd345a8fe19321143e6f19b3d4b"
         },
         {
           "name": "lcars_block.png",
