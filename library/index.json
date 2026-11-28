@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-11-11T00:51:58Z",
+  "generated": "2026-11-28T03:13:23Z",
   "bundles": [
     {
       "slug": "boldly-gone",
@@ -131,7 +131,93 @@
           "size": 53020,
           "sha256": "96c1d902604ba4e0605834cf5557da712fe2f0578876e2319378ec61d28c819e"
         }
+      ],
+      "screen": [
+        2560,
+        1412
       ]
+    },
+    {
+      "slug": "copycat",
+      "name": "Copycat",
+      "author": "PieOrCake.7635",
+      "description": "A bit like the game's own native interface",
+      "version": 1,
+      "requires": "1.0.0.1",
+      "preview": "",
+      "kind": "bundle",
+      "size": 22617,
+      "updated": "2026-11-28",
+      "zip": {
+        "tag": "copycat-v1",
+        "size": 22835,
+        "sha256": "c391a3ef6748b560a0432acef2d213d003c8122434b6265b455da2da4df547e0"
+      },
+      "files": [
+        {
+          "name": "bundle.json",
+          "size": 172,
+          "sha256": "5ef514f17d5f376d92b542e49340a16377a85017cd9a164f5f70627ab2f461b5"
+        },
+        {
+          "name": "layout.json",
+          "size": 22445,
+          "sha256": "07f004535e638a5eafa84a9823bb34873375ce181f414e6946c450abe3a44e2d"
+        }
+      ],
+      "screenshots": [
+        {
+          "name": "1.jpg",
+          "size": 65057,
+          "sha256": "a8b37375a5a042385e38cab6f88990223d3bfc2ddf8b3b93a10ba56873850b40"
+        }
+      ],
+      "screen": [
+        3440,
+        1440
+      ],
+      "featured": 1
+    },
+    {
+      "slug": "copycat-2560x1412",
+      "name": "Copycat",
+      "author": "PieOrCake.7635",
+      "description": "A bit like the game's own native interface",
+      "version": 2,
+      "requires": "1.0.0.1",
+      "preview": "",
+      "kind": "bundle",
+      "size": 22388,
+      "updated": "2026-11-28",
+      "zip": {
+        "tag": "copycat-2560x1412-v2",
+        "size": 22606,
+        "sha256": "4b88b0873879a99414dfe50e8e52a65bf74adbc632e46084a14708b96006b16c"
+      },
+      "files": [
+        {
+          "name": "bundle.json",
+          "size": 172,
+          "sha256": "ab3328a6cbecc1292ae7020d2af40770576c87b74a1860bdf22df9e470b13f04"
+        },
+        {
+          "name": "layout.json",
+          "size": 22216,
+          "sha256": "79a6c145eeffc4f954bcebd9e965eecd3a7e6a49609546678931a1003a6eb2cc"
+        }
+      ],
+      "screenshots": [
+        {
+          "name": "1.jpg",
+          "size": 65057,
+          "sha256": "a8b37375a5a042385e38cab6f88990223d3bfc2ddf8b3b93a10ba56873850b40"
+        }
+      ],
+      "screen": [
+        2560,
+        1412
+      ],
+      "group": "copycat"
     },
     {
       "slug": "devils-orbs",
@@ -242,7 +328,1353 @@
           "size": 56133,
           "sha256": "1447fd44701bfb0cb8dc7b0a15843d3ca077a00f3e0b3338aeb2ce0a2ff57042"
         }
+      ],
+      "screen": [
+        2560,
+        1412
       ]
+    },
+    {
+      "slug": "floraui",
+      "name": "FloraUI",
+      "author": "Floralei Bloodwood",
+      "description": "Virtuoso",
+      "version": 1,
+      "requires": "1.1.0.6",
+      "preview": "",
+      "kind": "bundle",
+      "size": 514140,
+      "updated": "2026-11-28",
+      "zip": {
+        "tag": "floraui-v1",
+        "size": 516026,
+        "sha256": "f20afc0c8d647fe507ef05f4ac1578a8962be5bfea9112971300fa63e29e4641"
+      },
+      "files": [
+        {
+          "name": "Conversation box outline.png",
+          "size": 4161,
+          "sha256": "47980aae9082dda8c147266c9154901dd7ad0162f704be2203992afc6235e703"
+        },
+        {
+          "name": "Conversation box.png",
+          "size": 261256,
+          "sha256": "471fb2769b64c519cd6e7243464ccc7ef99a6665fbb9047a3898d1938848b55b"
+        },
+        {
+          "name": "ExitInstance.png",
+          "size": 2765,
+          "sha256": "99a000adaabee420215dd83c3a3837a6b3e4e08f67f1ef5b61f121f829af9aef"
+        },
+        {
+          "name": "HealthOrbBackground.png",
+          "size": 32848,
+          "sha256": "304bcf3b139cfc0fb378256836e8d6337a846df60671f2bfe9697cf3638e0b2b"
+        },
+        {
+          "name": "HealthOrbEdge.png",
+          "size": 8179,
+          "sha256": "f8615a453f08150ae9ad64c162c2bb060b539149a7403a103f32d7168e82c1c4"
+        },
+        {
+          "name": "HealthOrbEdgeHighlight2.png",
+          "size": 19051,
+          "sha256": "363c3dc88f3f457432c4346ff81a8d693b9414bc14056941125ffe241e836211"
+        },
+        {
+          "name": "HealthOrbTextureOverlay.png",
+          "size": 35578,
+          "sha256": "458ac19bf792aed21f4be9d08c3f006471ab20d46867fe92b85f5086ec05781f"
+        },
+        {
+          "name": "HighLight.png",
+          "size": 609,
+          "sha256": "d22f2e31bea09607ea6e74503aad922822cc4cfa31fb93f97f30686798c293b4"
+        },
+        {
+          "name": "HighlightGlow.png",
+          "size": 4842,
+          "sha256": "9645014489c15bed21602ae5a6a4941800f23432b2419cb48ecb36460e748742"
+        },
+        {
+          "name": "WeaponSwap.png",
+          "size": 4027,
+          "sha256": "d7952a6f2bcee1485738583cfc67c58414e5edf69728f6a29bfa2aa5ec6f91bf"
+        },
+        {
+          "name": "WhiteCircle.png",
+          "size": 6011,
+          "sha256": "f71c653512de571c3b081f70d811efeb9657d808cadcc4a814240747adfd8110"
+        },
+        {
+          "name": "XP bar ends.png",
+          "size": 7159,
+          "sha256": "3d125b44f2cf67522c4961ef1dcf1470d0839c45cc2774f387af4ae50b61dcad"
+        },
+        {
+          "name": "basebar.png",
+          "size": 33160,
+          "sha256": "b5ad3e146561d245ad3b816c442a001a40628ce2e35cfefe7e446fb53439d273"
+        },
+        {
+          "name": "bundle.json",
+          "size": 162,
+          "sha256": "c25f4a6712af3f4d804546c26baaf87813451d3a16fcf1d4556f6f1680b52c0a"
+        },
+        {
+          "name": "layout.json",
+          "size": 41401,
+          "sha256": "e59dba2263491321379ac1395b8d89ea672e010c022c43174ce1599e2aac9d80"
+        },
+        {
+          "name": "minimap.png",
+          "size": 47773,
+          "sha256": "7c4d4ea0a9e3d304fa76a76dfd622e5f6c77c4494c83c3812c58dd52f2684266"
+        },
+        {
+          "name": "skins.json",
+          "size": 5158,
+          "sha256": "f05dcfde7372c407bf7add04cf8c67b46b09757b7d8fd154d86915eb6d121f1a"
+        }
+      ],
+      "screenshots": [
+        {
+          "name": "1.jpg",
+          "size": 49644,
+          "sha256": "8d0685c202848b75dfa3b4c653c1c133bec967e31623d306a1e8ebce33f88939"
+        },
+        {
+          "name": "2.jpg",
+          "size": 51341,
+          "sha256": "3a919628a350da249b595f3e858a7c46609f4899f3fbdcd1298482eda76ae88c"
+        },
+        {
+          "name": "3.jpg",
+          "size": 65938,
+          "sha256": "9145af0b910d720601f37f334c80c98fbaa2193366e0fc7f56be19820097a809"
+        },
+        {
+          "name": "4.jpg",
+          "size": 157819,
+          "sha256": "cf8adf6841a08473b9e7437811a61c87c747442405aa08e3dae23146d4f0a930"
+        }
+      ],
+      "screen": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "slug": "in-pie-we-crust",
+      "name": "In Pie We Crust",
+      "author": "PieOrCake.7635",
+      "description": "9/10 Strayans agree that meat pie is best pie.",
+      "version": 1,
+      "requires": "1.1.0.5",
+      "preview": "",
+      "kind": "bundle",
+      "size": 2358898,
+      "updated": "2026-11-28",
+      "zip": {
+        "tag": "in-pie-we-crust-v1",
+        "size": 2363040,
+        "sha256": "2824ecf47e16b4be000d505bb25b5ae5f1d8872ac0dc67aaf292fa42f66ba0aa"
+      },
+      "files": [
+        {
+          "name": "awning.png",
+          "size": 9677,
+          "sha256": "5d7455be6ae745099193a6551e6fb25b3cc8fc0dd876d20ae01aa10cb136f1ba"
+        },
+        {
+          "name": "awning_tile.png",
+          "size": 5476,
+          "sha256": "ea58cdc584d848f5dd523ca46fb4bbeb131061ce1f5edf9fda7ff40ee9cd972c"
+        },
+        {
+          "name": "basket.png",
+          "size": 91780,
+          "sha256": "38709ba2ecf81011a1b9bc3081f660be9943d70a05d02ca9f4e2a5f1248e7149"
+        },
+        {
+          "name": "bundle.json",
+          "size": 184,
+          "sha256": "060856a0c12a05915bedabe87fc72b01cfcff1c80185081795c53e7ad0ceef02"
+        },
+        {
+          "name": "chalk_bar_empty.png",
+          "size": 110257,
+          "sha256": "e62b4a7ff276d6965e24d54f0767b2b8b4446fbb852ea33d0436f8b95fe4ea23"
+        },
+        {
+          "name": "chalk_bar_full.png",
+          "size": 146699,
+          "sha256": "15c7b66a2fb08e719740c08fc0f15cc9fe16e2a34f8ed7e7db0f97f0fd4d8111"
+        },
+        {
+          "name": "chalk_board.png",
+          "size": 94588,
+          "sha256": "d5b971bea5d4e5c2d60edd9c01c800032871c9d07d36bc010da048b3feac69df"
+        },
+        {
+          "name": "chalk_panel.png",
+          "size": 41429,
+          "sha256": "850c034326af811196dfe8280341ced19c4da15c0585c8bdd2d78a2f036f8e1e"
+        },
+        {
+          "name": "chalk_pin_empty.png",
+          "size": 64399,
+          "sha256": "482942345b2acbc8cfb82c6f03d8171dd1a5877c7770337f90085126c3b398d2"
+        },
+        {
+          "name": "chalk_pin_full.png",
+          "size": 78850,
+          "sha256": "686dee0a959b733169f47a79d91bb66427232c9e882350d76a594045c3737ac6"
+        },
+        {
+          "name": "counter_back.jpg",
+          "size": 182905,
+          "sha256": "a9c37f70f6f201691badde1d03188c86d182e7fb4a67be76fc3bf69fbb98fe19"
+        },
+        {
+          "name": "counter_glass.png",
+          "size": 33851,
+          "sha256": "a9c10b5e63467afe3ce9a0b905c8457cdb1235d2075e7752026c229765fc6519"
+        },
+        {
+          "name": "cream_front.png",
+          "size": 17903,
+          "sha256": "d1a6f902a8b6c0361f779bee8b05f27e5ab071191dca8a4de0f94d86bc1671d4"
+        },
+        {
+          "name": "cream_front_map.png",
+          "size": 242,
+          "sha256": "857769e00ff814c22cd4ad30b00cd81e83400b4ac745b9ef362646cad86b1967"
+        },
+        {
+          "name": "crust_frame.png",
+          "size": 88857,
+          "sha256": "b94ea9885258eff7c6f37dd512bd7d140b55e7b8b4364ee879f8085daacb3660"
+        },
+        {
+          "name": "layout.json",
+          "size": 24350,
+          "sha256": "59aa9b7e38ff7a446dff967476cd8ac35bbdf5363c00eb140eea3a02ce60dd31"
+        },
+        {
+          "name": "map_mask.png",
+          "size": 3047,
+          "sha256": "b6aa489e35e22dbcd0bf027f229f7f7ad6deabf203c1aaa00b6b595a0461f024"
+        },
+        {
+          "name": "order_rail.png",
+          "size": 479,
+          "sha256": "25fcd459edbbe4d13ece5fcb616d074be9fff355714578c8cefa0cfc8e76abec"
+        },
+        {
+          "name": "party_pie.png",
+          "size": 96494,
+          "sha256": "88ef4c64b38624ec1dad7d3a9176538ebd688fd2b14e4d08cc26fae404861586"
+        },
+        {
+          "name": "party_pie_mask.png",
+          "size": 6653,
+          "sha256": "894f3cd907180755eb1135ff4d638abd585198b6e4a689393de4152bd8419372"
+        },
+        {
+          "name": "pastry_baked.png",
+          "size": 252146,
+          "sha256": "6e058271550fa82e59fdb449f1b68abe45e9b77387aa776da15664c99d019a64"
+        },
+        {
+          "name": "pastry_map.png",
+          "size": 457,
+          "sha256": "1ac55267dd9275cb5673e3f5be69d2221fc6cd8490f3f3d5ac87db5805d1b654"
+        },
+        {
+          "name": "pastry_raw.png",
+          "size": 170418,
+          "sha256": "402807e4c3790016bd5333fc44ec62633dea530d6d6841eb8a241fbabdbeb4ae"
+        },
+        {
+          "name": "pie_endurance_cells.png",
+          "size": 93976,
+          "sha256": "54e0fe846344e185a45f89dd1a1e969908ea490e1839462159f0cc1cd80b0e82"
+        },
+        {
+          "name": "pie_health_cells.png",
+          "size": 255705,
+          "sha256": "e6cd8be3bb1d6203dc24b77df04807cf8df703ce44e8d82939e1d34df9bbef8d"
+        },
+        {
+          "name": "pin_empty.png",
+          "size": 78568,
+          "sha256": "9c3ad63f9c8ad5a538823888b92ce7fe4f22ac245719f5325fac07ecb2b184bd"
+        },
+        {
+          "name": "pin_fill.png",
+          "size": 38256,
+          "sha256": "6373a06d70d5a8267460258d1386e1da37ed358413cddf981360c14798e5c0ba"
+        },
+        {
+          "name": "pin_map.png",
+          "size": 375,
+          "sha256": "439370f8c9be19758e25265183596246867b0f5962508bf64f84b553accdf5e4"
+        },
+        {
+          "name": "portrait_frame.png",
+          "size": 136663,
+          "sha256": "e95e158af91d7a61e857d747d20c7f29986d4de41994b801df869f202101d260"
+        },
+        {
+          "name": "portrait_mask.png",
+          "size": 3532,
+          "sha256": "f0661ecdb4ef79683f77dd7c2a5751f9a2008bbfc43323f82dee8beed1ed0709"
+        },
+        {
+          "name": "price_tag.png",
+          "size": 2276,
+          "sha256": "d3e541bb7597911e0e11194f9572184bce4fb11e4052c5f750fd7759436dbb9d"
+        },
+        {
+          "name": "recipe_card.png",
+          "size": 922,
+          "sha256": "507dbc806c8839548bc4be2bc8d85b967ad92256aa35f1d6c4ad49abb44395ae"
+        },
+        {
+          "name": "skins.json",
+          "size": 13601,
+          "sha256": "a87ee7e8597ed7efc4697080c36f139b8247bd7f67697326df526a86648be3a7"
+        },
+        {
+          "name": "steam_cells.png",
+          "size": 90812,
+          "sha256": "a75e9d479001ea2541309b2f86ea104d0bbd3f56cf1bc377d2bd9064ef121ce3"
+        },
+        {
+          "name": "target_board.png",
+          "size": 72791,
+          "sha256": "dd2662d13d419b188f9141554026bf950481676653ab7bc118ba83d1325bece0"
+        },
+        {
+          "name": "tart_frame.png",
+          "size": 47903,
+          "sha256": "f98054365f003ab43ea4114ff6c3e58658dfeec9f5e68e1ccaa45997e34c2ae8"
+        },
+        {
+          "name": "tart_mask.png",
+          "size": 987,
+          "sha256": "56d3957b81b296b1a8c1d8e2f8b842f4add39db43c96caab7cd0e7fbd2b93eca"
+        },
+        {
+          "name": "theme.json",
+          "size": 485,
+          "sha256": "81ba5c99eee0afbdfd8c2aa62c0f54ba37adf8e8be4394dc202cdc309677f000"
+        },
+        {
+          "name": "ticket_row.png",
+          "size": 905,
+          "sha256": "cafe5aa611f333bde0697ab33b34bc5a8a544390f0eca14001df6f9921742787"
+        }
+      ],
+      "screenshots": [
+        {
+          "name": "1.jpg",
+          "size": 54660,
+          "sha256": "b0f5734fbed6f0a8b65529ee7a0b302d00bd7bc738283512e4071467dbc8af5d"
+        },
+        {
+          "name": "2.jpg",
+          "size": 43047,
+          "sha256": "25a2ab7955b70d4063aa7fb544ba0b2c9ed8e271b035205046d057b128a83487"
+        }
+      ],
+      "screen": [
+        3440,
+        1440
+      ]
+    },
+    {
+      "slug": "ironworks",
+      "name": "Ironworks",
+      "author": "PieOrCake.7635",
+      "description": "Foundry with steel and brass rivets",
+      "version": 1,
+      "requires": "1.1.0.4",
+      "preview": "",
+      "kind": "bundle",
+      "size": 1949789,
+      "updated": "2026-11-28",
+      "zip": {
+        "tag": "ironworks-v1",
+        "size": 1952669,
+        "sha256": "cadc091eab1fce80a328c96fa8c6b2c84ed35adf73303321e2010c7aa0022a82"
+      },
+      "files": [
+        {
+          "name": "bundle.json",
+          "size": 167,
+          "sha256": "633a21a589649bad37c1a4a279a9717acf855eb09606ede5819259b232257baf"
+        },
+        {
+          "name": "ironworks_bar_bg.png",
+          "size": 265,
+          "sha256": "cf5752fece7f81dcc7b1e0d4241bdbedd69fd1a6acd5cb19ef4886bff3819f28"
+        },
+        {
+          "name": "ironworks_button_bg.png",
+          "size": 15097,
+          "sha256": "0eeba7582e8332a2df8a8d6779cd7297178766f13fe23b98bfa228a64278b6b2"
+        },
+        {
+          "name": "ironworks_cracked_glass.png",
+          "size": 414865,
+          "sha256": "b151ac96cc83835b3f62baa3270a11103b9790816eec282d70f26e4ee816a272"
+        },
+        {
+          "name": "ironworks_divider.png",
+          "size": 222,
+          "sha256": "8caabc4c47448d9450e2c21b21c36b7cc1cf6490e9f5bb36337db71c0882bce2"
+        },
+        {
+          "name": "ironworks_gear.png",
+          "size": 146256,
+          "sha256": "a1d683a0366fb3302095ae55e3a76a91aae7ceadcda5c14771f6e616cf47799c"
+        },
+        {
+          "name": "ironworks_iron_tile.png",
+          "size": 183430,
+          "sha256": "31c0f4d24cf892bcab595e287083206a87c4ab17ecb55475fddf231cefe7dd78"
+        },
+        {
+          "name": "ironworks_lamp_sheet.png",
+          "size": 336895,
+          "sha256": "88fec222ae7763f18d08b45de8d8915d71e4c78cd74d39ad0706f374657e69bc"
+        },
+        {
+          "name": "ironworks_minimap_frame.png",
+          "size": 2914,
+          "sha256": "3ac8ef7aaa80474f5b07941339b1cdbc229333e9a0d714f93d763c1f292009e2"
+        },
+        {
+          "name": "ironworks_molten_tile.png",
+          "size": 443654,
+          "sha256": "2115f46a19afe66ebb78d9796903c59fc22d6cf117d926827cb546ba3156503e"
+        },
+        {
+          "name": "ironworks_plate.png",
+          "size": 53951,
+          "sha256": "793910f3ab892d72879c592a622136f8d6162d56e5de445df58bd7bb90af955e"
+        },
+        {
+          "name": "ironworks_plate_small.png",
+          "size": 14771,
+          "sha256": "bdaae535b1ea236dd0a0abe1868e851f276d0a6603e2a4d7ba4cf26217af3ff3"
+        },
+        {
+          "name": "ironworks_portrait_frame.png",
+          "size": 407,
+          "sha256": "0e0666f51f87f1e5acd02a33671138a0f48e1c7f85aa34b34fc1e2e21915aae0"
+        },
+        {
+          "name": "ironworks_row_frame.png",
+          "size": 835,
+          "sha256": "f852f5a7b0dcea1236e73b1b7bbd08f9c41792d69af475babdd7a3c63ec5b219"
+        },
+        {
+          "name": "ironworks_slot_frame.png",
+          "size": 1340,
+          "sha256": "981b5e69f467ada587f9c49c8547ea68686ca62eeb0ab5782d25c86d39c1826f"
+        },
+        {
+          "name": "ironworks_slot_mask.png",
+          "size": 372,
+          "sha256": "0e550c77cb9664fab5300afc621817b5c4b538b3fb3bf57efdf14ea7f148b7a6"
+        },
+        {
+          "name": "ironworks_slot_overlay.png",
+          "size": 583,
+          "sha256": "40fd966a4d9d9e2610bfc9834f86e0b9c33bf3bf0416a982f80600fd1edde99b"
+        },
+        {
+          "name": "ironworks_steam_sheet.png",
+          "size": 256617,
+          "sha256": "4ee1c28c74c2b8486b7b79c9ff0c4c334ab65fc541ab182fc8d8a546babb99a0"
+        },
+        {
+          "name": "ironworks_strip_frame.png",
+          "size": 795,
+          "sha256": "45a2230d633939ce28047edd7fb0cedad490f676fc585c62f9e61d8f4d35e54e"
+        },
+        {
+          "name": "ironworks_title_bar.png",
+          "size": 12704,
+          "sha256": "7aeacd3575b1b165e62befe58b1d48b2146213f64f02d589d886a58b2959a6c4"
+        },
+        {
+          "name": "ironworks_window_frame.png",
+          "size": 4637,
+          "sha256": "ffced39e6ea2488e852448df0f014b8d48b1c90e006871e598a7b2cc425eeaf8"
+        },
+        {
+          "name": "layout.json",
+          "size": 49894,
+          "sha256": "ecce2e603c1f88b8083243d950478edcca14a0dede712788448a876d4909fbc2"
+        },
+        {
+          "name": "skins.json",
+          "size": 8652,
+          "sha256": "d57276388b6e7dfb778b32c74986690b41ec5da4ba6a24aeeb90cee5a028b05f"
+        },
+        {
+          "name": "theme.json",
+          "size": 466,
+          "sha256": "e8a55f260fd0f8696807b0c3a51ad66bf9f66b19db7c4606f732982453f6d613"
+        }
+      ],
+      "screenshots": [
+        {
+          "name": "1.jpg",
+          "size": 53858,
+          "sha256": "4b7445825aae208555d4fa8053b771cd82d3daa0ceb9a9a54a783b9c298522d0"
+        },
+        {
+          "name": "2.jpg",
+          "size": 39331,
+          "sha256": "2348e5ad1001bb5c5db86314a6537ed6b9544c70e0dd78ef1678c056b9963db8"
+        },
+        {
+          "name": "3.jpg",
+          "size": 48373,
+          "sha256": "93bd44bbc8863153312e67265b08f12a5cfaa1b5e6ba68edb90fdaf7fe3a9644"
+        }
+      ],
+      "screen": [
+        3440,
+        1440
+      ]
+    },
+    {
+      "slug": "ironworks-2560x1412",
+      "name": "Ironworks",
+      "author": "PieOrCake.7635",
+      "description": "Foundry with steel and brass rivets",
+      "version": 2,
+      "requires": "1.1.0.4",
+      "preview": "",
+      "kind": "bundle",
+      "size": 1949717,
+      "updated": "2026-11-28",
+      "zip": {
+        "tag": "ironworks-2560x1412-v2",
+        "size": 1952597,
+        "sha256": "e23fca4e0edc5729fa6ed1c9b7ff7b35d34c37a2ca2f971da129c31b6536f81d"
+      },
+      "files": [
+        {
+          "name": "bundle.json",
+          "size": 167,
+          "sha256": "687a1de9233638d9992e9785b41c9f2b1a7fba241e571d95f5624012cc8f644b"
+        },
+        {
+          "name": "ironworks_bar_bg.png",
+          "size": 265,
+          "sha256": "cf5752fece7f81dcc7b1e0d4241bdbedd69fd1a6acd5cb19ef4886bff3819f28"
+        },
+        {
+          "name": "ironworks_button_bg.png",
+          "size": 15097,
+          "sha256": "0eeba7582e8332a2df8a8d6779cd7297178766f13fe23b98bfa228a64278b6b2"
+        },
+        {
+          "name": "ironworks_cracked_glass.png",
+          "size": 414865,
+          "sha256": "b151ac96cc83835b3f62baa3270a11103b9790816eec282d70f26e4ee816a272"
+        },
+        {
+          "name": "ironworks_divider.png",
+          "size": 222,
+          "sha256": "8caabc4c47448d9450e2c21b21c36b7cc1cf6490e9f5bb36337db71c0882bce2"
+        },
+        {
+          "name": "ironworks_gear.png",
+          "size": 146256,
+          "sha256": "a1d683a0366fb3302095ae55e3a76a91aae7ceadcda5c14771f6e616cf47799c"
+        },
+        {
+          "name": "ironworks_iron_tile.png",
+          "size": 183430,
+          "sha256": "31c0f4d24cf892bcab595e287083206a87c4ab17ecb55475fddf231cefe7dd78"
+        },
+        {
+          "name": "ironworks_lamp_sheet.png",
+          "size": 336895,
+          "sha256": "88fec222ae7763f18d08b45de8d8915d71e4c78cd74d39ad0706f374657e69bc"
+        },
+        {
+          "name": "ironworks_minimap_frame.png",
+          "size": 2914,
+          "sha256": "3ac8ef7aaa80474f5b07941339b1cdbc229333e9a0d714f93d763c1f292009e2"
+        },
+        {
+          "name": "ironworks_molten_tile.png",
+          "size": 443654,
+          "sha256": "2115f46a19afe66ebb78d9796903c59fc22d6cf117d926827cb546ba3156503e"
+        },
+        {
+          "name": "ironworks_plate.png",
+          "size": 53951,
+          "sha256": "793910f3ab892d72879c592a622136f8d6162d56e5de445df58bd7bb90af955e"
+        },
+        {
+          "name": "ironworks_plate_small.png",
+          "size": 14771,
+          "sha256": "bdaae535b1ea236dd0a0abe1868e851f276d0a6603e2a4d7ba4cf26217af3ff3"
+        },
+        {
+          "name": "ironworks_portrait_frame.png",
+          "size": 407,
+          "sha256": "0e0666f51f87f1e5acd02a33671138a0f48e1c7f85aa34b34fc1e2e21915aae0"
+        },
+        {
+          "name": "ironworks_row_frame.png",
+          "size": 835,
+          "sha256": "f852f5a7b0dcea1236e73b1b7bbd08f9c41792d69af475babdd7a3c63ec5b219"
+        },
+        {
+          "name": "ironworks_slot_frame.png",
+          "size": 1340,
+          "sha256": "981b5e69f467ada587f9c49c8547ea68686ca62eeb0ab5782d25c86d39c1826f"
+        },
+        {
+          "name": "ironworks_slot_mask.png",
+          "size": 372,
+          "sha256": "0e550c77cb9664fab5300afc621817b5c4b538b3fb3bf57efdf14ea7f148b7a6"
+        },
+        {
+          "name": "ironworks_slot_overlay.png",
+          "size": 583,
+          "sha256": "40fd966a4d9d9e2610bfc9834f86e0b9c33bf3bf0416a982f80600fd1edde99b"
+        },
+        {
+          "name": "ironworks_steam_sheet.png",
+          "size": 256617,
+          "sha256": "4ee1c28c74c2b8486b7b79c9ff0c4c334ab65fc541ab182fc8d8a546babb99a0"
+        },
+        {
+          "name": "ironworks_strip_frame.png",
+          "size": 795,
+          "sha256": "45a2230d633939ce28047edd7fb0cedad490f676fc585c62f9e61d8f4d35e54e"
+        },
+        {
+          "name": "ironworks_title_bar.png",
+          "size": 12704,
+          "sha256": "7aeacd3575b1b165e62befe58b1d48b2146213f64f02d589d886a58b2959a6c4"
+        },
+        {
+          "name": "ironworks_window_frame.png",
+          "size": 4637,
+          "sha256": "ffced39e6ea2488e852448df0f014b8d48b1c90e006871e598a7b2cc425eeaf8"
+        },
+        {
+          "name": "layout.json",
+          "size": 49822,
+          "sha256": "e9d62aa56babfb9ec720d3f7ca4a6cd09fb9540c32947c9c8ab4fe03d93e2f4e"
+        },
+        {
+          "name": "skins.json",
+          "size": 8652,
+          "sha256": "d57276388b6e7dfb778b32c74986690b41ec5da4ba6a24aeeb90cee5a028b05f"
+        },
+        {
+          "name": "theme.json",
+          "size": 466,
+          "sha256": "e8a55f260fd0f8696807b0c3a51ad66bf9f66b19db7c4606f732982453f6d613"
+        }
+      ],
+      "screenshots": [
+        {
+          "name": "1.jpg",
+          "size": 53858,
+          "sha256": "4b7445825aae208555d4fa8053b771cd82d3daa0ceb9a9a54a783b9c298522d0"
+        },
+        {
+          "name": "2.jpg",
+          "size": 39331,
+          "sha256": "2348e5ad1001bb5c5db86314a6537ed6b9544c70e0dd78ef1678c056b9963db8"
+        },
+        {
+          "name": "3.jpg",
+          "size": 48373,
+          "sha256": "93bd44bbc8863153312e67265b08f12a5cfaa1b5e6ba68edb90fdaf7fe3a9644"
+        }
+      ],
+      "screen": [
+        2560,
+        1412
+      ],
+      "group": "ironworks"
+    },
+    {
+      "slug": "neon-grid",
+      "name": "Neon Grid",
+      "author": "PieOrCake.7635",
+      "description": "Futuristic cyberpunk style",
+      "version": 2,
+      "requires": "1.1.0.5",
+      "preview": "",
+      "kind": "bundle",
+      "size": 1126095,
+      "updated": "2026-11-28",
+      "zip": {
+        "tag": "neon-grid-v2",
+        "size": 1133539,
+        "sha256": "5bcfe8a4b121246fd2a40bae345d82fc0a570c5caed57861e0fb268a285353af"
+      },
+      "files": [
+        {
+          "name": "bundle.json",
+          "size": 158,
+          "sha256": "ef3f02a8ff44e1f9773274ee954c40c2fec782a5478dd92386c11cf730772e5a"
+        },
+        {
+          "name": "layout.json",
+          "size": 51766,
+          "sha256": "e1b3a57dcf745b959388972a72bab94a769ebf642c6a0592740a3c4f767158a7"
+        },
+        {
+          "name": "neongrid_bracket_sheet.png",
+          "size": 14089,
+          "sha256": "125b1afa09379eeff2b9f64c179fcadecbde40e9c2befad5616eeca48695ecd4"
+        },
+        {
+          "name": "neongrid_chat_mask.png",
+          "size": 2322,
+          "sha256": "c862e82c2e1fb5d4fbf3a62e36f1205e51711efcf547cd8628b57a0ccaafa168"
+        },
+        {
+          "name": "neongrid_chat_overlay.png",
+          "size": 2254,
+          "sha256": "efd8df80346c7815e23e35e8bf32cedd70b22f1180ff1865d5a77596757692fe"
+        },
+        {
+          "name": "neongrid_chat_panel.png",
+          "size": 3552,
+          "sha256": "a5469a31ecfd9864a8bb1a4993b5e6a307f03091655e075922be625719916b79"
+        },
+        {
+          "name": "neongrid_edge_glow.png",
+          "size": 4258,
+          "sha256": "9df98100fc870c2c62c7f706ece34c17609b48da469ba20e4ca970d3e1cc08eb"
+        },
+        {
+          "name": "neongrid_effects_frame.png",
+          "size": 906,
+          "sha256": "1fbf042010fde87bef7ffd9a1b32fcd8c31bdec1b9b9a8baffb5f5db2b400273"
+        },
+        {
+          "name": "neongrid_effects_mask.png",
+          "size": 394,
+          "sha256": "57c3df907e70d485123989106337c133169c72db13642680635586bdc9af6813"
+        },
+        {
+          "name": "neongrid_endurance_bg.png",
+          "size": 2641,
+          "sha256": "e5008a34de9a1ba3a9dd29214cc6dd5109e9b5546d3c05b7abf356bd4264a389"
+        },
+        {
+          "name": "neongrid_endurance_fill.png",
+          "size": 4858,
+          "sha256": "5472cad9a835a392b6c9fe8e9c6388712d42f3eb7a5ce338e35876026a3ba1ba"
+        },
+        {
+          "name": "neongrid_endurance_frame.png",
+          "size": 2156,
+          "sha256": "c64cbe68a9565b1d02bc9e442e5400886b5d39f5ecb40d029c99168d81480d9f"
+        },
+        {
+          "name": "neongrid_glitch_bars_sheet.png",
+          "size": 3319,
+          "sha256": "12b261ca228fabb2dd9083cdbcf20fc2a37cefeba732ba3cbfdb742a2e0af23e"
+        },
+        {
+          "name": "neongrid_guide_divider.png",
+          "size": 478,
+          "sha256": "0a42107d7e22c9ec56f7c4213305cbd6dd47659e313767fafafa5de26d27ae8d"
+        },
+        {
+          "name": "neongrid_guide_mask.png",
+          "size": 1406,
+          "sha256": "e51df47ef6dc9ea3ab94226a5d754843012ebc11aa39b0b9d556294386ac2f8d"
+        },
+        {
+          "name": "neongrid_guide_overlay.png",
+          "size": 1218,
+          "sha256": "d3f900c2cb11600ee9260b3505b978caecccb8652b43d5df8022177ca436477a"
+        },
+        {
+          "name": "neongrid_guide_panel.png",
+          "size": 1826,
+          "sha256": "cb707a7cffb4f6c6ff2825f55b4c063068cde2398379b46b4cb2b8f67e150d6e"
+        },
+        {
+          "name": "neongrid_guide_progress_bg.png",
+          "size": 753,
+          "sha256": "dd9dea086878934dda080991db4f7b9ed3ad777aa5bddaea14008d1c63554482"
+        },
+        {
+          "name": "neongrid_guide_progress_fill.png",
+          "size": 912,
+          "sha256": "cca81725218c7c8d62ea163b14ab5eed52894388cdadc610950eae25d6feafeb"
+        },
+        {
+          "name": "neongrid_health_empty.png",
+          "size": 18287,
+          "sha256": "b703ccdd5e0ef326c7619ce63da952a904c1f11657179301644a9fb78688b0ea"
+        },
+        {
+          "name": "neongrid_health_fillmap.png",
+          "size": 2638,
+          "sha256": "b73882ba3cc7ea2855fe705003b7acbd4355d73e115a97d522208f0bccf09479"
+        },
+        {
+          "name": "neongrid_health_frame.png",
+          "size": 5191,
+          "sha256": "f9b07a1fecc78dc55031051670b4bb28d7adf656a1419583a5a3e36a934cf912"
+        },
+        {
+          "name": "neongrid_health_picture.png",
+          "size": 33929,
+          "sha256": "b96ceb285bc3a204afb687c4ce251ae510be7ea2bbead096de21ad46dfb85ccc"
+        },
+        {
+          "name": "neongrid_health_tex_data.png",
+          "size": 680,
+          "sha256": "30db2ca262a6738ab90f20da04ec1622d3951058af8112bcef1f9449b5890ef3"
+        },
+        {
+          "name": "neongrid_health_tex_scan.png",
+          "size": 194,
+          "sha256": "2c9f73ac1ea3d8b4d2a45da0c4d320caacbdbda86bef21bf1b814be4c2e02e82"
+        },
+        {
+          "name": "neongrid_holo_base.png",
+          "size": 13861,
+          "sha256": "9372f3fd0b4a07fdc123c02bcad5cc472dae3bb1ec155a7a101b27bd86d992b8"
+        },
+        {
+          "name": "neongrid_instance_bg.png",
+          "size": 1737,
+          "sha256": "6b98ee96d587777fce73a1a9ee249f0ce046030adeb7f604a70821fd2ae4548d"
+        },
+        {
+          "name": "neongrid_minimap_mask.png",
+          "size": 7344,
+          "sha256": "2a6d0af9cfc11a3259f1dcd17afa0310feb479c8a79304f4d5cd4481ff0e86cd"
+        },
+        {
+          "name": "neongrid_minimap_overlay.png",
+          "size": 93541,
+          "sha256": "7402cae86050db672f73abe72481705e91a5837d248791e2807d93ac3809f221"
+        },
+        {
+          "name": "neongrid_minimap_ring.png",
+          "size": 67048,
+          "sha256": "a9a8e12c8c5ee22604b939cf93a5c2e0fb3f19d4a5315057ab702a807337ad80"
+        },
+        {
+          "name": "neongrid_minimap_ticks.png",
+          "size": 17555,
+          "sha256": "fda1a3779c197faaeb226ed3b132340fb2f213d69a0e1a4cddf20f9b47ddebdf"
+        },
+        {
+          "name": "neongrid_mount_holo_sheet.png",
+          "size": 520466,
+          "sha256": "ec833a6a92a2f4ed4cf74562b9f4e81c70611a2d1d5f29e7e986b6a1b247e6be"
+        },
+        {
+          "name": "neongrid_portrait_frame.png",
+          "size": 7161,
+          "sha256": "2fa78604ea79709502b37d77bdfed2513a2d87b1f319ada8b6b43a9af16f63e7"
+        },
+        {
+          "name": "neongrid_portrait_frame_white.png",
+          "size": 6790,
+          "sha256": "89226f02c43f0ba573ed740bf59c9cff1334215ce9a24dc0ace2c4ca507cf938"
+        },
+        {
+          "name": "neongrid_portrait_glitch_sheet.png",
+          "size": 28897,
+          "sha256": "75540f2734e89ce2c967c49b9171adbb9891f4d91fb335467454d2f1e12ccda9"
+        },
+        {
+          "name": "neongrid_portrait_mask.png",
+          "size": 1920,
+          "sha256": "18c808f433b9fed89a8d401d544951041823cce70cec80a2881cf2c4caf9c8ed"
+        },
+        {
+          "name": "neongrid_portrait_static_sheet.png",
+          "size": 120484,
+          "sha256": "dd5d7c57582c1a03a7605a965b11a5f3c17873a1edcc8dd481b847720368998f"
+        },
+        {
+          "name": "neongrid_row_accent.png",
+          "size": 1622,
+          "sha256": "44c5bd3c2c2cefd17eb6c892bbce71d92fbdffd9f26e27ed357f9d888157e49e"
+        },
+        {
+          "name": "neongrid_row_bg.png",
+          "size": 923,
+          "sha256": "26324981108b349183f68009042b73c8a5b61685d9c7acace83e7d87bc9a8d84"
+        },
+        {
+          "name": "neongrid_row_fill.png",
+          "size": 3230,
+          "sha256": "dec9015ff33a902a59f002c43e27b8c4d88bee485fb1d2d5f8be218138efe071"
+        },
+        {
+          "name": "neongrid_row_frame.png",
+          "size": 2425,
+          "sha256": "9e10b92652db340238a31ef49c3a56cf3f3bc694d43f50e7996521162959462e"
+        },
+        {
+          "name": "neongrid_scanline_tile.png",
+          "size": 73,
+          "sha256": "1bf1ecfb82da406776896895f7775ecbac0de4a1e7cacc486baa0d14bfc8a506"
+        },
+        {
+          "name": "neongrid_slot_frame.png",
+          "size": 4561,
+          "sha256": "982db973c699593a3f860c4145be94caaaa09ada84e9bf8ef0b5902176b5e538"
+        },
+        {
+          "name": "neongrid_slot_mask.png",
+          "size": 794,
+          "sha256": "b56962cd231f3431fb3deafe7c0bde4f6ed51f107fdf273851e98cfd540df4c3"
+        },
+        {
+          "name": "neongrid_slot_overlay.png",
+          "size": 1345,
+          "sha256": "e723e31125bf8813f6e1e79f16524405620acf526c5c4f1801a18bb54caeef98"
+        },
+        {
+          "name": "neongrid_small_mask.png",
+          "size": 643,
+          "sha256": "514fce830e1ab7f4d0bdf1f8a2d865c87f0bdfa498cbdea7797220199b9c88e9"
+        },
+        {
+          "name": "neongrid_small_overlay.png",
+          "size": 625,
+          "sha256": "b103f4b341b2452def8d1afffb25411ad9b62dbfbde8776d67b6b6f8a3e07a0f"
+        },
+        {
+          "name": "neongrid_small_panel.png",
+          "size": 1119,
+          "sha256": "a52c10bdacfdda2e9b186aae3cf0532583835609cc67dcbd5e259780d0915130"
+        },
+        {
+          "name": "neongrid_strip_frame.png",
+          "size": 1507,
+          "sha256": "81c23a35753e85fd71230c68fd4870ebcb25aab445ecfbcd55b56d6416105158"
+        },
+        {
+          "name": "neongrid_talk_portrait_overlay.png",
+          "size": 5398,
+          "sha256": "556be03ab0705ad655d2a5fcff0be3f640772c7a69bee659118886d0ecc97cdf"
+        },
+        {
+          "name": "neongrid_target_empty.png",
+          "size": 4089,
+          "sha256": "b408399eeba8bb1d18b5fe693861b45cb1db50796aabbe920c7a2a1354b29064"
+        },
+        {
+          "name": "neongrid_target_fillmap.png",
+          "size": 1534,
+          "sha256": "ea8ccedefaa620c06ae28e899834448b7de3fe23538c1fc5c89a8024759ec372"
+        },
+        {
+          "name": "neongrid_target_frame.png",
+          "size": 4121,
+          "sha256": "33d1195d2a06e9c53b8e2fd5fe5343fb4934ab9c60741c63d7bd4edca8ac7206"
+        },
+        {
+          "name": "neongrid_target_picture.png",
+          "size": 13443,
+          "sha256": "978c32682103c541de558b902720ce6d82fa4b3bbb4a20d614e5d6588bbf10c8"
+        },
+        {
+          "name": "neongrid_transmission_tag.png",
+          "size": 5144,
+          "sha256": "8040403d0b700a5f3f447849ba17c45146d76dbcbb37fb9891fd794c1dd640f8"
+        },
+        {
+          "name": "neongrid_window_frame.png",
+          "size": 4902,
+          "sha256": "db9a37c42eb81b2eb65a304282f4282362aca942c61cde5fcdc4fbc1c5b8388f"
+        },
+        {
+          "name": "neongrid_window_mask.png",
+          "size": 2241,
+          "sha256": "9fb3509d30ae0801e62b92c2ccfbf3348af8d060a875a96d372fe439e964daad"
+        },
+        {
+          "name": "skins.json",
+          "size": 18864,
+          "sha256": "81099f2c886dd14fa8f4a43886f53f81b8e02a39aceab1c37024b85e3fd71fb3"
+        },
+        {
+          "name": "theme.json",
+          "size": 503,
+          "sha256": "13011dfbec33b25e95417730657a5fdcf149566cb7302a9b9de8fe2706a7359c"
+        }
+      ],
+      "screenshots": [
+        {
+          "name": "1.jpg",
+          "size": 71457,
+          "sha256": "5971c68362e5d9ef59e6cc5507f394990aa9805e629140a45b89a5d3144f0cea"
+        },
+        {
+          "name": "2.jpg",
+          "size": 28387,
+          "sha256": "5b931ebe763ae517aeb067447d2d90933e8cd93ecea3cac33abbd7c3c6cffeaf"
+        },
+        {
+          "name": "3.jpg",
+          "size": 50987,
+          "sha256": "93dcbf36843ee02b3b11cbf7a676e094fa4139c8e322e72c5e4e2cf0ed772045"
+        }
+      ],
+      "screen": [
+        3440,
+        1440
+      ]
+    },
+    {
+      "slug": "neon-grid-2560x1412",
+      "name": "Neon Grid",
+      "author": "PieOrCake.7635",
+      "description": "Futuristic cyberpunk style",
+      "version": 3,
+      "requires": "1.1.0.5",
+      "preview": "",
+      "kind": "bundle",
+      "size": 999183,
+      "updated": "2026-11-28",
+      "zip": {
+        "tag": "neon-grid-2560x1412-v3",
+        "size": 1006347,
+        "sha256": "ebbc962f10cc9a13a290f61a0a1cc784868fa3a40c3b34f3280fef15af592b2b"
+      },
+      "files": [
+        {
+          "name": "bundle.json",
+          "size": 158,
+          "sha256": "16a94f8aac9da3b75a2d60e11136a481bc8c6257be700a812b9a6045f476ae84"
+        },
+        {
+          "name": "layout.json",
+          "size": 48657,
+          "sha256": "61543b6e5c653a7a251f5df9a920e00cabc865f436aa8fdf4b5001826ee06bb9"
+        },
+        {
+          "name": "neongrid_bracket_sheet.png",
+          "size": 14089,
+          "sha256": "125b1afa09379eeff2b9f64c179fcadecbde40e9c2befad5616eeca48695ecd4"
+        },
+        {
+          "name": "neongrid_chat_mask.png",
+          "size": 2322,
+          "sha256": "c862e82c2e1fb5d4fbf3a62e36f1205e51711efcf547cd8628b57a0ccaafa168"
+        },
+        {
+          "name": "neongrid_chat_overlay.png",
+          "size": 2254,
+          "sha256": "efd8df80346c7815e23e35e8bf32cedd70b22f1180ff1865d5a77596757692fe"
+        },
+        {
+          "name": "neongrid_chat_panel.png",
+          "size": 3552,
+          "sha256": "a5469a31ecfd9864a8bb1a4993b5e6a307f03091655e075922be625719916b79"
+        },
+        {
+          "name": "neongrid_edge_glow.png",
+          "size": 4258,
+          "sha256": "9df98100fc870c2c62c7f706ece34c17609b48da469ba20e4ca970d3e1cc08eb"
+        },
+        {
+          "name": "neongrid_effects_frame.png",
+          "size": 906,
+          "sha256": "1fbf042010fde87bef7ffd9a1b32fcd8c31bdec1b9b9a8baffb5f5db2b400273"
+        },
+        {
+          "name": "neongrid_effects_mask.png",
+          "size": 394,
+          "sha256": "57c3df907e70d485123989106337c133169c72db13642680635586bdc9af6813"
+        },
+        {
+          "name": "neongrid_endurance_bg.png",
+          "size": 2641,
+          "sha256": "e5008a34de9a1ba3a9dd29214cc6dd5109e9b5546d3c05b7abf356bd4264a389"
+        },
+        {
+          "name": "neongrid_endurance_fill.png",
+          "size": 4858,
+          "sha256": "5472cad9a835a392b6c9fe8e9c6388712d42f3eb7a5ce338e35876026a3ba1ba"
+        },
+        {
+          "name": "neongrid_endurance_frame.png",
+          "size": 2156,
+          "sha256": "c64cbe68a9565b1d02bc9e442e5400886b5d39f5ecb40d029c99168d81480d9f"
+        },
+        {
+          "name": "neongrid_guide_divider.png",
+          "size": 478,
+          "sha256": "0a42107d7e22c9ec56f7c4213305cbd6dd47659e313767fafafa5de26d27ae8d"
+        },
+        {
+          "name": "neongrid_guide_mask.png",
+          "size": 1406,
+          "sha256": "e51df47ef6dc9ea3ab94226a5d754843012ebc11aa39b0b9d556294386ac2f8d"
+        },
+        {
+          "name": "neongrid_guide_overlay.png",
+          "size": 1218,
+          "sha256": "d3f900c2cb11600ee9260b3505b978caecccb8652b43d5df8022177ca436477a"
+        },
+        {
+          "name": "neongrid_guide_panel.png",
+          "size": 1826,
+          "sha256": "cb707a7cffb4f6c6ff2825f55b4c063068cde2398379b46b4cb2b8f67e150d6e"
+        },
+        {
+          "name": "neongrid_guide_progress_bg.png",
+          "size": 753,
+          "sha256": "dd9dea086878934dda080991db4f7b9ed3ad777aa5bddaea14008d1c63554482"
+        },
+        {
+          "name": "neongrid_guide_progress_fill.png",
+          "size": 912,
+          "sha256": "cca81725218c7c8d62ea163b14ab5eed52894388cdadc610950eae25d6feafeb"
+        },
+        {
+          "name": "neongrid_health_empty.png",
+          "size": 18287,
+          "sha256": "b703ccdd5e0ef326c7619ce63da952a904c1f11657179301644a9fb78688b0ea"
+        },
+        {
+          "name": "neongrid_health_fillmap.png",
+          "size": 2638,
+          "sha256": "b73882ba3cc7ea2855fe705003b7acbd4355d73e115a97d522208f0bccf09479"
+        },
+        {
+          "name": "neongrid_health_frame.png",
+          "size": 5191,
+          "sha256": "f9b07a1fecc78dc55031051670b4bb28d7adf656a1419583a5a3e36a934cf912"
+        },
+        {
+          "name": "neongrid_health_picture.png",
+          "size": 33929,
+          "sha256": "b96ceb285bc3a204afb687c4ce251ae510be7ea2bbead096de21ad46dfb85ccc"
+        },
+        {
+          "name": "neongrid_health_tex_data.png",
+          "size": 680,
+          "sha256": "30db2ca262a6738ab90f20da04ec1622d3951058af8112bcef1f9449b5890ef3"
+        },
+        {
+          "name": "neongrid_health_tex_scan.png",
+          "size": 194,
+          "sha256": "2c9f73ac1ea3d8b4d2a45da0c4d320caacbdbda86bef21bf1b814be4c2e02e82"
+        },
+        {
+          "name": "neongrid_holo_base.png",
+          "size": 13861,
+          "sha256": "9372f3fd0b4a07fdc123c02bcad5cc472dae3bb1ec155a7a101b27bd86d992b8"
+        },
+        {
+          "name": "neongrid_instance_bg.png",
+          "size": 1737,
+          "sha256": "6b98ee96d587777fce73a1a9ee249f0ce046030adeb7f604a70821fd2ae4548d"
+        },
+        {
+          "name": "neongrid_minimap_mask.png",
+          "size": 7344,
+          "sha256": "2a6d0af9cfc11a3259f1dcd17afa0310feb479c8a79304f4d5cd4481ff0e86cd"
+        },
+        {
+          "name": "neongrid_minimap_overlay.png",
+          "size": 93541,
+          "sha256": "7402cae86050db672f73abe72481705e91a5837d248791e2807d93ac3809f221"
+        },
+        {
+          "name": "neongrid_minimap_ring.png",
+          "size": 67048,
+          "sha256": "a9a8e12c8c5ee22604b939cf93a5c2e0fb3f19d4a5315057ab702a807337ad80"
+        },
+        {
+          "name": "neongrid_minimap_ticks.png",
+          "size": 17555,
+          "sha256": "fda1a3779c197faaeb226ed3b132340fb2f213d69a0e1a4cddf20f9b47ddebdf"
+        },
+        {
+          "name": "neongrid_mount_holo_sheet.png",
+          "size": 520466,
+          "sha256": "ec833a6a92a2f4ed4cf74562b9f4e81c70611a2d1d5f29e7e986b6a1b247e6be"
+        },
+        {
+          "name": "neongrid_portrait_frame.png",
+          "size": 7161,
+          "sha256": "2fa78604ea79709502b37d77bdfed2513a2d87b1f319ada8b6b43a9af16f63e7"
+        },
+        {
+          "name": "neongrid_portrait_frame_white.png",
+          "size": 6790,
+          "sha256": "89226f02c43f0ba573ed740bf59c9cff1334215ce9a24dc0ace2c4ca507cf938"
+        },
+        {
+          "name": "neongrid_portrait_glitch_sheet.png",
+          "size": 28897,
+          "sha256": "75540f2734e89ce2c967c49b9171adbb9891f4d91fb335467454d2f1e12ccda9"
+        },
+        {
+          "name": "neongrid_portrait_mask.png",
+          "size": 1920,
+          "sha256": "18c808f433b9fed89a8d401d544951041823cce70cec80a2881cf2c4caf9c8ed"
+        },
+        {
+          "name": "neongrid_row_accent.png",
+          "size": 1622,
+          "sha256": "44c5bd3c2c2cefd17eb6c892bbce71d92fbdffd9f26e27ed357f9d888157e49e"
+        },
+        {
+          "name": "neongrid_row_bg.png",
+          "size": 923,
+          "sha256": "26324981108b349183f68009042b73c8a5b61685d9c7acace83e7d87bc9a8d84"
+        },
+        {
+          "name": "neongrid_row_fill.png",
+          "size": 3230,
+          "sha256": "dec9015ff33a902a59f002c43e27b8c4d88bee485fb1d2d5f8be218138efe071"
+        },
+        {
+          "name": "neongrid_row_frame.png",
+          "size": 2425,
+          "sha256": "9e10b92652db340238a31ef49c3a56cf3f3bc694d43f50e7996521162959462e"
+        },
+        {
+          "name": "neongrid_scanline_tile.png",
+          "size": 73,
+          "sha256": "1bf1ecfb82da406776896895f7775ecbac0de4a1e7cacc486baa0d14bfc8a506"
+        },
+        {
+          "name": "neongrid_slot_frame.png",
+          "size": 4561,
+          "sha256": "982db973c699593a3f860c4145be94caaaa09ada84e9bf8ef0b5902176b5e538"
+        },
+        {
+          "name": "neongrid_slot_mask.png",
+          "size": 794,
+          "sha256": "b56962cd231f3431fb3deafe7c0bde4f6ed51f107fdf273851e98cfd540df4c3"
+        },
+        {
+          "name": "neongrid_slot_overlay.png",
+          "size": 1345,
+          "sha256": "e723e31125bf8813f6e1e79f16524405620acf526c5c4f1801a18bb54caeef98"
+        },
+        {
+          "name": "neongrid_small_mask.png",
+          "size": 643,
+          "sha256": "514fce830e1ab7f4d0bdf1f8a2d865c87f0bdfa498cbdea7797220199b9c88e9"
+        },
+        {
+          "name": "neongrid_small_overlay.png",
+          "size": 625,
+          "sha256": "b103f4b341b2452def8d1afffb25411ad9b62dbfbde8776d67b6b6f8a3e07a0f"
+        },
+        {
+          "name": "neongrid_small_panel.png",
+          "size": 1119,
+          "sha256": "a52c10bdacfdda2e9b186aae3cf0532583835609cc67dcbd5e259780d0915130"
+        },
+        {
+          "name": "neongrid_strip_frame.png",
+          "size": 1507,
+          "sha256": "81c23a35753e85fd71230c68fd4870ebcb25aab445ecfbcd55b56d6416105158"
+        },
+        {
+          "name": "neongrid_talk_portrait_overlay.png",
+          "size": 5398,
+          "sha256": "556be03ab0705ad655d2a5fcff0be3f640772c7a69bee659118886d0ecc97cdf"
+        },
+        {
+          "name": "neongrid_target_empty.png",
+          "size": 4089,
+          "sha256": "b408399eeba8bb1d18b5fe693861b45cb1db50796aabbe920c7a2a1354b29064"
+        },
+        {
+          "name": "neongrid_target_fillmap.png",
+          "size": 1534,
+          "sha256": "ea8ccedefaa620c06ae28e899834448b7de3fe23538c1fc5c89a8024759ec372"
+        },
+        {
+          "name": "neongrid_target_frame.png",
+          "size": 4121,
+          "sha256": "33d1195d2a06e9c53b8e2fd5fe5343fb4934ab9c60741c63d7bd4edca8ac7206"
+        },
+        {
+          "name": "neongrid_target_picture.png",
+          "size": 13443,
+          "sha256": "978c32682103c541de558b902720ce6d82fa4b3bbb4a20d614e5d6588bbf10c8"
+        },
+        {
+          "name": "neongrid_transmission_tag.png",
+          "size": 5144,
+          "sha256": "8040403d0b700a5f3f447849ba17c45146d76dbcbb37fb9891fd794c1dd640f8"
+        },
+        {
+          "name": "neongrid_window_frame.png",
+          "size": 4902,
+          "sha256": "db9a37c42eb81b2eb65a304282f4282362aca942c61cde5fcdc4fbc1c5b8388f"
+        },
+        {
+          "name": "neongrid_window_mask.png",
+          "size": 2241,
+          "sha256": "9fb3509d30ae0801e62b92c2ccfbf3348af8d060a875a96d372fe439e964daad"
+        },
+        {
+          "name": "skins.json",
+          "size": 18864,
+          "sha256": "81099f2c886dd14fa8f4a43886f53f81b8e02a39aceab1c37024b85e3fd71fb3"
+        },
+        {
+          "name": "theme.json",
+          "size": 503,
+          "sha256": "13011dfbec33b25e95417730657a5fdcf149566cb7302a9b9de8fe2706a7359c"
+        }
+      ],
+      "screenshots": [
+        {
+          "name": "1.jpg",
+          "size": 71457,
+          "sha256": "5971c68362e5d9ef59e6cc5507f394990aa9805e629140a45b89a5d3144f0cea"
+        },
+        {
+          "name": "2.jpg",
+          "size": 28387,
+          "sha256": "5b931ebe763ae517aeb067447d2d90933e8cd93ecea3cac33abbd7c3c6cffeaf"
+        },
+        {
+          "name": "3.jpg",
+          "size": 50987,
+          "sha256": "93dcbf36843ee02b3b11cbf7a676e094fa4139c8e322e72c5e4e2cf0ed772045"
+        }
+      ],
+      "screen": [
+        2560,
+        1412
+      ],
+      "group": "neon-grid"
     },
     {
       "slug": "pies-demo-bundle",
@@ -338,6 +1770,10 @@
           "size": 47662,
           "sha256": "b7c7b8749ed25a760c7740d660ef876440fd1071395bf9f6d4fa56e389bccc5b"
         }
+      ],
+      "screen": [
+        3440,
+        1373
       ]
     },
     {
@@ -414,6 +1850,10 @@
           "size": 29654,
           "sha256": "deb334a0656391327b82e879a018a6918bd22572d38248ff102c328508190750"
         }
+      ],
+      "screen": [
+        1920,
+        1080
       ]
     }
   ]

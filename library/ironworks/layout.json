@@ -1,0 +1,2553 @@
+{
+  "arcRadius": 251.13844299316406,
+  "arcSpreadDeg": 104.0,
+  "arcThickness": 17.453636169433594,
+  "barCorners": 0.0,
+  "boonIconSize": 0.014325008727610111,
+  "boonOutOfCombatOpacity": 0.5,
+  "boon_color": [
+    0.49799999594688416,
+    0.7215999960899353,
+    0.8156999945640564,
+    1.0
+  ],
+  "boon_frame": {
+    "pos": [
+      -535.2449340820313,
+      493.55010986328125
+    ],
+    "size": [
+      0.07002340257167816,
+      0.16252373158931732
+    ]
+  },
+  "bottomLine": {
+    "bgColorOwn": [
+      0.08240000158548355,
+      0.06669999659061432,
+      0.05490000173449516,
+      0.8500000238418579
+    ],
+    "bgColorSet": true,
+    "combatOpacity": 0.75,
+    "enabled": true,
+    "fontColor": [
+      0.9412000179290771,
+      0.89410001039505,
+      0.7882000207901001,
+      1.0
+    ],
+    "outOfCombatOpacity": 0.75,
+    "rect": {
+      "pos": [
+        0.5,
+        0.9934031963348389
+      ],
+      "size": [
+        0.5804349184036255,
+        0.028497107326984406
+      ]
+    },
+    "screenAnchor": 2,
+    "widgetSpacing": 17.453636169433594,
+    "widgets": [
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [
+          1
+        ],
+        "enabled": true,
+        "order": 60,
+        "slot": 1,
+        "subFlags": 4294967293,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [
+          1
+        ],
+        "enabled": true,
+        "order": 100,
+        "slot": 0,
+        "subFlags": 4294967291,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          0.9404761791229248,
+          0.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [
+          1
+        ],
+        "enabled": true,
+        "order": 90,
+        "slot": 1,
+        "subFlags": 4294967293,
+        "toggleIds": [],
+        "useCustomColor": true
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [
+          1
+        ],
+        "enabled": false,
+        "order": 30,
+        "slot": 1,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [
+          1
+        ],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [
+          1
+        ],
+        "enabled": true,
+        "order": 30,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [
+          1,
+          2,
+          45,
+          28
+        ],
+        "enabled": true,
+        "order": 120,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          0.11764705926179886,
+          1.0,
+          0.05098039284348488,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [
+          1
+        ],
+        "enabled": true,
+        "order": 70,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": true
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          0.1170281171798706,
+          1.0,
+          0.049107134342193604,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [
+          1
+        ],
+        "enabled": true,
+        "order": 80,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": true
+      },
+      {
+        "clockSeconds": true,
+        "clockShowAll": false,
+        "color": [
+          0.7544642686843872,
+          0.6466729640960693,
+          0.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [
+          1
+        ],
+        "enabled": true,
+        "order": 110,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": true
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [
+          1
+        ],
+        "enabled": true,
+        "order": 10,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": true,
+        "order": 40,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": true,
+        "order": 50,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": true,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": true,
+        "order": 20,
+        "slot": 0,
+        "subFlags": 4294967294,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      }
+    ]
+  },
+  "castBarEnabled": true,
+  "castBarOnlyWhileCasting": true,
+  "castBarOutOfCombatOpacity": 0.6499999761581421,
+  "cast_bar_frame": {
+    "pos": [
+      -0.4848232567310333,
+      278.28857421875
+    ],
+    "size": [
+      0.08070969581604004,
+      0.029065236449241638
+    ]
+  },
+  "chatColors": [
+    {
+      "name": [
+        0.8500000238418579,
+        0.44999998807907104,
+        0.44999998807907104,
+        1.0
+      ],
+      "sender": [
+        0.8500000238418579,
+        0.44999998807907104,
+        0.44999998807907104,
+        1.0
+      ],
+      "text": [
+        0.8500000238418579,
+        0.44999998807907104,
+        0.44999998807907104,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.8050000071525574,
+        0.8500000238418579,
+        0.3999999761581421,
+        1.0
+      ],
+      "sender": [
+        0.8039215803146362,
+        0.8509804010391235,
+        0.4000000059604645,
+        1.0
+      ],
+      "text": [
+        0.8039215803146362,
+        0.8509804010391235,
+        0.4000000059604645,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.19152583181858063,
+        0.6919642686843872,
+        0.24713002145290375,
+        1.0
+      ],
+      "sender": [
+        0.1921568661928177,
+        0.6901960968971252,
+        0.24705882370471954,
+        1.0
+      ],
+      "text": [
+        0.1921568661928177,
+        0.6901960968971252,
+        0.24705882370471954,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.11136799305677414,
+        0.5669642686843872,
+        0.16159118711948395,
+        1.0
+      ],
+      "sender": [
+        0.10980392247438431,
+        0.5686274766921997,
+        0.16078431904315948,
+        1.0
+      ],
+      "text": [
+        0.10980392247438431,
+        0.5686274766921997,
+        0.16078431904315948,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.0235294122248888,
+        0.3686274588108063,
+        0.062745101749897,
+        1.0
+      ],
+      "sender": [
+        0.0235294122248888,
+        0.3686274588108063,
+        0.062745101749897,
+        1.0
+      ],
+      "text": [
+        0.4000000059604645,
+        0.8500000238418579,
+        0.44999998807907104,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.4000000059604645,
+        0.8500000238418579,
+        0.44999998807907104,
+        1.0
+      ],
+      "sender": [
+        0.4000000059604645,
+        0.8500000238418579,
+        0.44999998807907104,
+        1.0
+      ],
+      "text": [
+        0.4000000059604645,
+        0.8500000238418579,
+        0.44999998807907104,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.4000000059604645,
+        0.8500000238418579,
+        0.44999998807907104,
+        1.0
+      ],
+      "sender": [
+        0.4000000059604645,
+        0.8500000238418579,
+        0.44999998807907104,
+        1.0
+      ],
+      "text": [
+        0.4000000059604645,
+        0.8500000238418579,
+        0.44999998807907104,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.4000000059604645,
+        0.8500000238418579,
+        0.44999998807907104,
+        1.0
+      ],
+      "sender": [
+        0.4000000059604645,
+        0.8500000238418579,
+        0.44999998807907104,
+        1.0
+      ],
+      "text": [
+        0.4000000059604645,
+        0.8500000238418579,
+        0.44999998807907104,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        1.0,
+        0.9999899864196777,
+        0.9999899864196777,
+        1.0
+      ],
+      "sender": [
+        0.5076046586036682,
+        0.8722221851348877,
+        0.35373455286026,
+        1.0
+      ],
+      "text": [
+        1.0,
+        0.9999899864196777,
+        0.9999899864196777,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.8660714626312256,
+        0.31317761540412903,
+        0.31317761540412903,
+        1.0
+      ],
+      "sender": [
+        0.6964285373687744,
+        0.27048787474632263,
+        0.27048787474632263,
+        1.0
+      ],
+      "text": [
+        0.8256790041923523,
+        0.8370944857597351,
+        0.8444444537162781,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.1694435477256775,
+        0.5348103642463684,
+        0.9732142686843872,
+        1.0
+      ],
+      "sender": [
+        0.16862745583057404,
+        0.5333333611488342,
+        0.9725490212440491,
+        1.0
+      ],
+      "text": [
+        0.16862745583057404,
+        0.5333333611488342,
+        0.9725490212440491,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.44999998807907104,
+        0.8199999928474426,
+        0.8500000238418579,
+        1.0
+      ],
+      "sender": [
+        0.16593590378761292,
+        0.7598845362663269,
+        0.8080357313156128,
+        1.0
+      ],
+      "text": [
+        0.44999998807907104,
+        0.8199999928474426,
+        0.8500000238418579,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.5,
+        0.8500000238418579,
+        0.8799999952316284,
+        1.0
+      ],
+      "sender": [
+        0.5,
+        0.8500000238418579,
+        0.8799999952316284,
+        1.0
+      ],
+      "text": [
+        0.5,
+        0.8500000238418579,
+        0.8799999952316284,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.949999988079071,
+        0.6000000238418579,
+        0.4000000059604645,
+        1.0
+      ],
+      "sender": [
+        0.9419642686843872,
+        0.8483030200004578,
+        0.7947823405265808,
+        1.0
+      ],
+      "text": [
+        0.949999988079071,
+        0.6000000238418579,
+        0.4000000059604645,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.8500000238418579,
+        0.550000011920929,
+        0.949999988079071,
+        1.0
+      ],
+      "sender": [
+        0.8500000238418579,
+        0.550000011920929,
+        0.949999988079071,
+        1.0
+      ],
+      "text": [
+        0.8500000238418579,
+        0.550000011920929,
+        0.949999988079071,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.7642381191253662,
+        0.23128588497638702,
+        0.9419642686843872,
+        1.0
+      ],
+      "sender": [
+        0.7647058963775635,
+        0.23137255012989044,
+        0.9411764740943909,
+        1.0
+      ],
+      "text": [
+        0.7647058963775635,
+        0.23137255012989044,
+        0.9411764740943909,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.75,
+        0.6000000238418579,
+        0.8500000238418579,
+        1.0
+      ],
+      "sender": [
+        0.75,
+        0.6000000238418579,
+        0.8500000238418579,
+        1.0
+      ],
+      "text": [
+        0.75,
+        0.6000000238418579,
+        0.8500000238418579,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.6000000238418579,
+        0.7799999713897705,
+        0.8199999928474426,
+        1.0
+      ],
+      "sender": [
+        0.6000000238418579,
+        0.7799999713897705,
+        0.8199999928474426,
+        1.0
+      ],
+      "text": [
+        0.6000000238418579,
+        0.7799999713897705,
+        0.8199999928474426,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "sender": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "text": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.6000000238418579,
+        0.8500000238418579,
+        0.8500000238418579,
+        1.0
+      ],
+      "sender": [
+        0.6000000238418579,
+        0.8500000238418579,
+        0.8500000238418579,
+        1.0
+      ],
+      "text": [
+        0.4515106678009033,
+        0.5133928656578064,
+        0.5133928656578064,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.949999988079071,
+        0.8199999928474426,
+        0.4000000059604645,
+        1.0
+      ],
+      "sender": [
+        0.949999988079071,
+        0.8199999928474426,
+        0.4000000059604645,
+        1.0
+      ],
+      "text": [
+        0.949999988079071,
+        0.8199999928474426,
+        0.4000000059604645,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.7200000286102295,
+        0.800000011920929,
+        0.8799999952316284,
+        1.0
+      ],
+      "sender": [
+        0.7200000286102295,
+        0.800000011920929,
+        0.8799999952316284,
+        1.0
+      ],
+      "text": [
+        0.7200000286102295,
+        0.800000011920929,
+        0.8799999952316284,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.6200000047683716,
+        0.8600000143051147,
+        0.550000011920929,
+        1.0
+      ],
+      "sender": [
+        0.6200000047683716,
+        0.8600000143051147,
+        0.550000011920929,
+        1.0
+      ],
+      "text": [
+        0.6200000047683716,
+        0.8600000143051147,
+        0.550000011920929,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.9200000166893005,
+        0.5600000023841858,
+        0.5,
+        1.0
+      ],
+      "sender": [
+        0.9200000166893005,
+        0.5600000023841858,
+        0.5,
+        1.0
+      ],
+      "text": [
+        0.9200000166893005,
+        0.5600000023841858,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.9200000166893005,
+        0.7200000286102295,
+        0.41999998688697815,
+        1.0
+      ],
+      "sender": [
+        0.9200000166893005,
+        0.7200000286102295,
+        0.41999998688697815,
+        1.0
+      ],
+      "text": [
+        0.9200000166893005,
+        0.7200000286102295,
+        0.41999998688697815,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.7200000286102295,
+        0.800000011920929,
+        0.8799999952316284,
+        1.0
+      ],
+      "sender": [
+        0.7200000286102295,
+        0.800000011920929,
+        0.8799999952316284,
+        1.0
+      ],
+      "text": [
+        0.7200000286102295,
+        0.800000011920929,
+        0.8799999952316284,
+        1.0
+      ]
+    },
+    {
+      "name": [
+        0.949999988079071,
+        0.6499999761581421,
+        0.800000011920929,
+        1.0
+      ],
+      "sender": [
+        0.949999988079071,
+        0.6499999761581421,
+        0.800000011920929,
+        1.0
+      ],
+      "text": [
+        0.949999988079071,
+        0.6499999761581421,
+        0.800000011920929,
+        1.0
+      ]
+    }
+  ],
+  "chatCombatOpacity": 0.8999999761581421,
+  "chatEnabled": true,
+  "chatMinimalIdleSec": 0.0,
+  "chatOutOfCombatOpacity": 0.8999999761581421,
+  "chat_frame": {
+    "pos": [
+      0.10959302634000778,
+      0.8326388597488403
+    ],
+    "size": [
+      0.21918605268001556,
+      0.2916666567325592
+    ]
+  },
+  "classfxGrowReverse": 0,
+  "classfxIconSize": 0.026740020141005516,
+  "classfx_color": [
+    0.7215999960899353,
+    0.5372999906539917,
+    0.24709999561309814,
+    1.0
+  ],
+  "classfx_frame": {
+    "pos": [
+      272.634033203125,
+      168.3916015625
+    ],
+    "size": [
+      0.1380814015865326,
+      0.025825878605246544
+    ]
+  },
+  "colBarrier": [
+    1.0,
+    0.9490000009536743,
+    0.8156999945640564,
+    1.0
+  ],
+  "colCastFill": [
+    1.0,
+    0.666700005531311,
+    0.2313999980688095,
+    1.0
+  ],
+  "colCastInterrupt": [
+    0.9097999930381775,
+    0.27059999108314514,
+    0.17249999940395355,
+    1.0
+  ],
+  "colDefiance": [
+    0.23530001938343048,
+    0.6437323689460754,
+    0.8902000188827515,
+    1.0
+  ],
+  "colDefianceRegen": [
+    1.0,
+    0.41789013147354126,
+    0.08243727684020996,
+    1.0
+  ],
+  "colEnd": [
+    0.7490000128746033,
+    0.8902000188827515,
+    0.9333000183105469,
+    1.0
+  ],
+  "colHp": [
+    1.0,
+    0.666700005531311,
+    0.2313999980688095,
+    1.0
+  ],
+  "colHpLow": [
+    0.7020000219345093,
+    0.14900000393390656,
+    0.11760000139474869,
+    1.0
+  ],
+  "colHpMid": [
+    1.0,
+    0.4156999886035919,
+    0.07450000196695328,
+    1.0
+  ],
+  "colPetHp": [
+    0.9020000100135803,
+    0.7451000213623047,
+    0.43140000104904175,
+    1.0
+  ],
+  "colStamina": [
+    0.43529999256134033,
+    0.6588000059127808,
+    0.7293999791145325,
+    1.0
+  ],
+  "colTargetFriendly": [
+    0.5490000247955322,
+    0.8626999855041504,
+    0.5098000168800354,
+    1.0
+  ],
+  "colTargetHostile": [
+    0.9097999930381775,
+    0.27059999108314514,
+    0.17249999940395355,
+    1.0
+  ],
+  "colTargetHp": [
+    1.0,
+    0.4156999886035919,
+    0.07450000196695328,
+    1.0
+  ],
+  "colTargetNeutral": [
+    0.8902000188827515,
+    0.6980000138282776,
+    0.2353000044822693,
+    1.0
+  ],
+  "colTrack": [
+    0.05490000173449516,
+    0.03920000046491623,
+    0.03139999881386757,
+    0.8500000238418579
+  ],
+  "colVitalsText": [
+    0.9412000179290771,
+    0.89410001039505,
+    0.7882000207901001,
+    1.0
+  ],
+  "condiIconSize": 0.014325008727610111,
+  "condi_color": [
+    0.9097999930381775,
+    0.27059999108314514,
+    0.17249999940395355,
+    1.0
+  ],
+  "condi_frame": {
+    "pos": [
+      304.0,
+      496.0
+    ],
+    "size": [
+      0.07877907156944275,
+      0.12777778506278992
+    ]
+  },
+  "contentGuide": {
+    "backgroundOpacity": 0.5099999904632568,
+    "collapsedBonus": true,
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.8837209343910217,
+        0.0
+      ],
+      "size": [
+        0.1145348846912384,
+        0.6076644062995911
+      ]
+    }
+  },
+  "conversation": {
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.24912790954113007,
+        0.15208333730697632
+      ],
+      "size": [
+        0.4000000059604645,
+        0.28733545541763306
+      ]
+    },
+    "hideNative": true,
+    "highlightColour": [
+      0.7240143418312073,
+      0.07785101979970932,
+      0.07785101979970932,
+      0.20000000298023224
+    ],
+    "textColour": [
+      0.774193525314331,
+      0.6194930672645569,
+      0.15539368987083435,
+      1.0
+    ]
+  },
+  "defeatedEnabled": true,
+  "defeated_frame": {
+    "pos": [
+      0.4997093081474304,
+      0.4263888895511627
+    ],
+    "size": [
+      0.158720925450325,
+      0.10972221940755844
+    ]
+  },
+  "editGroups": [
+    [
+      "##pieui_imglayer_iwSteamHi",
+      "##pieui_imglayer_iwSteamLo"
+    ]
+  ],
+  "elementFonts": {
+    "bl": {
+      "face": 1,
+      "px": 17.453636169433594,
+      "set": true
+    },
+    "chat": {
+      "face": 1,
+      "px": 19.392929077148438,
+      "set": true
+    },
+    "consumables": {
+      "face": 1,
+      "px": 25.11668586730957,
+      "set": true
+    },
+    "contentguide": {
+      "face": 1,
+      "px": 15.514344215393066,
+      "set": true
+    },
+    "conversation": {
+      "face": 1,
+      "px": 20.093347549438477,
+      "set": true
+    },
+    "groupfinder": {
+      "face": 1,
+      "px": 17.453636169433594,
+      "set": true
+    },
+    "loot": {
+      "face": 1,
+      "px": 19.392929077148438,
+      "set": true
+    },
+    "squad": {
+      "face": 1,
+      "px": 15.514344215393066,
+      "set": true
+    },
+    "target": {
+      "face": 1,
+      "px": 24.24116325378418,
+      "set": true
+    },
+    "tim": {
+      "face": 1,
+      "px": 18.42328453063965,
+      "set": true
+    }
+  },
+  "elementRules": {
+    "profession_resource": [
+      {
+        "conds": [
+          {
+            "from": 0.0,
+            "hold": 5.0,
+            "not": false,
+            "o": 0,
+            "t": "combat",
+            "to": 50.0
+          }
+        ],
+        "fade": 0.25,
+        "match": "all",
+        "opacity": 1.0,
+        "tint": null
+      }
+    ]
+  },
+  "endurance_frame": {
+    "pos": [
+      -248.6698455810547,
+      362.9500427246094
+    ],
+    "size": [
+      0.07425335049629211,
+      0.009577848948538303
+    ]
+  },
+  "groupFinder": {
+    "adTextH": 268.84906005859375,
+    "adTextW": 391.5248718261719,
+    "backgroundOpacity": 0.5,
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.01860465109348297,
+        0.06527777761220932
+      ],
+      "size": [
+        0.15478263795375824,
+        0.19100013375282288
+      ]
+    },
+    "maxHeight": 0.24849504232406616
+  },
+  "groupRequestsSparkle": true,
+  "group_requests_frame": {
+    "pos": [
+      0.28430232405662537,
+      0.6027777791023254
+    ],
+    "size": [
+      0.09418604522943497,
+      0.06388889253139496
+    ]
+  },
+  "hideNativeBoons": true,
+  "hideNativeCastBar": true,
+  "hideNativeChat": true,
+  "hideNativeContentGuide": true,
+  "hideNativeDefeated": true,
+  "hideNativeHealthGlobe": true,
+  "hideNativeHotbarCluster": true,
+  "hideNativeMap": true,
+  "hideNativeMenuBar": true,
+  "hideNativeMount": true,
+  "hideNativeProfBar": true,
+  "hideNativeTarget": true,
+  "hideNativeUtilityBar": true,
+  "hideNativeWeaponSkills": true,
+  "hideNativeXp": true,
+  "hotbarAutoCastColor": [
+    1.0,
+    0.666700005531311,
+    0.2313999980688095,
+    1.0
+  ],
+  "hotbarAutoCastStyle": 1,
+  "hotbarChargeLineColor": [
+    1.0,
+    0.666700005531311,
+    0.2313999980688095,
+    1.0
+  ],
+  "hotbarChargeLineWidth": 11.051342010498047,
+  "hotbarEnabled": true,
+  "hotbarRangeLineColor": [
+    0.9097999930381775,
+    0.27059999108314514,
+    0.17249999940395355,
+    1.0
+  ],
+  "hotbarRangeLineWidth": 11.051342010498047,
+  "hotbarShowProfession": true,
+  "imageLayers": [
+    {
+      "combatOpacity": 0.8999999761581421,
+      "file": "ironworks_gear.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 231.07351684570313,
+      "id": "iwCogL",
+      "keepAspect": true,
+      "layer": -1,
+      "locked": false,
+      "motion": {
+        "rpm": 1.0,
+        "spin": true
+      },
+      "name": "Cog (left of hotbars)",
+      "outOfCombatOpacity": 0.800000011920929,
+      "pos": [
+        -219.70956420898438,
+        7.825171947479248
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 231.07351684570313
+    },
+    {
+      "combatOpacity": 0.8999999761581421,
+      "file": "ironworks_gear.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 231.07351684570313,
+      "id": "iwCogR",
+      "keepAspect": true,
+      "layer": -1,
+      "locked": false,
+      "motion": {
+        "ccw": true,
+        "rpm": 1.0,
+        "spin": true
+      },
+      "name": "Cog (right of hotbars)",
+      "outOfCombatOpacity": 0.800000011920929,
+      "pos": [
+        223.75067138671875,
+        10.839174270629883
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 231.07351684570313
+    },
+    {
+      "blend": "add",
+      "combatOpacity": 0.0,
+      "file": "ironworks_steam_sheet.png",
+      "flipX": true,
+      "flipY": false,
+      "front": true,
+      "h": 98.09461212158203,
+      "id": "iwSteamHi",
+      "keepAspect": true,
+      "layer": 1,
+      "locked": false,
+      "name": "Steam vent (upper)",
+      "outOfCombatOpacity": 0.0,
+      "pos": [
+        -257.00787353515625,
+        965.9491577148438
+      ],
+      "rotate": 0,
+      "rules": [
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 0,
+              "t": "health",
+              "to": 30.0
+            }
+          ],
+          "fade": 0.4000000059604645,
+          "match": "all",
+          "opacity": 0.699999988079071,
+          "tint": null
+        }
+      ],
+      "sheet": {
+        "cells": "play",
+        "cols": 3,
+        "count": 9,
+        "fps": 8.0,
+        "frame": 1,
+        "random": false,
+        "rows": 3
+      },
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 196.18922424316406
+    },
+    {
+      "blend": "add",
+      "combatOpacity": 0.0,
+      "file": "ironworks_steam_sheet.png",
+      "flipX": true,
+      "flipY": false,
+      "front": true,
+      "h": 98.09461212158203,
+      "id": "iwSteamLo",
+      "keepAspect": true,
+      "layer": 1,
+      "locked": false,
+      "name": "Steam vent (lower)",
+      "outOfCombatOpacity": 0.0,
+      "pos": [
+        -257.00787353515625,
+        508.1300964355469
+      ],
+      "rotate": 0,
+      "rules": [
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 0,
+              "t": "health",
+              "to": 30.0
+            }
+          ],
+          "fade": 0.4000000059604645,
+          "match": "all",
+          "opacity": 0.699999988079071,
+          "tint": null
+        }
+      ],
+      "sheet": {
+        "cells": "play",
+        "cols": 3,
+        "count": 9,
+        "fps": 8.0,
+        "frame": 1,
+        "random": true,
+        "rows": 3
+      },
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 196.18922424316406
+    },
+    {
+      "combatOpacity": 0.0,
+      "file": "ironworks_lamp_sheet.png",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 39.23784637451172,
+      "id": "iwWarnLamp",
+      "keepAspect": true,
+      "layer": 1,
+      "locked": false,
+      "name": "Warning lamp",
+      "outOfCombatOpacity": 0.0,
+      "pos": [
+        -294.2838439941406,
+        737.0037841796875
+      ],
+      "rotate": 0,
+      "rules": [
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 0,
+              "t": "health",
+              "to": 30.0
+            }
+          ],
+          "fade": 0.20000000298023224,
+          "match": "all",
+          "opacity": 1.0,
+          "tint": null
+        },
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 0,
+              "t": "downed",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.20000000298023224,
+          "match": "all",
+          "opacity": 1.0,
+          "tint": null
+        }
+      ],
+      "sheet": {
+        "cols": 2,
+        "count": 4,
+        "frame": 4,
+        "rows": 2
+      },
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 39.23784637451172
+    },
+    {
+      "blend": "add",
+      "combatOpacity": 0.0,
+      "file": "ironworks_cracked_glass.png",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 588.5676879882813,
+      "id": "iwGlass",
+      "keepAspect": true,
+      "layer": 2,
+      "locked": false,
+      "name": "Cracked glass",
+      "outOfCombatOpacity": 0.0,
+      "pos": [
+        0.0,
+        737.0037841796875
+      ],
+      "rotate": 0,
+      "rules": [
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 0,
+              "t": "downed",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.30000001192092896,
+          "match": "all",
+          "opacity": 0.6000000238418579,
+          "tint": null
+        }
+      ],
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 588.5676879882813
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "ironworks_lamp_sheet.png",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 39.23784637451172,
+      "id": "iwWhisper",
+      "keepAspect": true,
+      "layer": 1,
+      "locked": false,
+      "name": "Whisper lamp",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -986.3378295898438,
+        472.8160400390625
+      ],
+      "rotate": 0,
+      "rules": [
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 8.0,
+              "not": false,
+              "o": 0,
+              "t": "chat_message",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.20000000298023224,
+          "frame": 2,
+          "match": "all",
+          "opacity": null,
+          "tint": null
+        }
+      ],
+      "sheet": {
+        "cols": 2,
+        "count": 4,
+        "frame": 1,
+        "rows": 2
+      },
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "showWith": "chat_window",
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 39.23784637451172
+    }
+  ],
+  "instanceControlsEnabled": true,
+  "instanceControlsHideNative": true,
+  "instance_controls_frame": {
+    "pos": [
+      227.0,
+      227.0
+    ],
+    "size": [
+      0.015697674825787544,
+      0.03750000149011612
+    ]
+  },
+  "interactPromptEnabled": true,
+  "interactPromptHideNative": true,
+  "interactPromptLook": 1,
+  "interact_prompt_frame": {
+    "pos": [
+      246.0,
+      309.0
+    ],
+    "size": [
+      0.060465116053819656,
+      0.07222222536802292
+    ]
+  },
+  "layoutFormat": 1,
+  "lootCascadeUp": true,
+  "lootEnabled": true,
+  "lootHideNativeCascade": true,
+  "loot_frame": {
+    "pos": [
+      0.8265988230705261,
+      0.12986111640930176
+    ],
+    "size": [
+      0.11366279423236847,
+      0.2597222328186035
+    ]
+  },
+  "mapMeta": {
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.7255814075469971,
+        0.8965277671813965
+      ],
+      "size": [
+        0.1354348063468933,
+        0.08472222089767456
+      ]
+    }
+  },
+  "mapRedirect": {
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.6043604612350464,
+        0.0013888889225199819
+      ],
+      "size": [
+        0.1934783011674881,
+        0.14325009286403656
+      ]
+    }
+  },
+  "masteryEnabled": true,
+  "mastery_frame": {
+    "pos": [
+      -229.5,
+      64.5
+    ],
+    "size": [
+      0.014825581572949886,
+      0.03541666641831398
+    ]
+  },
+  "menuLauncher": true,
+  "menuLauncherIconSize": 48.48232650756836,
+  "menuLauncherX": 0.0,
+  "menuLauncherY": 0.6555555462837219,
+  "minimapEnabled": true,
+  "minimapFogColor": [
+    0.08240000158548355,
+    0.06669999659061432,
+    0.05490000173449516,
+    1.0
+  ],
+  "minimapFogOpacity": 0.9300000071525574,
+  "minimapHeartAreaColor": [
+    0.8902000188827515,
+    0.6980000138282776,
+    0.2353000044822693,
+    1.0
+  ],
+  "minimap_frame": {
+    "pos": [
+      0.9180232286453247,
+      0.8628472089767456
+    ],
+    "size": [
+      0.12267442047595978,
+      0.21875
+    ]
+  },
+  "mountEnabled": true,
+  "mount_frame": {
+    "pos": [
+      227.0,
+      142.0
+    ],
+    "size": [
+      0.015697674825787544,
+      0.03750000149011612
+    ]
+  },
+  "nameplateIconRange": 3092.0,
+  "nameplateIconSize": 25.0,
+  "notifAnimOut": 2,
+  "notifAnimSpeed": 0.75,
+  "notifBgOpacity": 0.8500000238418579,
+  "notifEnabled": true,
+  "notifHideNative": true,
+  "notif_frame": {
+    "pos": [
+      0.17892441153526306,
+      0.06631944328546524
+    ],
+    "size": [
+      0.10203488171100616,
+      0.13263888657093048
+    ]
+  },
+  "noveltyEnabled": true,
+  "novelty_frame": {
+    "pos": [
+      226.0,
+      64.0
+    ],
+    "size": [
+      0.015116279013454914,
+      0.03611111268401146
+    ]
+  },
+  "otherIconSize": 0.026740020141005516,
+  "otherIconVertical": 1,
+  "other_color": [
+    0.7254999876022339,
+    0.6626999974250793,
+    0.5411999821662903,
+    1.0
+  ],
+  "other_frame": {
+    "pos": [
+      1674.73388671875,
+      30.79714584350586
+    ],
+    "size": [
+      0.014290941879153252,
+      0.2965235114097595
+    ]
+  },
+  "panelPadding": {
+    "effects": 5.011654853820801,
+    "guide": 17.0,
+    "menubar": 0.0
+  },
+  "party": {
+    "bgColor": [
+      0.08240000158548355,
+      0.06669999659061432,
+      0.05490000173449516,
+      0.0
+    ],
+    "bgColor2": [
+      0.08240000158548355,
+      0.06669999659061432,
+      0.05490000173449516,
+      0.0
+    ],
+    "border": false,
+    "borderColor": [
+      0.7215999960899353,
+      0.5372999906539917,
+      0.24709999561309814,
+      1.0
+    ],
+    "cellGap": 10.666111946105957,
+    "cellH": 46.543033599853516,
+    "cellW": 135.37057495117188,
+    "downedHealthColor": [
+      0.8902000188827515,
+      0.6980000138282776,
+      0.2353000044822693,
+      1.0
+    ],
+    "effectIconSize": 15.695137023925781,
+    "enabled": true,
+    "fontColor": [
+      0.9412000179290771,
+      0.89410001039505,
+      0.7882000207901001,
+      1.0
+    ],
+    "gradient": true,
+    "groupGap": 4.904730796813965,
+    "healthBarProfColor": true,
+    "healthUnderPortrait": false,
+    "hideNativeFrames": true,
+    "highHealthColor": [
+      1.0,
+      0.666700005531311,
+      0.2313999980688095,
+      1.0
+    ],
+    "lowHealthColor": [
+      0.7020000219345093,
+      0.14900000393390656,
+      0.11760000139474869,
+      1.0
+    ],
+    "midHealthColor": [
+      1.0,
+      0.4156999886035919,
+      0.07450000196695328,
+      1.0
+    ],
+    "rect": {
+      "pos": [
+        0.2918604612350464,
+        0.7881944179534912
+      ],
+      "size": [
+        0.1418604701757431,
+        0.2430555522441864
+      ]
+    },
+    "scale": 1.0032731294631958,
+    "selfColor": [
+      0.9020000100135803,
+      0.7451000213623047,
+      0.43140000104904175,
+      1.0
+    ],
+    "showSelf": true,
+    "speakStyle": 2,
+    "useThemeBg": false
+  },
+  "petIconSize": 52.84573745727539,
+  "pet_group": {
+    "pos": [
+      275.0,
+      89.0
+    ],
+    "size": [
+      0.2544528543949127,
+      0.04788924753665924
+    ]
+  },
+  "player_portrait_frame": {
+    "pos": [
+      0.4419283866882324,
+      0.7888579964637756
+    ],
+    "size": [
+      0.03234012424945831,
+      0.07640005648136139
+    ]
+  },
+  "player_vitals": {
+    "pos": [
+      -248.6698455810547,
+      384.5308837890625
+    ],
+    "size": [
+      0.07425335049629211,
+      0.034156814217567444
+    ]
+  },
+  "profResArtStyle": 1,
+  "profResEnabled": true,
+  "profResOutOfCombatOpacity": 0.5,
+  "prof_res_frame": {
+    "pos": [
+      7.0,
+      274.0
+    ],
+    "size": [
+      0.05806906148791313,
+      0.01666666753590107
+    ]
+  },
+  "professionBarCentre": true,
+  "professionIconSize": 43.634090423583984,
+  "profession_group": {
+    "pos": [
+      -113.0,
+      236.0
+    ],
+    "size": [
+      0.2544528543949127,
+      0.04788924753665924
+    ]
+  },
+  "ready_check_frame": {
+    "pos": [
+      0.4985465109348297,
+      0.7572916746139526
+    ],
+    "size": [
+      0.07616279274225235,
+      0.04791666567325592
+    ]
+  },
+  "reticleStyle": 1,
+  "rewardTrayEnabled": true,
+  "rewardTrayFlow": 3,
+  "rewardTrayGap": 3.9237842559814453,
+  "rewardTrayHideNative": true,
+  "rewardTrayIconSize": 55.43486404418945,
+  "rewardTrayMaxVisible": 5,
+  "reward_tray_frame": {
+    "pos": [
+      0.8311046361923218,
+      0.9791666865348816
+    ],
+    "size": [
+      0.017732558771967888,
+      0.04236111044883728
+    ]
+  },
+  "sakIconSize": 78.54136657714844,
+  "sak_slot": {
+    "pos": [
+      -229.0,
+      336.0
+    ],
+    "size": [
+      0.03914659470319748,
+      0.05746709182858467
+    ]
+  },
+  "screen": [
+    3440,
+    1440
+  ],
+  "socialAnimIn": 3,
+  "socialAnimOut": 3,
+  "socialAnimSpeed": 0.5,
+  "socialBgColor": [
+    0.08240000158548355,
+    0.06669999659061432,
+    0.05490000173449516,
+    1.0
+  ],
+  "socialBgOpacity": 0.7599999904632568,
+  "social_frame": {
+    "pos": [
+      0.18995042145252228,
+      0.5327150821685791
+    ],
+    "size": [
+      0.06073650345206261,
+      0.24779900908470154
+    ]
+  },
+  "specialtyGrowReverse": 0,
+  "specialtyIconSide": 0,
+  "specialtyIconSize": 0.014325008727610111,
+  "specialty_color": [
+    0.9020000100135803,
+    0.7451000213623047,
+    0.43140000104904175,
+    1.0
+  ],
+  "specialty_frame": {
+    "pos": [
+      280.6526794433594,
+      240.55943298339844
+    ],
+    "size": [
+      0.13372093439102173,
+      0.033301789313554764
+    ]
+  },
+  "squad": {
+    "bgColor": [
+      0.08240000158548355,
+      0.06669999659061432,
+      0.05490000173449516,
+      0.0
+    ],
+    "bgColor2": [
+      0.08240000158548355,
+      0.06669999659061432,
+      0.05490000173449516,
+      0.0
+    ],
+    "border": false,
+    "borderColor": [
+      0.7215999960899353,
+      0.5372999906539917,
+      0.24709999561309814,
+      1.0
+    ],
+    "cellGap": 1.9392930269241333,
+    "cellH": 30.05904197692871,
+    "cellW": 155.36131286621094,
+    "downedHealthColor": [
+      1.0,
+      0.0,
+      6.008148193359375e-05,
+      1.0
+    ],
+    "effectIconSize": 15.695137023925781,
+    "enabled": true,
+    "fontColor": [
+      0.9412000179290771,
+      0.89410001039505,
+      0.7882000207901001,
+      1.0
+    ],
+    "gradient": true,
+    "groupGap": 4.848232269287109,
+    "healthBarProfColor": true,
+    "hideNativeFrames": true,
+    "highHealthColor": [
+      1.0,
+      0.666700005531311,
+      0.2313999980688095,
+      1.0
+    ],
+    "layoutMode": 1,
+    "listBarStyle": 1,
+    "lowHealthColor": [
+      0.7020000219345093,
+      0.14900000393390656,
+      0.11760000139474869,
+      1.0
+    ],
+    "midHealthColor": [
+      1.0,
+      0.4156999886035919,
+      0.07450000196695328,
+      1.0
+    ],
+    "nameSource": 1,
+    "rect": {
+      "pos": [
+        0.32107558846473694,
+        0.8333333134651184
+      ],
+      "size": [
+        0.20029069483280182,
+        0.2888889014720917
+      ]
+    },
+    "selfColor": [
+      0.9020000100135803,
+      0.7451000213623047,
+      0.43140000104904175,
+      1.0
+    ],
+    "speakStyle": 2,
+    "useThemeBg": false
+  },
+  "squad_counters_frame": {
+    "pos": [
+      0.2539244294166565,
+      0.6597222089767456
+    ],
+    "size": [
+      0.06715116649866104,
+      0.02222222276031971
+    ]
+  },
+  "squad_toolbox_frame": {
+    "pos": [
+      0.4335755705833435,
+      0.8385416865348816
+    ],
+    "size": [
+      0.014825581572949886,
+      0.03541666641831398
+    ]
+  },
+  "stamina_frame": {
+    "pos": [
+      -248.6698455810547,
+      348.23583984375
+    ],
+    "size": [
+      0.07425335049629211,
+      0.005746709648519754
+    ]
+  },
+  "targetClassIconStyle": 1,
+  "targetEnabled": true,
+  "targetVariant": 1,
+  "target_frame": {
+    "pos": [
+      0.5066086053848267,
+      0.08299334347248077
+    ],
+    "size": [
+      0.08070969581604004,
+      0.02152113988995552
+    ]
+  },
+  "target_portrait_frame": {
+    "pos": [
+      0.5601807832717896,
+      0.7829543948173523
+    ],
+    "size": [
+      0.030371597036719322,
+      0.07570549845695496
+    ]
+  },
+  "tboonEnabled": true,
+  "tboonGrowReverse": 2,
+  "tboonIconSide": 0,
+  "tboonIconSize": 0.02387501671910286,
+  "tboonMode": 0,
+  "tboonWrapUp": 2,
+  "tboon_color": [
+    0.49799999594688416,
+    0.7215999960899353,
+    0.8156999945640564,
+    1.0
+  ],
+  "tboon_frame": {
+    "pos": [
+      0.0,
+      1344.0
+    ],
+    "size": [
+      0.11162790656089783,
+      0.02638888917863369
+    ]
+  },
+  "tcondiEnabled": true,
+  "tcondiGrowReverse": 2,
+  "tcondiIconSize": 0.02387501671910286,
+  "tcondiMode": 0,
+  "tcondiWrapUp": 2,
+  "tcondi_color": [
+    0.9097999930381775,
+    0.27059999108314514,
+    0.17249999940395355,
+    1.0
+  ],
+  "tcondi_frame": {
+    "pos": [
+      -3.0,
+      1384.0
+    ],
+    "size": [
+      0.13313953578472137,
+      0.0243055559694767
+    ]
+  },
+  "timFloatingIconIdleOpacity": 1.0,
+  "timFloatingIconScale": 1.4333332777023315,
+  "timFloatingIconTheme": "GW2 Dark",
+  "timFloatingIconUseOtherTheme": true,
+  "timFloatingIconX": 0.0,
+  "timFloatingIconY": 681.0,
+  "timIconInChat": true,
+  "totherGrowReverse": 2,
+  "totherIconSize": 0.02718513458967209,
+  "totherWrapUp": 2,
+  "tother_color": [
+    0.7254999876022339,
+    0.6626999974250793,
+    0.5411999821662903,
+    1.0
+  ],
+  "tother_frame": {
+    "pos": [
+      10.0,
+      1432.0
+    ],
+    "size": [
+      0.16860465705394745,
+      0.02986111119389534
+    ]
+  },
+  "trimColor": [
+    0.7215999960899353,
+    0.5372999906539917,
+    0.24709999561309814,
+    1.0
+  ],
+  "trimOverride": true,
+  "utilityIconSize": 75.1476058959961,
+  "utility_group": {
+    "pos": [
+      -192.0,
+      100.0
+    ],
+    "size": [
+      0.195732980966568,
+      0.038311395794153214
+    ]
+  },
+  "vitalsCombatOpacityLinger": true,
+  "vitalsCombatOpacityLingerPct": 75.0,
+  "vitalsElements": {
+    "custom": true,
+    "from": {
+      "boxes": {
+        "enduranceFrame": {
+          "pos": [
+            -248.6698455810547,
+            362.9500427246094
+          ],
+          "size": [
+            0.07425335049629211,
+            0.009577848948538303
+          ]
+        },
+        "playerVitals": {
+          "pos": [
+            -248.6698455810547,
+            384.5308837890625
+          ],
+          "size": [
+            0.07425335049629211,
+            0.034156814217567444
+          ]
+        },
+        "staminaFrame": {
+          "pos": [
+            -248.6698455810547,
+            348.23583984375
+          ],
+          "size": [
+            0.07425335049629211,
+            0.005746709648519754
+          ]
+        }
+      },
+      "disp": [
+        3440.0,
+        1440.0
+      ],
+      "legacy": {
+        "barrier": 0,
+        "detachEnd": false,
+        "detachSta": false,
+        "mode": 2
+      }
+    },
+    "parts": [
+      {
+        "arc": {
+          "a0": 2.2340214252471924,
+          "a1": 4.049163818359375,
+          "fancy": true,
+          "r": 251.13844299316406,
+          "t": 17.453636169433594
+        },
+        "cpos": [
+          -3.0,
+          -2.5
+        ],
+        "id": "v2e0fb194",
+        "layer": "reticle",
+        "rules": [
+          {
+            "conds": [
+              {
+                "from": 0.0,
+                "hold": 5.0,
+                "not": false,
+                "o": 0,
+                "t": "health",
+                "to": 30.0
+              }
+            ],
+            "fade": 0.30000001192092896,
+            "match": "all",
+            "mo": {
+              "pulse": 1,
+              "pulseAmt": 0.014999999664723873,
+              "pulseHz": 1.399999976158142
+            },
+            "opacity": null,
+            "tint": null
+          }
+        ],
+        "shape": "arc",
+        "size": [
+          0.15000000596046448,
+          0.3673610985279083
+        ],
+        "skin": "health.arc"
+      },
+      {
+        "arc": {
+          "a0": 2.2340214252471924,
+          "a1": 4.049163818359375,
+          "fancy": true,
+          "r": 278.1915588378906,
+          "t": 8.726818084716797,
+          "taper": 0.3499999940395355
+        },
+        "cpos": [
+          -2.5,
+          -3.5
+        ],
+        "id": "v2b6fefe3",
+        "layer": "reticle",
+        "shape": "arc",
+        "size": [
+          0.16308139264583588,
+          0.3993055522441864
+        ],
+        "skin": "barrier.arc",
+        "value": "barrier"
+      },
+      {
+        "arc": {
+          "a0": 2.2340214252471924,
+          "a1": 4.049163818359375,
+          "fancy": true,
+          "r": 224.08529663085938,
+          "t": 8.726818084716797,
+          "taper": 0.3499999940395355
+        },
+        "cpos": [
+          -2.5,
+          -3.0
+        ],
+        "id": "v77dd93e6",
+        "layer": "reticle",
+        "shape": "arc",
+        "size": [
+          0.1316860467195511,
+          0.3222222328186035
+        ],
+        "skin": "pet.arc",
+        "value": "pet"
+      },
+      {
+        "arc": {
+          "a0": -0.9075712561607361,
+          "a1": 0.9075712561607361,
+          "fancy": true,
+          "fromA1": true,
+          "r": 251.13844299316406,
+          "t": 17.453636169433594
+        },
+        "cpos": [
+          -3.0,
+          -2.5
+        ],
+        "id": "v0d131a0d",
+        "layer": "reticle",
+        "marks": true,
+        "shape": "arc",
+        "size": [
+          0.15000000596046448,
+          0.3673610985279083
+        ],
+        "skin": "endurance.arc",
+        "value": "endurance"
+      },
+      {
+        "arc": {
+          "a0": -0.9075712561607361,
+          "a1": 0.9075712561607361,
+          "fancy": true,
+          "fromA1": true,
+          "r": 224.08529663085938,
+          "t": 8.726818084716797,
+          "taper": 0.3499999940395355
+        },
+        "cpos": [
+          -2.5,
+          -3.0
+        ],
+        "id": "v0e0d7408",
+        "layer": "reticle",
+        "shape": "arc",
+        "size": [
+          0.1316860467195511,
+          0.3222222328186035
+        ],
+        "skin": "stamina.arc",
+        "value": "stamina"
+      }
+    ]
+  },
+  "vitalsEnabled": true,
+  "vitalsOutOfCombatOpacity": 0.0,
+  "vitalsTextOff": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      -9.80946159362793,
+      145.18002319335938
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "vitalsTextSpread": 107.9040756225586,
+  "vote_kick_frame": {
+    "pos": [
+      0.4985465109348297,
+      0.2857638895511627
+    ],
+    "size": [
+      0.09418604522943497,
+      0.09930555522441864
+    ]
+  },
+  "watchfxEnabled": true,
+  "watchfxIconSize": 0.032564688473939896,
+  "watchfxMode": 2,
+  "watchfx_color": [
+    1.0,
+    0.666700005531311,
+    0.2313999980688095,
+    1.0
+  ],
+  "watchfx_frame": {
+    "pos": [
+      589.548583984375,
+      987.5299682617188
+    ],
+    "size": [
+      0.09615951031446457,
+      0.13434047996997833
+    ]
+  },
+  "weaponIconSize": 75.1476058959961,
+  "weaponSwapIconSize": 50.42161560058594,
+  "weapon_group": {
+    "pos": [
+      -192.0,
+      177.0
+    ],
+    "size": [
+      0.195732980966568,
+      0.038311395794153214
+    ]
+  },
+  "weapon_swap_slot": {
+    "pos": [
+      -253.0,
+      163.0
+    ],
+    "size": [
+      0.03914659470319748,
+      0.05746709182858467
+    ]
+  },
+  "xpParts": {
+    "custom": true,
+    "parts": [
+      {
+        "id": "vec22348c",
+        "pos": [
+          1210.0,
+          196.5
+        ],
+        "shape": "vbar",
+        "size": [
+          0.003488372080028057,
+          0.23125000298023224
+        ],
+        "value": "experience"
+      }
+    ]
+  },
+  "xpPartsEnabled": true,
+  "xp_bar_frame": {
+    "pos": [
+      0.0,
+      223.01869201660156
+    ],
+    "size": [
+      0.48369577527046204,
+      0.015280012041330338
+    ]
+  }
+}

@@ -1,0 +1,709 @@
+[
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "extend": 0.029999999329447746,
+    "file": "tart_frame.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "hotbar.slot.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "tart_mask.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "hotbar.slot.mask",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "extend": 0.09200000017881393,
+    "file": "crust_frame.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "minimap.map.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "map_mask.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "minimap.map.mask",
+    "slice": 8.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "chat.panel.colour",
+    "tint": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ticket_row.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "party.row.background",
+    "slice": 14.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "party.panel.colour",
+    "tint": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "recipe_card.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "guide.panel.background",
+    "slice": 56.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "guide.panel.colour",
+    "tint": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "party_pie_mask.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "rewards.chest.mask",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "recipe_card.png",
+    "fit": "stretch",
+    "opacity": 0.33000001311302185,
+    "part": "conversation.panel.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "chalk_panel.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "groupfinder.panel.background",
+    "slice": 16.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "groupfinder.panel.colour",
+    "tint": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "chalk_panel.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "loot.panel.background",
+    "slice": 16.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "loot.panel.colour",
+    "tint": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "chalk_panel.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "notifications.panel.background",
+    "slice": 16.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "chalk_panel.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "mapmeta.panel.background",
+    "slice": 16.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "mapmeta.panel.colour",
+    "tint": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "chalk_panel.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "mapclosing.panel.background",
+    "slice": 16.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "mapclosing.panel.colour",
+    "tint": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "consumables.panel.colour",
+    "tint": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "chalk_panel.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "defeated.panel.background",
+    "slice": 16.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "defeated.panel.colour",
+    "tint": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "chalk_panel.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "interact.panel.background",
+    "slice": 16.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "interact.panel.colour",
+    "tint": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "menubar.panel.colour",
+    "tint": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ticket_row.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "squad.row.background",
+    "slice": 14.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "squad.panel.colour",
+    "tint": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "portrait_mask.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "player.portrait.mask",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "portrait_frame.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "player.portrait.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "portrait_mask.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.portrait.mask",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "portrait_frame.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.portrait.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "portrait_mask.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "party.portrait.mask",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "portrait_frame.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "party.portrait.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "portrait_mask.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "conversation.portrait.mask",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "portrait_frame.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "conversation.portrait.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "effects.panel.colour",
+    "tint": [
+      0.14100000262260437,
+      0.09399999678134918,
+      0.07100000232458115,
+      0.550000011920929
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "extend": 0.029999999329447746,
+    "file": "tart_frame.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "instance.button.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "tart_mask.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "instance.button.mask",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "extend": 0.07999999821186066,
+    "file": "portrait_frame.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "rewards.chest.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "awning_tile.png",
+    "fit": "repeat",
+    "opacity": 1.0,
+    "part": "worldmap.title.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_raw.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "cast.hbar.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_baked.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "cast.hbar.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_raw.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "cast.arc.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_baked.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "cast.arc.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_raw.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.health.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_baked.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.health.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_raw.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.health_arc.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_baked.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.health_arc.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_raw.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "health.hbar.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_baked.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "health.hbar.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_raw.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "health.arc.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_baked.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "health.arc.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_raw.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "endurance.hbar.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_baked.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "endurance.hbar.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_raw.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "endurance.arc.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_baked.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "endurance.arc.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_raw.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "endurance.rim.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pastry_baked.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "endurance.rim.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pin_empty.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.defiance.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "pin_fill.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.defiance.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pin_empty.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.defiance_arc.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "pin_fill.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "target.defiance_arc.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pin_empty.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "stamina.hbar.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "pin_fill.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "stamina.hbar.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pin_empty.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "stamina.arc.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "pin_fill.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "stamina.arc.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pin_empty.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "stamina.rim.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "pin_fill.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "stamina.rim.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pin_empty.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "barrier.arc.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "pin_fill.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "barrier.arc.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "pin_empty.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "pet.arc.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "pin_fill.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "pet.arc.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "party_pie.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "rewards.chest.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "notifications.panel.colour",
+    "tint": [
+      0.0,
+      0.0,
+      0.0,
+      0.5
+    ]
+  }
+]

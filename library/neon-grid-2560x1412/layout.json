@@ -1,0 +1,2432 @@
+{
+  "arcRadius": 198.20693969726563,
+  "arcThickness": 13.66944408416748,
+  "barCorners": 0.0,
+  "boonGrowReverse": 0,
+  "boonIconSize": 0.02489376813173294,
+  "boonMode": 0,
+  "boon_frame": {
+    "pos": [
+      -371.02777099609375,
+      320.25555419921875
+    ],
+    "size": [
+      0.14112114906311035,
+      0.02489376813173294
+    ]
+  },
+  "bottomLine": {
+    "bgColorOwn": [
+      0.03920000046491623,
+      0.058800000697374344,
+      0.10199999809265137,
+      0.25
+    ],
+    "bgColorSet": true,
+    "combatOpacity": 0.5,
+    "enabled": true,
+    "fontColor": [
+      0.847100019454956,
+      0.980400025844574,
+      1.0,
+      1.0
+    ],
+    "rect": {
+      "pos": [
+        0.5,
+        0.006176440976560116
+      ],
+      "size": [
+        0.7872135639190674,
+        0.029713084921240807
+      ]
+    },
+    "screenAnchor": 0,
+    "widgetSpacing": 21.48055648803711,
+    "widgets": [
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": true,
+        "order": 0,
+        "slot": 1,
+        "subFlags": 4294967293,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 10,
+        "slot": 0,
+        "subFlags": 4294967275,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 1,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 1,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": true,
+        "order": 0,
+        "slot": 1,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [
+          1
+        ],
+        "enabled": true,
+        "order": 30,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": true,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": true,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": true,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      },
+      {
+        "clockSeconds": false,
+        "clockShowAll": false,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "currencyId": 1,
+        "currencyIds": [],
+        "enabled": false,
+        "order": 0,
+        "slot": 0,
+        "subFlags": 4294967295,
+        "toggleIds": [],
+        "useCustomColor": false
+      }
+    ]
+  },
+  "castBarEnabled": true,
+  "castBarOnlyWhileCasting": true,
+  "castBarVariant": 2,
+  "castParts": {
+    "parts": [
+      {
+        "arc": {
+          "a0": 0.7853999733924866,
+          "a1": 2.3561999797821045,
+          "fancy": true,
+          "fromA1": true,
+          "rh": 3.9830029010772705,
+          "th": 3.9830029010772705
+        },
+        "id": "ngCast",
+        "pos": [
+          -410.0,
+          186.5
+        ],
+        "shape": "vbar",
+        "size": [
+          0.010937499813735485,
+          0.09844192862510681
+        ],
+        "value": "cast"
+      },
+      {
+        "id": "ngCastIcon",
+        "pos": [
+          0.0,
+          605.361083984375
+        ],
+        "show": false,
+        "size": [
+          0.012201809324324131,
+          0.02212558127939701
+        ],
+        "value": "castIcon"
+      }
+    ]
+  },
+  "cast_bar_frame": {
+    "size": [
+      0.18368315696716309,
+      0.017923511564731598
+    ]
+  },
+  "chatBgOpacity": 0.15000000596046448,
+  "chatEnabled": true,
+  "chat_frame": {
+    "pos": [
+      0.154296875,
+      0.81975919008255
+    ],
+    "size": [
+      0.28984373807907104,
+      0.29674220085144043
+    ]
+  },
+  "classfxIconSize": 0.02074148692190647,
+  "classfx_frame": {
+    "pos": [
+      369.0,
+      356.0
+    ],
+    "size": [
+      0.14101561903953552,
+      0.03399433568120003
+    ]
+  },
+  "colBarrier": [
+    0.9685999751091003,
+    1.0,
+    0.29019999504089355,
+    1.0
+  ],
+  "colCastFill": [
+    0.09799999743700027,
+    0.9412000179290771,
+    1.0,
+    1.0
+  ],
+  "colCastInterrupt": [
+    1.0,
+    0.1843000054359436,
+    0.8156999945640564,
+    1.0
+  ],
+  "colDefiance": [
+    0.09799999743700027,
+    0.9412000179290771,
+    1.0,
+    1.0
+  ],
+  "colDefianceRegen": [
+    0.9685999751091003,
+    1.0,
+    0.29019999504089355,
+    1.0
+  ],
+  "colEnd": [
+    1.0,
+    0.1843000054359436,
+    0.8156999945640564,
+    1.0
+  ],
+  "colHp": [
+    0.09799999743700027,
+    0.9412000179290771,
+    1.0,
+    1.0
+  ],
+  "colHpLow": [
+    1.0,
+    0.2313999980688095,
+    0.30979999899864197,
+    1.0
+  ],
+  "colHpMid": [
+    0.5411999821662903,
+    0.36079999804496765,
+    1.0,
+    1.0
+  ],
+  "colPetHp": [
+    0.5411999821662903,
+    0.36079999804496765,
+    1.0,
+    1.0
+  ],
+  "colStamina": [
+    0.9685999751091003,
+    1.0,
+    0.29019999504089355,
+    1.0
+  ],
+  "colTargetFriendly": [
+    0.09799999743700027,
+    0.9412000179290771,
+    1.0,
+    1.0
+  ],
+  "colTargetHostile": [
+    1.0,
+    0.1843000054359436,
+    0.8156999945640564,
+    1.0
+  ],
+  "colTargetHp": [
+    0.847100019454956,
+    0.980400025844574,
+    1.0,
+    1.0
+  ],
+  "colTargetNeutral": [
+    0.9685999751091003,
+    1.0,
+    0.29019999504089355,
+    1.0
+  ],
+  "colTrack": [
+    0.03920000046491623,
+    0.058800000697374344,
+    0.10199999809265137,
+    0.800000011920929
+  ],
+  "condiIconSize": 0.02489376813173294,
+  "condiMode": 0,
+  "condi_frame": {
+    "pos": [
+      369.0,
+      392.0
+    ],
+    "size": [
+      0.14101561903953552,
+      0.02478753589093685
+    ]
+  },
+  "contentGuide": {
+    "backgroundOpacity": 0.20000000298023224,
+    "collapsedBonus": true,
+    "combatOpacity": 0.4000000059604645,
+    "enabled": true,
+    "eventTitleSizeDelta": 3,
+    "frame": {
+      "pos": [
+        0.850781261920929,
+        0.2655807435512543
+      ],
+      "size": [
+        0.13515624403953552,
+        0.5396600365638733
+      ]
+    }
+  },
+  "conversation": {
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.36835938692092896,
+        0.14730878174304962
+      ],
+      "size": [
+        0.34112584590911865,
+        0.31864023208618164
+      ]
+    },
+    "hideNative": true,
+    "highlightColour": [
+      0.09799999743700027,
+      0.9409999847412109,
+      1.0,
+      0.2199999988079071
+    ],
+    "highlightColourSet": true,
+    "textColour": [
+      0.847000002861023,
+      0.9800000190734863,
+      1.0,
+      1.0
+    ],
+    "textColourSet": true
+  },
+  "defeatedEnabled": true,
+  "defeated_frame": {
+    "pos": [
+      0.49980467557907104,
+      0.41643059253692627
+    ],
+    "size": [
+      0.19492188096046448,
+      0.0991501435637474
+    ]
+  },
+  "editGroups": [
+    [
+      "##pieui_imglayer_ngWhisGlow",
+      "##pieui_imglayer_ngWhisTag"
+    ]
+  ],
+  "effectsExpiryStyle": 2,
+  "elementFonts": {
+    "bl": {
+      "face": 0,
+      "set": false
+    },
+    "chat": {
+      "face": 1,
+      "px": 21.0,
+      "set": true
+    },
+    "consumables": {
+      "face": 1,
+      "px": 18.0,
+      "set": true
+    },
+    "contentguide": {
+      "face": 1,
+      "px": 18.0,
+      "set": true
+    },
+    "conversation": {
+      "face": 1,
+      "px": 20.0,
+      "set": true
+    },
+    "groupfinder": {
+      "face": 1,
+      "px": 14.645833015441895,
+      "set": true
+    },
+    "loot": {
+      "face": 1,
+      "px": 15.622221946716309,
+      "set": true
+    },
+    "squad": {
+      "face": 1,
+      "px": 15.622221946716309,
+      "set": true
+    },
+    "target": {
+      "face": 1,
+      "px": 19.52777862548828,
+      "set": true
+    },
+    "tim": {
+      "face": 1,
+      "px": 14.645833015441895,
+      "set": true
+    }
+  },
+  "elementRules": {
+    "chat_window": [
+      {
+        "conds": [
+          {
+            "from": 0.0,
+            "hold": 5.0,
+            "not": false,
+            "o": 0,
+            "t": "combat",
+            "to": 50.0
+          }
+        ],
+        "fade": 0.30000001192092896,
+        "match": "all",
+        "opacity": 0.3499999940395355,
+        "tint": null
+      },
+      {
+        "conds": [
+          {
+            "from": 0.0,
+            "hold": 5.0,
+            "not": false,
+            "o": 0,
+            "t": "chat_open",
+            "to": 50.0
+          }
+        ],
+        "fade": 0.20000000298023224,
+        "match": "all",
+        "opacity": 1.0,
+        "tint": null
+      }
+    ]
+  },
+  "endurance_frame": {
+    "pos": [
+      -247.51458740234375,
+      361.2638854980469
+    ],
+    "size": [
+      0.09954589605331421,
+      0.009957507252693176
+    ]
+  },
+  "groupFinder": {
+    "backgroundOpacity": 0.27000001072883606,
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.708984375,
+        0.09065155684947968
+      ],
+      "size": [
+        0.2099236100912094,
+        0.19915014505386353
+      ]
+    },
+    "maxHeight": 0.19475920498371124
+  },
+  "group_requests_frame": {
+    "pos": [
+      0.17851562798023224,
+      0.14589235186576843
+    ],
+    "size": [
+      0.12656250596046448,
+      0.06515580415725708
+    ]
+  },
+  "hideNativeBoons": true,
+  "hideNativeCastBar": true,
+  "hideNativeChat": true,
+  "hideNativeContentGuide": true,
+  "hideNativeDefeated": true,
+  "hideNativeHealthGlobe": true,
+  "hideNativeHotbarCluster": true,
+  "hideNativeMap": true,
+  "hideNativeMenuBar": true,
+  "hideNativeProfBar": true,
+  "hideNativeTarget": true,
+  "hideNativeXp": true,
+  "hotbarActivationStyle": 0,
+  "hotbarAutoCastColor": [
+    0.09799999743700027,
+    0.9412000179290771,
+    1.0,
+    1.0
+  ],
+  "hotbarAutoCastColorSet": true,
+  "hotbarAutoCastStyle": 1,
+  "hotbarChargeLineColor": [
+    1.0,
+    0.1843000054359436,
+    0.8156999945640564,
+    1.0
+  ],
+  "hotbarChargeLineColorSet": true,
+  "hotbarChargeLineWidth": 3.905555486679077,
+  "hotbarCooldownFastColor": [
+    0.968999981880188,
+    1.0,
+    0.28999999165534973,
+    1.0
+  ],
+  "hotbarCooldownFastColorSet": true,
+  "hotbarCooldownSlowColor": [
+    0.6629999876022339,
+    0.5450000166893005,
+    1.0,
+    1.0
+  ],
+  "hotbarCooldownSlowColorSet": true,
+  "hotbarEnabled": true,
+  "hotbarRangeLineColor": [
+    0.9685999751091003,
+    1.0,
+    0.29019999504089355,
+    1.0
+  ],
+  "hotbarRangeLineColorSet": true,
+  "hotbarRangeLineWidth": 3.905555486679077,
+  "hotbarShowProfession": true,
+  "imageLayers": [
+    {
+      "blend": "add",
+      "combatOpacity": 1.0,
+      "file": "neongrid_bracket_sheet.png",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 117.16666412353516,
+      "id": "p2f223565",
+      "keepAspect": true,
+      "layer": 2,
+      "locked": false,
+      "name": "Bracket top left",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -1207.7471923828125,
+        1339.7471923828125
+      ],
+      "rotate": 0,
+      "sheet": {
+        "cells": "play",
+        "cols": 8,
+        "count": 8,
+        "fps": 4.0,
+        "frame": 1,
+        "random": true,
+        "rows": 1
+      },
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.09799999743700027,
+        0.9412000179290771,
+        1.0,
+        1.0
+      ],
+      "w": 117.16666412353516
+    },
+    {
+      "blend": "add",
+      "combatOpacity": 1.0,
+      "file": "neongrid_bracket_sheet.png",
+      "flipX": true,
+      "flipY": false,
+      "front": true,
+      "h": 117.16666412353516,
+      "id": "p794ee780",
+      "keepAspect": true,
+      "layer": 2,
+      "locked": false,
+      "name": "Bracket top right",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        1207.7471923828125,
+        1339.7471923828125
+      ],
+      "rotate": 0,
+      "sheet": {
+        "cells": "play",
+        "cols": 8,
+        "count": 8,
+        "fps": 4.0,
+        "frame": 1,
+        "random": true,
+        "rows": 1
+      },
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        0.09799999743700027,
+        0.9412000179290771,
+        1.0,
+        1.0
+      ],
+      "w": 117.16666412353516
+    },
+    {
+      "blend": "add",
+      "combatOpacity": 1.0,
+      "file": "neongrid_bracket_sheet.png",
+      "flipX": false,
+      "flipY": true,
+      "front": true,
+      "h": 117.16666412353516,
+      "id": "p712db4df",
+      "keepAspect": true,
+      "layer": 2,
+      "locked": false,
+      "name": "Bracket bottom left",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -1207.7471923828125,
+        72.25277709960938
+      ],
+      "rotate": 0,
+      "sheet": {
+        "cells": "play",
+        "cols": 8,
+        "count": 8,
+        "fps": 4.0,
+        "frame": 1,
+        "random": true,
+        "rows": 1
+      },
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        0.1843000054359436,
+        0.8156999945640564,
+        1.0
+      ],
+      "w": 117.16666412353516
+    },
+    {
+      "blend": "add",
+      "combatOpacity": 1.0,
+      "file": "neongrid_bracket_sheet.png",
+      "flipX": true,
+      "flipY": true,
+      "front": true,
+      "h": 117.16666412353516,
+      "id": "pdb98fcb2",
+      "keepAspect": true,
+      "layer": 2,
+      "locked": false,
+      "name": "Bracket bottom right",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        1207.7471923828125,
+        72.25277709960938
+      ],
+      "rotate": 0,
+      "sheet": {
+        "cells": "play",
+        "cols": 8,
+        "count": 8,
+        "fps": 4.0,
+        "frame": 1,
+        "random": true,
+        "rows": 1
+      },
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        0.1843000054359436,
+        0.8156999945640564,
+        1.0
+      ],
+      "w": 117.16666412353516
+    },
+    {
+      "combatOpacity": 0.0,
+      "file": "neongrid_scanline_tile.png",
+      "fit": "repeat",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 2109.0,
+      "id": "p0544b469",
+      "keepAspect": false,
+      "layer": 5,
+      "locked": false,
+      "name": "Scanlines",
+      "outOfCombatOpacity": 0.07999999821186066,
+      "pos": [
+        -9.0,
+        607.0
+      ],
+      "rotate": 0,
+      "scroll": {
+        "dir": 270.0,
+        "speed": 0.25
+      },
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tile": 1.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 3749.333251953125
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "neongrid_strip_frame.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 39.05555725097656,
+      "id": "p7f0ef2b4",
+      "keepAspect": false,
+      "layer": -1,
+      "locked": false,
+      "name": "Bottom Line strip",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        0.0,
+        1406.802734375
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "showWith": "bottom_line",
+      "slice": 32.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 722.5277709960938
+    },
+    {
+      "blend": "add",
+      "combatOpacity": 1.0,
+      "file": "neongrid_minimap_ticks.png",
+      "fit": "fit",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 341.7361145019531,
+      "id": "p5878fe83",
+      "keepAspect": true,
+      "layer": 1,
+      "locked": false,
+      "motion": {
+        "rpm": 2.0,
+        "spin": true
+      },
+      "name": "Minimap ticks",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        1070.076416015625,
+        1194.2652587890625
+      ],
+      "rotate": 0,
+      "rules": [
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 0,
+              "t": "commander_tag",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.5,
+          "match": "all",
+          "opacity": null,
+          "tint": [
+            1.0,
+            0.1843000054359436,
+            0.8156999945640564
+          ]
+        }
+      ],
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "showWith": "minimap",
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 341.7361145019531
+    },
+    {
+      "blend": "add",
+      "combatOpacity": 0.0,
+      "file": "neongrid_edge_glow.png",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 1406.0,
+      "id": "p9c4f41ad",
+      "keepAspect": false,
+      "layer": 4,
+      "locked": false,
+      "name": "Low health alert",
+      "outOfCombatOpacity": 0.0,
+      "pos": [
+        -112.0,
+        676.0
+      ],
+      "rotate": 0,
+      "rules": [
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 0,
+              "t": "health",
+              "to": 30.0
+            },
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 0,
+              "t": "downed",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.30000001192092896,
+          "match": "any",
+          "mo": {
+            "pulse": 1,
+            "pulseAmt": 0.009999999776482582,
+            "pulseHz": 1.2000000476837158
+          },
+          "opacity": 1.0,
+          "tint": null
+        }
+      ],
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 128.0,
+      "tint": [
+        1.0,
+        0.2313999980688095,
+        0.30979999899864197,
+        1.0
+      ],
+      "w": 3358.77783203125
+    },
+    {
+      "blend": "add",
+      "combatOpacity": 0.0,
+      "file": "neongrid_edge_glow.png",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 1406.0,
+      "id": "ngHitEdge",
+      "keepAspect": false,
+      "layer": 4,
+      "locked": false,
+      "name": "Hit flash edge",
+      "outOfCombatOpacity": 0.0,
+      "pos": [
+        0.0,
+        703.0
+      ],
+      "rotate": 0,
+      "rules": [
+        {
+          "conds": [
+            {
+              "from": 3.0,
+              "hold": 0.30000001192092896,
+              "not": false,
+              "o": 0,
+              "t": "took_damage",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.10000000149011612,
+          "match": "all",
+          "opacity": 0.699999988079071,
+          "tint": null
+        }
+      ],
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 128.0,
+      "tint": [
+        1.0,
+        0.2313999980688095,
+        0.30979999899864197,
+        1.0
+      ],
+      "w": 3358.77783203125
+    },
+    {
+      "blend": "add",
+      "combatOpacity": 0.0,
+      "file": "neongrid_edge_glow.png",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 435.4694519042969,
+      "id": "ngWhisGlow",
+      "keepAspect": false,
+      "layer": 1,
+      "locked": false,
+      "name": "Whisper glow",
+      "outOfCombatOpacity": 0.0,
+      "pos": [
+        -880.9166259765625,
+        251.5069580078125
+      ],
+      "rotate": 0,
+      "rules": [
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 0,
+              "t": "chat_message",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.30000001192092896,
+          "match": "all",
+          "mo": {
+            "pulse": 1,
+            "pulseAmt": 0.019999999552965164
+          },
+          "opacity": 1.0,
+          "tint": null
+        }
+      ],
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "showWith": "chat_window",
+      "slice": 128.0,
+      "tint": [
+        1.0,
+        0.1843000054359436,
+        0.8156999945640564,
+        1.0
+      ],
+      "w": 757.6777954101563
+    },
+    {
+      "combatOpacity": 0.0,
+      "file": "neongrid_transmission_tag.png",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 31.244443893432617,
+      "id": "ngWhisTag",
+      "keepAspect": true,
+      "layer": 2,
+      "locked": false,
+      "name": "Incoming transmission",
+      "outOfCombatOpacity": 0.0,
+      "pos": [
+        -660.9166259765625,
+        489.816650390625
+      ],
+      "rotate": 0,
+      "rules": [
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 0,
+              "t": "chat_message",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.30000001192092896,
+          "match": "all",
+          "mo": {
+            "pulse": 1,
+            "pulseAmt": 0.019999999552965164
+          },
+          "opacity": 1.0,
+          "tint": null
+        }
+      ],
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "showWith": "chat_window",
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 312.4444580078125
+    },
+    {
+      "blend": "add",
+      "combatOpacity": 0.0,
+      "file": "neongrid_holo_base.png",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 214.80555725097656,
+      "id": "p2a853728",
+      "keepAspect": true,
+      "layer": 1,
+      "locked": false,
+      "name": "Mount projector",
+      "outOfCombatOpacity": 0.0,
+      "pos": [
+        497.9583435058594,
+        165.98611450195313
+      ],
+      "rotate": 0,
+      "rules": [
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 0,
+              "t": "mounted",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.30000001192092896,
+          "match": "all",
+          "opacity": 1.0,
+          "tint": null
+        }
+      ],
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 175.75
+    },
+    {
+      "blend": "add",
+      "combatOpacity": 1.0,
+      "file": "neongrid_mount_holo_sheet.png",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 136.69444274902344,
+      "id": "pdc14b067",
+      "keepAspect": true,
+      "layer": 2,
+      "locked": false,
+      "motion": {
+        "bob": true,
+        "bobAmt": 0.03999999910593033
+      },
+      "name": "Mount hologram",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        497.9583435058594,
+        185.51388549804688
+      ],
+      "rotate": 0,
+      "rules": [
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 5,
+              "t": "mounted",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.25,
+          "frame": 1,
+          "match": "all",
+          "opacity": null,
+          "tint": null
+        },
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 3,
+              "t": "mounted",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.25,
+          "frame": 2,
+          "match": "all",
+          "opacity": null,
+          "tint": null
+        },
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 4,
+              "t": "mounted",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.25,
+          "frame": 3,
+          "match": "all",
+          "opacity": null,
+          "tint": null
+        },
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 1,
+              "t": "mounted",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.25,
+          "frame": 4,
+          "match": "all",
+          "opacity": null,
+          "tint": null
+        },
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 2,
+              "t": "mounted",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.25,
+          "frame": 5,
+          "match": "all",
+          "opacity": null,
+          "tint": null
+        },
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 6,
+              "t": "mounted",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.25,
+          "frame": 6,
+          "match": "all",
+          "opacity": null,
+          "tint": null
+        },
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 7,
+              "t": "mounted",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.25,
+          "frame": 7,
+          "match": "all",
+          "opacity": null,
+          "tint": null
+        },
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 8,
+              "t": "mounted",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.25,
+          "frame": 8,
+          "match": "all",
+          "opacity": null,
+          "tint": null
+        },
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 10,
+              "t": "mounted",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.25,
+          "frame": 9,
+          "match": "all",
+          "opacity": null,
+          "tint": null
+        },
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 9,
+              "t": "mounted",
+              "to": 50.0
+            }
+          ],
+          "fade": 0.25,
+          "frame": 10,
+          "match": "all",
+          "opacity": null,
+          "tint": null
+        }
+      ],
+      "sheet": {
+        "cols": 4,
+        "count": 11,
+        "frame": 11,
+        "rows": 3
+      },
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 136.69444274902344
+    }
+  ],
+  "instanceControlsEnabled": true,
+  "instanceControlsHideNative": true,
+  "instance_controls_frame": {
+    "pos": [
+      860.0,
+      1325.0
+    ],
+    "size": [
+      0.01796874962747097,
+      0.03257790207862854
+    ]
+  },
+  "interactPromptEnabled": true,
+  "interactPromptHideNative": true,
+  "interactPromptLook": 1,
+  "interact_prompt_frame": {
+    "pos": [
+      297.0,
+      603.0
+    ],
+    "size": [
+      0.08281250298023224,
+      0.075070820748806
+    ]
+  },
+  "layoutFormat": 1,
+  "lootBgOpacity": 0.20000000298023224,
+  "lootEnabled": true,
+  "lootHideNativeCascade": true,
+  "loot_frame": {
+    "pos": [
+      0.919726550579071,
+      0.8905807137489319
+    ],
+    "size": [
+      0.13320311903953552,
+      0.16643059253692627
+    ]
+  },
+  "mapMeta": {
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.7652343511581421,
+        0.8980169892311096
+      ],
+      "size": [
+        0.1296803057193756,
+        0.08640226721763611
+      ]
+    }
+  },
+  "mapRedirect": {
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.706250011920929,
+        0.03895184025168419
+      ],
+      "size": [
+        0.19528143107891083,
+        0.14936260879039764
+      ]
+    }
+  },
+  "masteryEnabled": true,
+  "mastery_frame": {
+    "pos": [
+      -449.0,
+      29.0
+    ],
+    "size": [
+      0.01796874962747097,
+      0.03257790207862854
+    ]
+  },
+  "menuLauncher": true,
+  "menuLauncherIconSize": 27.33888816833496,
+  "menuLauncherX": 0.00937500037252903,
+  "menuLauncherY": 0.645892322063446,
+  "minimapCorners": 1.0,
+  "minimapEnabled": true,
+  "minimapFogColor": [
+    0.050999999046325684,
+    0.07840000092983246,
+    0.1412000060081482,
+    1.0
+  ],
+  "minimapFogOpacity": 0.6000000238418579,
+  "minimapFogStyle": 1,
+  "minimapLockSquare": true,
+  "minimap_frame": {
+    "pos": [
+      0.9175781011581421,
+      0.15368272364139557
+    ],
+    "size": [
+      0.11640624701976776,
+      0.2110481560230255
+    ]
+  },
+  "mountEnabled": true,
+  "mount_frame": {
+    "pos": [
+      -401.0,
+      29.0
+    ],
+    "size": [
+      0.01796874962747097,
+      0.03257790207862854
+    ]
+  },
+  "notifBgOpacity": 0.6000000238418579,
+  "notifCascadeUp": true,
+  "notifEnabled": true,
+  "notifHideNative": true,
+  "notifIconRight": true,
+  "notif_frame": {
+    "pos": [
+      0.7914062738418579,
+      0.8863314390182495
+    ],
+    "size": [
+      0.11406250298023224,
+      0.19334277510643005
+    ]
+  },
+  "noveltyEnabled": true,
+  "novelty_frame": {
+    "pos": [
+      -497.0,
+      29.0
+    ],
+    "size": [
+      0.01796874962747097,
+      0.03257790207862854
+    ]
+  },
+  "otherIconSize": 0.02074148692190647,
+  "other_frame": {
+    "pos": [
+      369.0,
+      320.0
+    ],
+    "size": [
+      0.14414061605930328,
+      0.025495750829577446
+    ]
+  },
+  "panelCorners": {
+    "chat": 0.0,
+    "consumables": 0.0,
+    "conversation": 0.0,
+    "defeated": 0.0,
+    "effects": 0.0,
+    "guide": 0.0,
+    "interact": 0.0,
+    "loot": 0.0,
+    "mapclosing": 0.0,
+    "mapmeta": 0.0,
+    "menubar": 0.0,
+    "notifications": 0.0
+  },
+  "panelPadding": {
+    "chat": 12.0,
+    "conversation": 35.0,
+    "effects": 3.0,
+    "groupfinder": 35.0,
+    "guide": 21.0,
+    "menubar": 5.0
+  },
+  "party": {
+    "border": false,
+    "cellGap": 7.811110973358154,
+    "cellH": 46.86666488647461,
+    "cellW": 134.74166870117188,
+    "downedHealthColor": [
+      0.9685999751091003,
+      1.0,
+      0.29019999504089355,
+      1.0
+    ],
+    "effectIconSize": 15.622221946716309,
+    "enabled": true,
+    "groupGap": 4.88194465637207,
+    "hideNativeFrames": true,
+    "highHealthColor": [
+      0.09799999743700027,
+      0.9412000179290771,
+      1.0,
+      1.0
+    ],
+    "lowHealthColor": [
+      1.0,
+      0.2313999980688095,
+      0.30979999899864197,
+      1.0
+    ],
+    "midHealthColor": [
+      0.5411999821662903,
+      0.36079999804496765,
+      1.0,
+      1.0
+    ],
+    "outOfCombatOpacity": 0.699999988079071,
+    "rect": {
+      "pos": [
+        0.11367187649011612,
+        0.20290368795394897
+      ],
+      "size": [
+        0.18984374403953552,
+        0.24716714024543762
+      ]
+    },
+    "scale": 1.3474880456924438,
+    "speakStyle": 2
+  },
+  "petIconSize": 39.05555725097656,
+  "pet_group": {
+    "pos": [
+      -108.0,
+      200.0
+    ],
+    "size": [
+      0.34112584590911865,
+      0.04978753626346588
+    ]
+  },
+  "player_portrait_frame": {
+    "pos": [
+      0.2955078184604645,
+      0.881373941898346
+    ],
+    "size": [
+      0.072265625,
+      0.13101983070373535
+    ]
+  },
+  "player_vitals": {
+    "pos": [
+      -0.5,
+      251.0
+    ],
+    "size": [
+      0.3050781190395355,
+      0.05524079501628876
+    ]
+  },
+  "profResEnabled": true,
+  "prof_res_frame": {
+    "pos": [
+      0.0,
+      49.5
+    ],
+    "size": [
+      0.09140624850988388,
+      0.012039660476148129
+    ]
+  },
+  "professionIconSize": 46.86666488647461,
+  "profession_group": {
+    "pos": [
+      -372.0,
+      200.0
+    ],
+    "size": [
+      0.34112584590911865,
+      0.04978753626346588
+    ]
+  },
+  "ready_check_frame": {
+    "pos": [
+      0.500781238079071,
+      0.631373941898346
+    ],
+    "size": [
+      0.10234375298023224,
+      0.04886685684323311
+    ]
+  },
+  "reticleStyle": 1,
+  "rewardTrayEnabled": true,
+  "rewardTrayFlow": 1,
+  "rewardTrayGap": 3.905555486679077,
+  "rewardTrayHideNative": true,
+  "rewardTrayIconSize": 58.0,
+  "reward_tray_frame": {
+    "pos": [
+      0.821093738079071,
+      0.041784703731536865
+    ],
+    "size": [
+      0.07304687798023224,
+      0.04532577842473984
+    ]
+  },
+  "sakIconSize": 46.86666488647461,
+  "sak_slot": {
+    "pos": [
+      324.0,
+      200.0
+    ],
+    "size": [
+      0.05248090252280235,
+      0.05974503979086876
+    ]
+  },
+  "screen": [
+    2560,
+    1412
+  ],
+  "socialBgColor": [
+    0.03920000046491623,
+    0.058800000697374344,
+    0.10199999809265137,
+    1.0
+  ],
+  "socialBgColorSet": true,
+  "socialCascadeUp": false,
+  "social_frame": {
+    "pos": [
+      0.5,
+      0.2648932933807373
+    ],
+    "size": [
+      0.2338024228811264,
+      0.05946623161435127
+    ]
+  },
+  "specialtyGrowReverse": 0,
+  "specialtyIconSize": 0.02074148692190647,
+  "specialtyMode": 0,
+  "specialty_frame": {
+    "pos": [
+      -371.02777099609375,
+      363.2166748046875
+    ],
+    "size": [
+      0.14112114906311035,
+      0.02074148692190647
+    ]
+  },
+  "squad": {
+    "border": false,
+    "cellGap": 3.905555486679077,
+    "cellH": 31.244443893432617,
+    "cellW": 134.74166870117188,
+    "downedHealthColor": [
+      0.9685999751091003,
+      1.0,
+      0.29019999504089355,
+      1.0
+    ],
+    "effectIconSize": 15.622221946716309,
+    "enabled": true,
+    "groupGap": 4.88194465637207,
+    "hideNativeFrames": true,
+    "highHealthColor": [
+      0.09799999743700027,
+      0.9412000179290771,
+      1.0,
+      1.0
+    ],
+    "layoutMode": 1,
+    "listBarStyle": 1,
+    "lowHealthColor": [
+      1.0,
+      0.2313999980688095,
+      0.30979999899864197,
+      1.0
+    ],
+    "midHealthColor": [
+      0.5411999821662903,
+      0.36079999804496765,
+      1.0,
+      1.0
+    ],
+    "outOfCombatOpacity": 0.699999988079071,
+    "rect": {
+      "pos": [
+        0.14980468153953552,
+        0.22060906887054443
+      ],
+      "size": [
+        0.26835936307907104,
+        0.29390934109687805
+      ]
+    },
+    "speakStyle": 2,
+    "subgroupAccent": false
+  },
+  "squad_counters_frame": {
+    "pos": [
+      0.08574219048023224,
+      0.05099150165915489
+    ],
+    "size": [
+      0.09023437649011612,
+      0.02266288921236992
+    ]
+  },
+  "squad_toolbox_frame": {
+    "pos": [
+      0.02773437462747097,
+      0.0495750717818737
+    ],
+    "size": [
+      0.01796874962747097,
+      0.03257790207862854
+    ]
+  },
+  "stamina_frame": {
+    "pos": [
+      -247.51458740234375,
+      346.6180419921875
+    ],
+    "size": [
+      0.09954589605331421,
+      0.005974504165351391
+    ]
+  },
+  "targetClassIconStyle": 1,
+  "targetEnabled": true,
+  "targetParts": {
+    "numbers": [
+      {
+        "col": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "id": "ngTgtNum",
+        "kind": "targetPercent",
+        "part": "ngTgtHp",
+        "scale": 0.8999999761581421
+      }
+    ],
+    "parts": [
+      {
+        "id": "ngTgtName",
+        "pos": [
+          -0.5,
+          1326.5
+        ],
+        "size": [
+          0.19804687798023224,
+          0.02762039750814438
+        ],
+        "value": "targetName"
+      },
+      {
+        "empty": "neongrid_target_empty.png",
+        "frame": "neongrid_target_frame.png",
+        "fx": {
+          "flick": true,
+          "flickA": 0.07999999821186066,
+          "flickHz": 2.0,
+          "tex": [
+            {
+              "blend": 1,
+              "dir": 90.0,
+              "op": 0.18000000715255737,
+              "pic": "neongrid_health_tex_scan.png",
+              "spd": 0.5
+            }
+          ]
+        },
+        "id": "ngTgtHp",
+        "map": "neongrid_target_fillmap.png",
+        "pic": "neongrid_target_picture.png",
+        "pos": [
+          -0.5,
+          1289.0
+        ],
+        "rules": [
+          {
+            "conds": [
+              {
+                "from": 0.0,
+                "hold": 5.0,
+                "not": false,
+                "o": 0,
+                "t": "target_health",
+                "to": 20.0
+              }
+            ],
+            "fade": 0.30000001192092896,
+            "fx": {
+              "flick": 1,
+              "flickA": 0.3499999940395355,
+              "flickHz": 10.0
+            },
+            "match": "all",
+            "mo": {
+              "pulse": 1,
+              "pulseAmt": 0.019999999552965164,
+              "pulseHz": 1.5
+            },
+            "opacity": null,
+            "tint": null
+          }
+        ],
+        "shape": "custom",
+        "size": [
+          0.20585937798023224,
+          0.04107648879289627
+        ],
+        "tint": true,
+        "value": "targetHealth"
+      },
+      {
+        "id": "ngTgtDef",
+        "pos": [
+          0.0,
+          1266.5
+        ],
+        "size": [
+          0.18281249701976776,
+          0.004957506898790598
+        ],
+        "value": "defiance"
+      }
+    ]
+  },
+  "targetPortraitEnabled": true,
+  "targetVariant": 2,
+  "target_frame": {
+    "pos": [
+      0.5,
+      0.06970255076885223
+    ],
+    "size": [
+      0.09954589605331421,
+      0.012320059351623058
+    ]
+  },
+  "target_portrait_frame": {
+    "pos": [
+      0.3740234375,
+      0.07294617593288422
+    ],
+    "size": [
+      0.03632812574505806,
+      0.06373937427997589
+    ]
+  },
+  "tboonEnabled": true,
+  "tboonIconSize": 0.01798325777053833,
+  "tboonMode": 0,
+  "tboon_frame": {
+    "pos": [
+      -244.09722900390625,
+      1249.91943359375
+    ],
+    "size": [
+      0.08772183209657669,
+      0.01798325777053833
+    ]
+  },
+  "tcondiEnabled": true,
+  "tcondiGrowReverse": 1,
+  "tcondiIconSize": 0.01798325777053833,
+  "tcondiMode": 0,
+  "tcondi_frame": {
+    "pos": [
+      244.09722900390625,
+      1249.91943359375
+    ],
+    "size": [
+      0.08772183209657669,
+      0.01798325777053833
+    ]
+  },
+  "timFloatingIconX": 0.0,
+  "timFloatingIconY": 664.0,
+  "totherGrowReverse": 2,
+  "totherIconSize": 0.01798325777053833,
+  "tother_frame": {
+    "pos": [
+      0.0,
+      1216.72216796875
+    ],
+    "size": [
+      0.11442148685455322,
+      0.01798325777053833
+    ]
+  },
+  "trimColor": [
+    0.09803921729326248,
+    0.9411764740943909,
+    1.0,
+    1.0
+  ],
+  "trimOverride": true,
+  "utilityIconSize": 62.488887786865234,
+  "utility_group": {
+    "pos": [
+      27.0,
+      133.0
+    ],
+    "size": [
+      0.26240453124046326,
+      0.039830029010772705
+    ]
+  },
+  "vitalsElements": {
+    "custom": true,
+    "from": {
+      "boxes": {
+        "enduranceFrame": {
+          "pos": [
+            -247.51458740234375,
+            361.2638854980469
+          ],
+          "size": [
+            0.09954589814879,
+            0.009957507210480256
+          ]
+        },
+        "playerVitals": {
+          "pos": [
+            -0.5,
+            251.0
+          ],
+          "size": [
+            0.30507812229916453,
+            0.055240793707688196
+          ]
+        },
+        "staminaFrame": {
+          "pos": [
+            -247.51458740234375,
+            346.6180419921875
+          ],
+          "size": [
+            0.09954589814879,
+            0.005974504231309081
+          ]
+        }
+      },
+      "disp": [
+        3440.0,
+        1440.0
+      ],
+      "legacy": {
+        "barrier": 0,
+        "detachEnd": false,
+        "detachSta": false,
+        "mode": 0
+      }
+    },
+    "numbers": [
+      {
+        "col": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "id": "ngHpNum",
+        "part": "ngHealth"
+      }
+    ],
+    "parts": [
+      {
+        "empty": "neongrid_health_empty.png",
+        "frame": "neongrid_health_frame.png",
+        "fx": {
+          "flick": true,
+          "flickA": 0.07999999821186066,
+          "flickHz": 2.0,
+          "tex": [
+            {
+              "blend": 1,
+              "dir": 90.0,
+              "op": 0.18000000715255737,
+              "pic": "neongrid_health_tex_scan.png",
+              "spd": 0.5
+            },
+            {
+              "blend": 1,
+              "op": 0.3499999940395355,
+              "pic": "neongrid_health_tex_data.png",
+              "spd": 1.5
+            }
+          ]
+        },
+        "id": "ngHealth",
+        "map": "neongrid_health_fillmap.png",
+        "pic": "neongrid_health_picture.png",
+        "pos": [
+          -0.5,
+          251.0
+        ],
+        "rules": [
+          {
+            "conds": [
+              {
+                "from": 0.0,
+                "hold": 5.0,
+                "not": false,
+                "o": 0,
+                "t": "health",
+                "to": 30.0
+              }
+            ],
+            "fade": 0.30000001192092896,
+            "fx": {
+              "flick": 1,
+              "flickA": 0.3499999940395355,
+              "flickHz": 10.0
+            },
+            "match": "all",
+            "mo": {
+              "jig": 1,
+              "jigAmt": 0.019999999552965164,
+              "jigHz": 3.0
+            },
+            "opacity": null,
+            "tint": null
+          }
+        ],
+        "shape": "custom",
+        "size": [
+          0.3050781190395355,
+          0.05524079501628876
+        ],
+        "tint": true
+      },
+      {
+        "id": "ngBarrier",
+        "pos": [
+          0.0,
+          0.0
+        ],
+        "ride": "ngHealth",
+        "value": "barrier"
+      },
+      {
+        "col": [
+          1.0,
+          0.1843000054359436,
+          0.8156999945640564,
+          1.0
+        ],
+        "id": "ngEndur",
+        "marks": true,
+        "pos": [
+          0.0,
+          218.5
+        ],
+        "size": [
+          0.28984373807907104,
+          0.023371104151010513
+        ],
+        "skin": "endurance.hbar",
+        "value": "endurance"
+      },
+      {
+        "arc": {
+          "a0": -2.3561999797821045,
+          "a1": -0.7853999733924866,
+          "fancy": true,
+          "r": 126.93055725097656,
+          "t": 6.83472204208374
+        },
+        "cpos": [
+          0.0,
+          0.0
+        ],
+        "id": "ngStamina",
+        "shape": "arc",
+        "size": [
+          0.1015625,
+          0.18413597345352173
+        ],
+        "value": "stamina"
+      },
+      {
+        "id": "ngPet",
+        "pos": [
+          0.0,
+          183.5611114501953
+        ],
+        "show": false,
+        "size": [
+          0.07628099620342255,
+          0.00553637370467186
+        ],
+        "value": "pet"
+      }
+    ]
+  },
+  "vitalsEnabled": true,
+  "vitalsMode": 0,
+  "vitalsParts": {
+    "from": [
+      0,
+      false,
+      false,
+      0
+    ],
+    "health": "hbar"
+  },
+  "vitalsTextOff": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      -9.76388931274414,
+      144.50555419921875
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "vitalsTextSpread": 107.40277862548828,
+  "vote_kick_frame": {
+    "pos": [
+      0.33203125,
+      0.6129603385925293
+    ],
+    "size": [
+      0.12656250596046448,
+      0.10127478837966919
+    ]
+  },
+  "watchfxEnabled": true,
+  "watchfxGrowReverse": 0,
+  "watchfxIconSize": 0.02074148692190647,
+  "watchfxIconVertical": 1,
+  "watchfx_frame": {
+    "pos": [
+      146.4583282470703,
+      738.2916870117188
+    ],
+    "size": [
+      0.011440836824476719,
+      0.06914492696523666
+    ]
+  },
+  "weaponIconSize": 62.488887786865234,
+  "weaponSwapIconSize": 39.05555725097656,
+  "weapon_group": {
+    "pos": [
+      -372.0,
+      133.0
+    ],
+    "size": [
+      0.26240453124046326,
+      0.039830029010772705
+    ]
+  },
+  "weapon_swap_slot": {
+    "pos": [
+      -418.0,
+      110.0
+    ],
+    "size": [
+      0.05248090252280235,
+      0.05974503979086876
+    ]
+  },
+  "xpBarPlaced": true,
+  "xpParts": {
+    "custom": true,
+    "parts": [
+      {
+        "id": "vfda93eb3",
+        "pos": [
+          0.0,
+          20.0
+        ],
+        "size": [
+          0.28984373807907104,
+          0.0042492919601500034
+        ],
+        "value": "experience"
+      }
+    ]
+  },
+  "xpPartsEnabled": true,
+  "xp_bar_frame": {
+    "pos": [
+      0.0,
+      20.0
+    ],
+    "size": [
+      0.28984373807907104,
+      0.004249292425811291
+    ]
+  }
+}

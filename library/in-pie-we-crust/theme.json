@@ -1,0 +1,25 @@
+{
+  "author": "PieOrCake.7635",
+  "base": {
+    "accent": "#C0392BFF",
+    "alerts": "#F0625AFF",
+    "background": "#241812F2",
+    "borders": "#B97A44FF",
+    "controls": "#4A3226FF",
+    "text": "#FFF1DAFF"
+  },
+  "name": "In Pie We Crust Bakery",
+  "overrides": {},
+  "pieUiTheme": 1,
+  "sizes": {
+    "bubble": 10.0,
+    "frame": 3.0,
+    "frameBorder": 0.0,
+    "grab": 3.0,
+    "popup": 4.0,
+    "scrollbar": 6.0,
+    "tab": 3.0,
+    "window": 4.0,
+    "windowBorder": 1.0
+  }
+}

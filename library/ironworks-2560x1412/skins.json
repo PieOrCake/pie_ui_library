@@ -1,0 +1,415 @@
+[
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_slot_frame.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "hotbar.slot.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_slot_overlay.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "hotbar.slot.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_slot_mask.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "hotbar.slot.mask",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_button_bg.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "instance.button.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_slot_frame.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "instance.button.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_slot_overlay.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "instance.button.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_slot_mask.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "instance.button.mask",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_button_bg.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "rewards.chest.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_slot_frame.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "rewards.chest.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_slot_mask.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "rewards.chest.mask",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "extend": 0.029999999329447746,
+    "file": "ironworks_minimap_frame.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "minimap.map.frame",
+    "slice": 30.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_window_frame.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "worldmap.map.frame",
+    "slice": 30.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_title_bar.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "worldmap.title.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_iron_tile.png",
+    "fit": "repeat",
+    "opacity": 0.05999999865889549,
+    "part": "worldmap.map.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "profession",
+    "empties": "reveal",
+    "file": "ironworks_portrait_frame.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "party.portrait.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "effects.panel.colour",
+    "tint": [
+      0.08240000158548355,
+      0.06669999659061432,
+      0.05490000173449516,
+      0.699999988079071
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "extend": 0.11999999731779099,
+    "file": "ironworks_strip_frame.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "effects.panel.frame",
+    "slice": 10.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "interact.panel.colour",
+    "tint": [
+      0.08240000158548355,
+      0.06669999659061432,
+      0.05490000173449516,
+      0.8999999761581421
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_strip_frame.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "interact.panel.frame",
+    "slice": 10.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_divider.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "guide.section.divider",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_bar_bg.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "guide.bar.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_molten_tile.png",
+    "fit": "repeat",
+    "opacity": 1.0,
+    "part": "guide.bar.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_row_frame.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "squad.row.frame",
+    "slice": 12.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_plate.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "chat.panel.background",
+    "slice": 28.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "chat.panel.colour",
+    "tint": [
+      0.1647000014781952,
+      0.12939999997615814,
+      0.10589999705553055,
+      0.8999999761581421
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_plate.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "guide.panel.background",
+    "slice": 28.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "guide.panel.colour",
+    "tint": [
+      0.1647000014781952,
+      0.12939999997615814,
+      0.10589999705553055,
+      0.8999999761581421
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_plate.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "defeated.panel.background",
+    "slice": 28.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "defeated.panel.colour",
+    "tint": [
+      0.1647000014781952,
+      0.12939999997615814,
+      0.10589999705553055,
+      0.8999999761581421
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_plate.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "loot.panel.background",
+    "slice": 28.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "loot.panel.colour",
+    "tint": [
+      0.1647000014781952,
+      0.12939999997615814,
+      0.10589999705553055,
+      0.8999999761581421
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_plate.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "groupfinder.panel.background",
+    "slice": 28.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "groupfinder.panel.colour",
+    "tint": [
+      0.1647000014781952,
+      0.12939999997615814,
+      0.10589999705553055,
+      0.8999999761581421
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_plate.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "mapclosing.panel.background",
+    "slice": 28.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "mapclosing.panel.colour",
+    "tint": [
+      0.1647000014781952,
+      0.12939999997615814,
+      0.10589999705553055,
+      0.8999999761581421
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_plate_small.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "notifications.panel.background",
+    "slice": 16.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "notifications.panel.colour",
+    "tint": [
+      0.1647000014781952,
+      0.12939999997615814,
+      0.10589999705553055,
+      0.8999999761581421
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_plate_small.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "mapmeta.panel.background",
+    "slice": 16.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "mapmeta.panel.colour",
+    "tint": [
+      0.1647000014781952,
+      0.12939999997615814,
+      0.10589999705553055,
+      0.8999999761581421
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_plate_small.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "menubar.panel.background",
+    "slice": 16.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "menubar.panel.colour",
+    "tint": [
+      0.1647000014781952,
+      0.12939999997615814,
+      0.10589999705553055,
+      0.8999999761581421
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "ironworks_plate_small.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "consumables.panel.background",
+    "slice": 16.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "consumables.panel.colour",
+    "tint": [
+      0.1647000014781952,
+      0.12939999997615814,
+      0.10589999705553055,
+      0.8999999761581421
+    ]
+  }
+]

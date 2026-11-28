@@ -1,0 +1,1297 @@
+{
+  "boonGrowReverse": 0,
+  "boonIconSize": 0.023600000888109207,
+  "boonMode": 0,
+  "boon_color": [
+    0.8799999952316284,
+    0.6299999952316284,
+    0.23999999463558197,
+    1.0
+  ],
+  "boon_frame": {
+    "pos": [
+      -1004.0,
+      210.0
+    ],
+    "size": [
+      0.09593000262975693,
+      0.02500000037252903
+    ]
+  },
+  "bottomLine": {
+    "accentBorder": true,
+    "bgColorOwn": [
+      0.14100000262260437,
+      0.09399999678134918,
+      0.07100000232458115,
+      0.9200000166893005
+    ],
+    "bgColorSet": true,
+    "fontColor": [
+      1.0,
+      0.9449999928474426,
+      0.8550000190734863,
+      1.0
+    ],
+    "screenAnchor": 0
+  },
+  "castBarEnabled": true,
+  "castBarVariant": 2,
+  "castParts": {
+    "parts": [
+      {
+        "empty": "pastry_raw.png",
+        "id": "ccast",
+        "map": "pastry_map.png",
+        "pic": "pastry_baked.png",
+        "pos": [
+          -1.5,
+          313.5
+        ],
+        "shape": "custom",
+        "size": [
+          0.09854651242494583,
+          0.04097222164273262
+        ],
+        "value": "cast"
+      },
+      {
+        "id": "cicon",
+        "pos": [
+          -199.0,
+          315.0
+        ],
+        "size": [
+          0.009302325546741486,
+          0.02222222276031971
+        ],
+        "value": "castIcon"
+      }
+    ]
+  },
+  "cast_bar_frame": {
+    "pos": [
+      -1.5,
+      313.5
+    ],
+    "size": [
+      0.09854651242494583,
+      0.04097222164273262
+    ]
+  },
+  "chatEnabled": true,
+  "chat_frame": {
+    "pos": [
+      0.10130813717842102,
+      0.8447916507720947
+    ],
+    "size": [
+      0.18401162326335907,
+      0.28958332538604736
+    ]
+  },
+  "classfxGrowReverse": 0,
+  "classfxIconSize": 0.023600000888109207,
+  "classfx_color": [
+    0.800000011920929,
+    0.44999998807907104,
+    0.20000000298023224,
+    1.0
+  ],
+  "classfx_frame": {
+    "pos": [
+      618.0,
+      134.0
+    ],
+    "size": [
+      0.09012000262737274,
+      0.02500000037252903
+    ]
+  },
+  "colPetHp": [
+    0.8999999761581421,
+    0.6600000262260437,
+    0.30000001192092896,
+    1.0
+  ],
+  "colVitalsText": [
+    0.28999999165534973,
+    0.17000000178813934,
+    0.09000000357627869,
+    1.0
+  ],
+  "condiGrowReverse": 0,
+  "condiIconSize": 0.023600000888109207,
+  "condiMode": 0,
+  "condi_color": [
+    0.75,
+    0.20000000298023224,
+    0.18000000715255737,
+    1.0
+  ],
+  "condi_frame": {
+    "pos": [
+      -1004.0,
+      134.0
+    ],
+    "size": [
+      0.09593000262975693,
+      0.02500000037252903
+    ]
+  },
+  "contentGuide": {
+    "collapsedBonus": true,
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.8744186162948608,
+        0.04652777686715126
+      ],
+      "size": [
+        0.12470930069684982,
+        0.5784721970558167
+      ]
+    }
+  },
+  "conversation": {
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.2671511769294739,
+        0.11597222089767456
+      ]
+    },
+    "hideNative": true
+  },
+  "defeatedBgOpacity": 0.0,
+  "defeated_frame": {
+    "pos": [
+      0.5,
+      0.375
+    ],
+    "size": [
+      0.11999999731779099,
+      0.09000000357627869
+    ]
+  },
+  "editGroups": [
+    [
+      "##pieui_imglayer_tag",
+      "##pieui_vital_vhealth",
+      "##pieui_vital_vbarrier"
+    ],
+    [
+      "##pieui_vital_vendur",
+      "##pieui_vital_vstamina"
+    ],
+    [
+      "##pieui_imglayer_board",
+      "##pieui_target_part_ttgt",
+      "##pieui_target_part_tdef",
+      "##pieui_target_part_tname"
+    ],
+    [
+      "##pieui_cast_part_ccast",
+      "##pieui_cast_part_cicon"
+    ]
+  ],
+  "groupFinder": {
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.7674418687820435,
+        0.04444444552063942
+      ]
+    },
+    "maxHeight": 0.2465277761220932
+  },
+  "group_requests_frame": {
+    "pos": [
+      0.40290698409080505,
+      0.6527777910232544
+    ],
+    "size": [
+      0.09418604522943497,
+      0.06388889253139496
+    ]
+  },
+  "hideNativeBoons": true,
+  "hideNativeCastBar": true,
+  "hideNativeChat": true,
+  "hideNativeContentGuide": true,
+  "hideNativeHealthGlobe": true,
+  "hideNativeHotbarCluster": true,
+  "hideNativeMap": true,
+  "hideNativeMenuBar": true,
+  "hideNativeMount": true,
+  "hideNativeProfBar": true,
+  "hideNativeTarget": true,
+  "hideNativeUtilityBar": true,
+  "hideNativeWeaponSkills": true,
+  "hotbarAutoCastColor": [
+    1.0,
+    0.800000011920929,
+    0.4000000059604645,
+    1.0
+  ],
+  "hotbarAutoCastColorSet": true,
+  "hotbarEnabled": true,
+  "hotbarShowProfession": true,
+  "imageLayers": [
+    {
+      "combatOpacity": 1.0,
+      "file": "counter_back.jpg",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 282.0,
+      "id": "back",
+      "keepAspect": true,
+      "layer": -3,
+      "locked": false,
+      "name": "Bakery counter",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        0.0,
+        141.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 3440.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "counter_glass.png",
+      "flipX": false,
+      "flipY": false,
+      "front": true,
+      "h": 260.0,
+      "id": "glass",
+      "keepAspect": true,
+      "layer": 1,
+      "locked": false,
+      "name": "Display glass",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        0.0,
+        130.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 3440.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "awning.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 64.0,
+      "id": "awning",
+      "keepAspect": true,
+      "layer": -3,
+      "locked": false,
+      "name": "Awning",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        0.0,
+        1408.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 3440.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "chalk_board.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 485.0,
+      "id": "chalk",
+      "keepAspect": false,
+      "layer": -2,
+      "locked": false,
+      "name": "Chalkboard",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -1372.0,
+        244.5
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "showWith": "chat_window",
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 692.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "basket.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 101.13334655761719,
+      "id": "basket",
+      "keepAspect": true,
+      "layer": -2,
+      "locked": false,
+      "name": "Bread basket",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -950.0,
+        334.4337158203125
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 164.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "steam_cells.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 150.0,
+      "id": "steam",
+      "keepAspect": true,
+      "layer": -1,
+      "locked": false,
+      "name": "Steam",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -470.0,
+        308.5299987792969
+      ],
+      "rotate": 0,
+      "rules": [
+        {
+          "conds": [
+            {
+              "from": 0.0,
+              "hold": 5.0,
+              "not": false,
+              "o": 0,
+              "t": "health",
+              "to": 29.0
+            }
+          ],
+          "fade": 0.800000011920929,
+          "match": "all",
+          "opacity": 0.0,
+          "tint": null
+        }
+      ],
+      "sheet": {
+        "cells": "play",
+        "cols": 8,
+        "count": 0,
+        "fps": 8.0,
+        "frame": 1,
+        "random": false,
+        "rows": 1
+      },
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "showWith": "player_vitals",
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 110.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "price_tag.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 55.0,
+      "id": "tag",
+      "keepAspect": true,
+      "layer": -1,
+      "locked": false,
+      "name": "Price tag",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -590.0,
+        38.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "showWith": "player_vitals",
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 110.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "target_board.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 232.0,
+      "id": "board",
+      "keepAspect": true,
+      "layer": -1,
+      "locked": false,
+      "name": "Target board",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        0.0,
+        1250.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "showWith": "target_frame",
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 440.0
+    },
+    {
+      "combatOpacity": 1.0,
+      "file": "order_rail.png",
+      "flipX": false,
+      "flipY": false,
+      "front": false,
+      "h": 35.0,
+      "id": "rail",
+      "keepAspect": true,
+      "layer": -1,
+      "locked": false,
+      "name": "Order rail",
+      "outOfCombatOpacity": 1.0,
+      "pos": [
+        -1473.0,
+        1217.0
+      ],
+      "rotate": 0,
+      "showWhileDefeated": false,
+      "showWhileDowned": true,
+      "showWith": "party_frames",
+      "slice": 0.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "w": 300.0
+    }
+  ],
+  "instanceControlsEnabled": true,
+  "instance_controls_frame": {
+    "pos": [
+      226.0,
+      222.0
+    ],
+    "size": [
+      0.015116279013454914,
+      0.03611111268401146
+    ]
+  },
+  "interactPromptEnabled": true,
+  "interactPromptHideNative": true,
+  "interactPromptLook": 1,
+  "interact_prompt_frame": {
+    "pos": [
+      302.0,
+      537.0
+    ],
+    "size": [
+      0.08255814015865326,
+      0.09861110895872116
+    ]
+  },
+  "layoutFormat": 1,
+  "lootEnabled": true,
+  "lootHideNativeCascade": true,
+  "loot_frame": {
+    "pos": [
+      0.9366279244422913,
+      0.7135416865348816
+    ],
+    "size": [
+      0.125,
+      0.17291666567325592
+    ]
+  },
+  "mapMeta": {
+    "enabled": true,
+    "frame": {
+      "pos": [
+        0.6627907156944275,
+        0.04444444552063942
+      ],
+      "size": [
+        0.14000000059604645,
+        0.08472222089767456
+      ]
+    }
+  },
+  "mapRedirect": {
+    "backgroundOpacity": 0.0,
+    "frame": {
+      "pos": [
+        0.5,
+        0.5
+      ],
+      "size": [
+        0.14000000059604645,
+        0.10000000149011612
+      ]
+    }
+  },
+  "masteryEnabled": true,
+  "mastery_frame": {
+    "pos": [
+      1020.0,
+      130.0
+    ],
+    "size": [
+      0.016860464587807655,
+      0.04027777910232544
+    ]
+  },
+  "menuLauncher": true,
+  "menuLauncherX": 0.05348837375640869,
+  "menuLauncherY": 0.6666666865348816,
+  "minimapCorners": 0.30000001192092896,
+  "minimapEnabled": true,
+  "minimapFogColor": [
+    0.30000001192092896,
+    0.20000000298023224,
+    0.14000000059604645,
+    1.0
+  ],
+  "minimapHeartAreaColor": [
+    0.949999988079071,
+    0.7200000286102295,
+    0.30000001192092896,
+    1.0
+  ],
+  "minimap_frame": {
+    "pos": [
+      0.9356104731559753,
+      0.9083333611488342
+    ],
+    "size": [
+      0.11017441749572754,
+      0.17222222685813904
+    ]
+  },
+  "mountEnabled": true,
+  "mount_frame": {
+    "pos": [
+      1203.0,
+      130.0
+    ],
+    "size": [
+      0.016860464587807655,
+      0.04027777910232544
+    ]
+  },
+  "nameplateIconRange": 2950.0,
+  "nameplateIconSize": 25.0,
+  "notifBgOpacity": 0.5199999809265137,
+  "notifCascadeUp": true,
+  "notifEnabled": true,
+  "notifHideNative": true,
+  "notifIconRight": true,
+  "notif_frame": {
+    "pos": [
+      0.8132267594337463,
+      0.6989583373069763
+    ],
+    "size": [
+      0.11947674304246902,
+      0.19930554926395416
+    ]
+  },
+  "noveltyEnabled": true,
+  "novelty_frame": {
+    "pos": [
+      1111.0,
+      130.0
+    ],
+    "size": [
+      0.016860464587807655,
+      0.04027777910232544
+    ]
+  },
+  "otherGrowReverse": 0,
+  "otherIconSize": 0.022199999541044235,
+  "other_color": [
+    0.8500000238418579,
+    0.7400000095367432,
+    0.5799999833106995,
+    1.0
+  ],
+  "other_frame": {
+    "pos": [
+      -1004.0,
+      50.0
+    ],
+    "size": [
+      0.09593000262975693,
+      0.02360999956727028
+    ]
+  },
+  "panelPadding": {
+    "guide": 11.0
+  },
+  "party": {
+    "borderColor": [
+      0.7250000238418579,
+      0.4779999852180481,
+      0.2669999897480011,
+      1.0
+    ],
+    "enabled": true,
+    "hideNativeFrames": true,
+    "highHealthColor": [
+      0.878000020980835,
+      0.6269999742507935,
+      0.23499999940395355,
+      1.0
+    ],
+    "lowHealthColor": [
+      0.8399999737739563,
+      0.27000001072883606,
+      0.23999999463558197,
+      1.0
+    ],
+    "midHealthColor": [
+      0.8510000109672546,
+      0.5,
+      0.20000000298023224,
+      1.0
+    ],
+    "rect": {
+      "pos": [
+        0.0845930203795433,
+        0.19895833730697632
+      ],
+      "size": [
+        0.14127907156944275,
+        0.24236111342906952
+      ]
+    },
+    "scale": 1.374884843826294
+  },
+  "petIconSize": 44.0,
+  "pet_group": {
+    "pos": [
+      976.0,
+      232.0
+    ]
+  },
+  "player_portrait_frame": {
+    "pos": [
+      0.40697699785232544,
+      0.7881940007209778
+    ],
+    "size": [
+      0.030232999473810196,
+      0.07222200185060501
+    ]
+  },
+  "profResEnabled": true,
+  "prof_res_frame": {
+    "pos": [
+      768.5,
+      192.0
+    ],
+    "size": [
+      0.08691860735416412,
+      0.009722222574055195
+    ]
+  },
+  "professionBarCentre": true,
+  "professionIconSize": 56.0,
+  "profession_group": {
+    "pos": [
+      -143.0,
+      250.0
+    ]
+  },
+  "ready_check_frame": {
+    "pos": [
+      0.5,
+      0.2975694537162781
+    ],
+    "size": [
+      0.07616279274225235,
+      0.04791666567325592
+    ]
+  },
+  "rewardTrayEnabled": true,
+  "rewardTrayHideNative": true,
+  "rewardTrayJiggle": false,
+  "rewardTrayMaxVisible": 5,
+  "reward_tray_frame": {
+    "pos": [
+      0.7845930457115173,
+      0.9465277791023254
+    ],
+    "size": [
+      0.04593023285269737,
+      0.03750000149011612
+    ]
+  },
+  "sakIconSize": 56.0,
+  "sak_slot": {
+    "pos": [
+      201.0,
+      343.0
+    ]
+  },
+  "screen": [
+    3440,
+    1440
+  ],
+  "slotCorners": 0.20000000298023224,
+  "socialBgColor": [
+    0.14100000262260437,
+    0.09399999678134918,
+    0.07100000232458115,
+    1.0
+  ],
+  "socialBgColorSet": true,
+  "social_frame": {
+    "pos": [
+      0.10130000114440918,
+      0.5299999713897705
+    ],
+    "size": [
+      0.18400000035762787,
+      0.14000000059604645
+    ]
+  },
+  "specPlacements": {
+    "8:34": {
+      "profbar": {
+        "hotbarProfessionFreeSlots": false,
+        "professionBarCentre": true,
+        "professionIconSize": 56.0,
+        "professionOrient": 0,
+        "profession_group": {
+          "pos": [
+            -143.0,
+            250.0
+          ],
+          "size": [
+            0.25999999046325684,
+            0.05000000074505806
+          ],
+          "visible": true
+        },
+        "slotCluster": null,
+        "slotMembers": {}
+      },
+      "profres": {
+        "prof_res_frame": {
+          "pos": [
+            768.5,
+            192.0
+          ],
+          "size": [
+            0.08691860735416412,
+            0.009722222574055195
+          ],
+          "visible": true
+        }
+      }
+    }
+  },
+  "specialtyGrowReverse": 0,
+  "specialtyIconSize": 0.022199999541044235,
+  "specialtyMode": 0,
+  "specialty_color": [
+    0.949999988079071,
+    0.8199999928474426,
+    0.44999998807907104,
+    1.0
+  ],
+  "specialty_frame": {
+    "pos": [
+      618.0,
+      50.0
+    ],
+    "size": [
+      0.09012000262737274,
+      0.02360999956727028
+    ]
+  },
+  "squad": {
+    "borderColor": [
+      0.7250000238418579,
+      0.4779999852180481,
+      0.2669999897480011,
+      1.0
+    ],
+    "enabled": true,
+    "healthBarProfColor": true,
+    "hideNativeFrames": true,
+    "highHealthColor": [
+      0.878000020980835,
+      0.6269999742507935,
+      0.23499999940395355,
+      1.0
+    ],
+    "layoutMode": 1,
+    "listBarStyle": 1,
+    "lowHealthColor": [
+      0.8399999737739563,
+      0.27000001072883606,
+      0.23999999463558197,
+      1.0
+    ],
+    "midHealthColor": [
+      0.8510000109672546,
+      0.5,
+      0.20000000298023224,
+      1.0
+    ],
+    "rect": {
+      "pos": [
+        0.11148256063461304,
+        0.21631944179534912
+      ],
+      "size": [
+        0.19970929622650146,
+        0.2881944477558136
+      ]
+    }
+  },
+  "squad_counters_frame": {
+    "pos": [
+      0.034156978130340576,
+      0.08611111342906952
+    ],
+    "size": [
+      0.06715116649866104,
+      0.02222222276031971
+    ]
+  },
+  "squad_toolbox_frame": {
+    "pos": [
+      0.43313953280448914,
+      0.8458333611488342
+    ],
+    "size": [
+      0.015116279013454914,
+      0.03611111268401146
+    ]
+  },
+  "targetEnabled": true,
+  "targetParts": {
+    "numbers": [
+      {
+        "col": [
+          1.0,
+          0.8600000143051147,
+          0.5,
+          1.0
+        ],
+        "id": "ntp",
+        "kind": "targetPercent",
+        "off": [
+          0.0,
+          1.6334999799728394
+        ],
+        "part": "ttgt",
+        "scale": 0.800000011920929
+      }
+    ],
+    "parts": [
+      {
+        "id": "tname",
+        "pos": [
+          -0.5,
+          1299.0
+        ],
+        "size": [
+          0.11017441749572754,
+          0.01805555634200573
+        ],
+        "value": "targetName"
+      },
+      {
+        "aspect": false,
+        "empty": "chalk_bar_empty.png",
+        "id": "ttgt",
+        "pic": "chalk_bar_full.png",
+        "pos": [
+          -0.5,
+          1249.0
+        ],
+        "shape": "custom",
+        "size": [
+          0.11017441749572754,
+          0.03055555559694767
+        ],
+        "value": "targetHealth"
+      },
+      {
+        "aspect": false,
+        "empty": "chalk_pin_empty.png",
+        "id": "tdef",
+        "pic": "chalk_pin_full.png",
+        "pos": [
+          -1.0,
+          1197.5
+        ],
+        "shape": "custom",
+        "size": [
+          0.06337209045886993,
+          0.014583333395421505
+        ],
+        "tint": true,
+        "value": "defiance"
+      }
+    ]
+  },
+  "targetVariant": 2,
+  "target_frame": {
+    "pos": [
+      0.5,
+      0.13263900578022003
+    ],
+    "size": [
+      0.0729651153087616,
+      0.012500000186264515
+    ]
+  },
+  "target_portrait_frame": {
+    "pos": [
+      0.4186049997806549,
+      0.13194400072097778
+    ],
+    "size": [
+      0.030232999473810196,
+      0.07222200185060501
+    ]
+  },
+  "tboonEnabled": true,
+  "tboonIconSize": 0.02199999988079071,
+  "tboonMode": 0,
+  "tboon_color": [
+    0.8799999952316284,
+    0.6299999952316284,
+    0.23999999463558197,
+    1.0
+  ],
+  "tboon_frame": {
+    "pos": [
+      240.0,
+      1340.0
+    ],
+    "size": [
+      0.08749999850988388,
+      0.03402777761220932
+    ]
+  },
+  "tcondiEnabled": true,
+  "tcondiIconSize": 0.02199999988079071,
+  "tcondiMode": 0,
+  "tcondi_color": [
+    0.75,
+    0.20000000298023224,
+    0.18000000715255737,
+    1.0
+  ],
+  "tcondi_frame": {
+    "pos": [
+      240.0,
+      1280.0
+    ],
+    "size": [
+      0.08779069781303406,
+      0.03125
+    ]
+  },
+  "timFloatingIconX": 0.0,
+  "timFloatingIconY": 681.0,
+  "totherIconSize": 0.02199999988079071,
+  "tother_color": [
+    0.8500000238418579,
+    0.7400000095367432,
+    0.5799999833106995,
+    1.0
+  ],
+  "tother_frame": {
+    "pos": [
+      240.0,
+      1224.0
+    ],
+    "size": [
+      0.08779069781303406,
+      0.03194444626569748
+    ]
+  },
+  "utilityIconSize": 72.0,
+  "utility_group": {
+    "pos": [
+      -183.0,
+      90.0
+    ]
+  },
+  "vitalsElements": {
+    "custom": true,
+    "from": {
+      "boxes": {
+        "enduranceFrame": {
+          "pos": [
+            -253.5,
+            370.0
+          ],
+          "size": [
+            0.07587209343910217,
+            0.009999999776482582
+          ]
+        },
+        "playerVitals": {
+          "pos": [
+            -253.5,
+            392.0
+          ],
+          "size": [
+            0.07587209343910217,
+            0.03566230088472366
+          ]
+        },
+        "staminaFrame": {
+          "pos": [
+            -253.5,
+            355.0
+          ],
+          "size": [
+            0.07587209343910217,
+            0.006000000052154064
+          ]
+        }
+      },
+      "disp": [
+        1920,
+        1080
+      ],
+      "legacy": {
+        "barrier": 0,
+        "detachEnd": false,
+        "detachSta": false,
+        "mode": 2
+      }
+    },
+    "numbers": [
+      {
+        "col": [
+          0.28999999165534973,
+          0.17000000178813934,
+          0.09000000357627869,
+          1.0
+        ],
+        "id": "nhp",
+        "kind": "hpCurrent",
+        "off": [
+          -0.4545530378818512,
+          1.0143272876739502
+        ],
+        "part": "vhealth",
+        "scale": 0.8500000238418579
+      }
+    ],
+    "parts": [
+      {
+        "frames": {
+          "cols": 7,
+          "count": 21,
+          "move": "snap",
+          "pic": "pie_health_cells.png",
+          "rows": 3
+        },
+        "id": "vhealth",
+        "pos": [
+          -472.0,
+          185.0
+        ],
+        "shape": "frames",
+        "size": [
+          0.07616279274225235,
+          0.09583333134651184
+        ]
+      },
+      {
+        "id": "vbarrier",
+        "map": "cream_front_map.png",
+        "pic": "cream_front.png",
+        "pos": [
+          -471.5,
+          140.0
+        ],
+        "shape": "custom",
+        "size": [
+          0.09854651242494583,
+          0.08055555820465088
+        ],
+        "value": "barrier"
+      },
+      {
+        "frames": {
+          "count": 11,
+          "move": "snap",
+          "pic": "pie_endurance_cells.png",
+          "rows": 3
+        },
+        "id": "vendur",
+        "pos": [
+          439.0,
+          136.0
+        ],
+        "shape": "frames",
+        "size": [
+          0.0546511635184288,
+          0.06527777761220932
+        ],
+        "value": "endurance"
+      },
+      {
+        "aspect": false,
+        "empty": "pin_empty.png",
+        "id": "vstamina",
+        "map": "pin_map.png",
+        "pic": "pin_fill.png",
+        "pos": [
+          436.0,
+          300.5
+        ],
+        "shape": "custom",
+        "size": [
+          0.06337209045886993,
+          0.0173611119389534
+        ],
+        "tint": true,
+        "value": "stamina"
+      },
+      {
+        "aspect": false,
+        "empty": "pin_empty.png",
+        "id": "vpet",
+        "map": "pin_map.png",
+        "pic": "pin_fill.png",
+        "pos": [
+          436.0,
+          338.0
+        ],
+        "shape": "custom",
+        "show": false,
+        "size": [
+          0.06337209045886993,
+          0.0173611119389534
+        ],
+        "tint": true,
+        "value": "pet"
+      }
+    ]
+  },
+  "vitalsEnabled": true,
+  "vote_kick_frame": {
+    "pos": [
+      0.5002906918525696,
+      0.3934027850627899
+    ],
+    "size": [
+      0.09418604522943497,
+      0.09930555522441864
+    ]
+  },
+  "watchfxIconSize": 0.023600000888109207,
+  "watchfx_frame": {
+    "pos": [
+      0.0,
+      430.0
+    ],
+    "size": [
+      0.10000000149011612,
+      0.029999999329447746
+    ]
+  },
+  "weaponIconSize": 72.0,
+  "weaponSwapIconSize": 52.0,
+  "weapon_group": {
+    "pos": [
+      -183.0,
+      184.0
+    ]
+  },
+  "weapon_swap_slot": {
+    "pos": [
+      -256.0,
+      164.0
+    ]
+  },
+  "xpBarPlaced": true,
+  "xp_bar_frame": {
+    "pos": [
+      0.0,
+      6.0
+    ],
+    "size": [
+      0.3499999940395355,
+      0.00559999980032444
+    ]
+  }
+}

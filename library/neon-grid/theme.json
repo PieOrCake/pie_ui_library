@@ -1,0 +1,27 @@
+{
+  "author": "Neon Grid",
+  "base": {
+    "accent": "#19F0FFFF",
+    "alerts": "#FF3B4FFF",
+    "background": "#0A0F1AFF",
+    "borders": "#19F0FF59",
+    "controls": "#121A2BFF",
+    "text": "#D8FAFFFF"
+  },
+  "name": "Neon Grid 21x9",
+  "overrides": {
+    "separator": "#19F0FF59"
+  },
+  "pieUiTheme": 1,
+  "sizes": {
+    "bubble": 4.0,
+    "frame": 0.0,
+    "frameBorder": 0.0,
+    "grab": 0.0,
+    "popup": 2.0,
+    "scrollbar": 2.0,
+    "tab": 0.0,
+    "window": 2.0,
+    "windowBorder": 0.0
+  }
+}

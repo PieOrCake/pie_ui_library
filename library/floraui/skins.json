@@ -1,0 +1,257 @@
+[
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "HealthOrbEdgeHighlight2.png",
+    "fit": "stretch",
+    "opacity": 0.75,
+    "part": "endurance.orb.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "HealthOrbBackground.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "endurance.orb.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "WhiteCircle.png",
+    "fit": "stretch",
+    "opacity": 0.75,
+    "part": "health.orb.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "HealthOrbBackground.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "health.orb.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "WhiteCircle.png",
+    "fit": "stretch",
+    "opacity": 0.75,
+    "part": "endurance.orb.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "HealthOrbEdgeHighlight2.png",
+    "fit": "stretch",
+    "opacity": 0.75,
+    "part": "health.orb.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "minimap.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "endurance.orb.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "HighLight.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "hotbar.slot.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "HealthOrbBackground.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "stamina.orb.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "custom",
+    "empties": "reveal",
+    "extend": 0.5,
+    "file": "HighlightGlow.png",
+    "fit": "border",
+    "opacity": 1.0,
+    "part": "hotbar.slot.frame",
+    "slice": 3.0,
+    "tint": [
+      0.5490196347236633,
+      0.7019608020782471,
+      0.32156863808631897,
+      1.0
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "HealthOrbBackground.png",
+    "fit": "stretch",
+    "opacity": 0.75,
+    "part": "minimap.map.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "WhiteCircle.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "conversation.portrait.mask",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "HealthOrbBackground.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "barrier.orb.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "custom",
+    "empties": "reveal",
+    "file": "WhiteCircle.png",
+    "fit": "stretch",
+    "opacity": 0.75,
+    "part": "barrier.orb.fill",
+    "slice": 8.0,
+    "tint": [
+      0.0,
+      1.0,
+      0.49803921580314636,
+      1.0
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "HealthOrbTextureOverlay.png",
+    "fit": "stretch",
+    "opacity": 0.75,
+    "part": "barrier.orb.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "custom",
+    "empties": "reveal",
+    "file": "WhiteCircle.png",
+    "fit": "stretch",
+    "opacity": 0.75,
+    "part": "stamina.orb.fill",
+    "slice": 8.0,
+    "tint": [
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "HealthOrbTextureOverlay.png",
+    "fit": "stretch",
+    "opacity": 0.75,
+    "part": "stamina.orb.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "HealthOrbBackground.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "pet.orb.background",
+    "slice": 8.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "WhiteCircle.png",
+    "fit": "stretch",
+    "opacity": 0.75,
+    "part": "pet.orb.fill",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "HealthOrbEdgeHighlight2.png",
+    "fit": "stretch",
+    "opacity": 0.5099999904632568,
+    "part": "pet.orb.overlay",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "minimap.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "pet.orb.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "minimap.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "health.orb.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "picture",
+    "empties": "reveal",
+    "file": "Conversation box.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "conversation.panel.background",
+    "slice": 10.0
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "HealthOrbEdge.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "conversation.portrait.frame",
+    "slice": 8.0
+  },
+  {
+    "colour": "custom",
+    "file": "",
+    "part": "conversation.panel.colour",
+    "tint": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  {
+    "colour": "tint",
+    "empties": "reveal",
+    "file": "Conversation box outline.png",
+    "fit": "stretch",
+    "opacity": 1.0,
+    "part": "conversation.panel.frame",
+    "slice": 8.0
+  }
+]
