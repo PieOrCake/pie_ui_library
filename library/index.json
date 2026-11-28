@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-11-28T03:13:23Z",
+  "generated": "2026-11-28T06:02:52Z",
   "bundles": [
     {
       "slug": "boldly-gone",
@@ -1675,106 +1675,6 @@
         1412
       ],
       "group": "neon-grid"
-    },
-    {
-      "slug": "pies-demo-bundle",
-      "name": "Pie's Demo Bundle",
-      "author": "PieOrCake.7635",
-      "description": "A little bit of everything for you to try.",
-      "version": 2,
-      "requires": "1.0.0.1",
-      "preview": "",
-      "kind": "bundle",
-      "size": 672378,
-      "updated": "2026-11-07",
-      "zip": {
-        "tag": "pies-demo-bundle-v2",
-        "size": 673538,
-        "sha256": "53adb0ed13f528028892af4e84a49aac1dd8d27afea3b478a1739216fcd4c913"
-      },
-      "files": [
-        {
-          "name": "NornGirlBikini.png",
-          "size": 619047,
-          "sha256": "3cc346fc1a99105ef047068ceb78bbb321908c423cde8b5c456f5652a9a1d3a1"
-        },
-        {
-          "name": "arc_facet.png",
-          "size": 2836,
-          "sha256": "7f4f499a9667d3db0ff0d599ce76ae2e0d2efbf8cd23e7dfc7fbe2efaa3cb677"
-        },
-        {
-          "name": "arc_glow.png",
-          "size": 4416,
-          "sha256": "12cc24b4f0b294a8faa7be68d14c53c12aba9be23285e47c2916db2732bddf68"
-        },
-        {
-          "name": "arc_track.png",
-          "size": 3041,
-          "sha256": "a1ac791644f22a42ac39fa5a789151e2441927317db5c488f89570e0bc74e207"
-        },
-        {
-          "name": "bundle.json",
-          "size": 182,
-          "sha256": "5ddda0e5c67dc2128978d4403effe5d88f57be22f4d61af44ec720f1db769f49"
-        },
-        {
-          "name": "divider_crosshair.png",
-          "size": 547,
-          "sha256": "9cacbb3b582bbb93baeb2b7e25c2d0af05e0dfca0ad0a6e006a0cd1a8a7f2951"
-        },
-        {
-          "name": "fill_smooth.png",
-          "size": 199,
-          "sha256": "47f50217ab2bcd91a910c7d16a65209c7c588c821c3bea28ba33a09f598cca95"
-        },
-        {
-          "name": "layout.json",
-          "size": 35231,
-          "sha256": "51da198298b282fc0b7dadd881a89db2875161b668d5c8ccdf922b67ff3a0842"
-        },
-        {
-          "name": "overlay_gloss.png",
-          "size": 209,
-          "sha256": "fb20d5d838d852ab5b7c690a12cbea788e95a40fb5f31c379a13d5aaea5bbd06"
-        },
-        {
-          "name": "skins.json",
-          "size": 5472,
-          "sha256": "f3e39d613371a46060132990721d13246398594e6eb1ea3f475d5992dcba1b61"
-        },
-        {
-          "name": "theme.json",
-          "size": 1198,
-          "sha256": "8def70ca46eaaede9de4a26ac509780d5dee6363e192521e12fa8c4e327110c3"
-        }
-      ],
-      "screenshots": [
-        {
-          "name": "1.jpg",
-          "size": 67711,
-          "sha256": "9412ba39fa9c8f566f2ea8e7f8a16f791eda1c0006d4b3b8980f8011c336983b"
-        },
-        {
-          "name": "2.jpg",
-          "size": 52436,
-          "sha256": "4983a43489944f34108d135a158566bda45fa85931070a5e7a3e8fb950660445"
-        },
-        {
-          "name": "3.jpg",
-          "size": 37322,
-          "sha256": "165a9407758f94d15a16a287bd4c6d3a477b18d64c702f6e8aa05e2ceed2b11d"
-        },
-        {
-          "name": "4.jpg",
-          "size": 47662,
-          "sha256": "b7c7b8749ed25a760c7740d660ef876440fd1071395bf9f6d4fa56e389bccc5b"
-        }
-      ],
-      "screen": [
-        3440,
-        1373
-      ]
     },
     {
       "slug": "rainstorms-bundle",
